@@ -117,3 +117,37 @@ La idea de un fondo soberano de inversión estadounidense fue propuesta inicialm
 Trump también ha sugerido que el fondo podría utilizarse para adquirir TikTok, una popular plataforma de redes sociales propiedad de la empresa china ByteDance, que ha enfrentado preocupaciones de seguridad nacional en Estados Unidos. La administración ha dado a TikTok hasta abril para encontrar un comprador estadounidense o enfrentar una prohibición. Trump ha expresado interés en que Estados Unidos tome una participación del 50% en TikTok, potencialmente a través del fondo soberano de riqueza o una asociación con individuos ricos.
 
 La propuesta de utilizar el fondo soberano de riqueza para adquirir TikTok plantea varias preguntas, incluida la forma en que se gestionaría la plataforma y las implicaciones de la propiedad gubernamental en la libertad de expresión y la confianza de los usuarios. La complejidad de la situación se ve agravada por los desafíos legales y operativos de separar TikTok de ByteDance.
+
+## FireAid recauda más de 100 millones de dólares para ayudar a los damnificados de un desastre
+
+El concierto benéfico de FireAid, celebrado el 30 de enero de 2025 en Inglewood (California), recaudó con éxito más de 100 millones de dólares para ayudar a los afectados por los incendios forestales de Los Ángeles. Este evento se organizó en respuesta a los devastadores incendios forestales que destruyeron más de 16.000 viviendas y edificios y se cobraron al menos 29 vidas en el área de Los Ángeles. El concierto contó con actuaciones de más de 30 artistas, entre ellos Billie Eilish, Rod Stewart, Dr. Dre y Joni Mitchell, y contó con la asistencia de más de 50 millones de espectadores en 28 plataformas de streaming.
+
+Los fondos recaudados procedieron de diversas fuentes, como la venta de entradas, los patrocinios, la venta de productos y las donaciones públicas. Cabe destacar que los LA Clippers, liderados por el propietario Steve Ballmer, igualaron todas las promesas realizadas durante la transmisión, lo que contribuyó significativamente a la cantidad total recaudada. Los fondos serán administrados por la Fundación Annenberg para apoyar tanto los esfuerzos de recuperación inmediata como las medidas preventivas a largo plazo en el sur de California.
+
+El concierto de FireAid forma parte de una larga tradición de eventos benéficos con celebridades destinados a abordar las crisis humanitarias. Se espera que los fondos recaudados sigan aumentando, ya que todavía se aceptan donaciones en línea.
+
+## Trump revela un plan para tomar el control de Gaza en medio de crecientes tensiones
+
+El reciente anuncio del presidente Trump de un plan para que Estados Unidos "tome el control" de la Franja de Gaza ha provocado una condena generalizada y preocupación a nivel mundial. La propuesta sugiere reurbanizar Gaza para convertirla en una "Riviera del Medio Oriente" y reubicar a su población palestina en países vecinos. Este plan rompe con décadas de política exterior estadounidense, que tradicionalmente ha apoyado una solución de dos estados para Israel y Palestina.
+
+Las reacciones clave incluyen:
+
+- **Oposición palestina y regional**: los líderes palestinos y Hamás han rechazado firmemente el plan, considerándolo una violación de sus derechos y del derecho internacional. Las naciones árabes, incluidas Arabia Saudita, Egipto y Jordania, también se han opuesto a la idea, enfatizando la necesidad de un estado palestino y rechazando cualquier desplazamiento forzado de palestinos.
+
+- **Crítica internacional**: Países europeos como Francia y el Reino Unido han expresado su preocupación, reiterando su apoyo a una solución de dos Estados y advirtiendo que el desplazamiento forzado violaría el derecho internacional. Las Naciones Unidas también han destacado la ilegalidad de tales acciones según el derecho internacional.
+
+- **Respuesta mixta del gobierno israelí**: Si bien algunos políticos israelíes de extrema derecha apoyan la idea, considerándola una solución al problema de Gaza, otros, incluidos ex funcionarios, dudan de su viabilidad y realismo.
+
+- **Reacción política de EE. UU.**: La propuesta ha generado escepticismo entre los legisladores estadounidenses de todo el espectro político, con preocupaciones sobre su viabilidad y potencial para desestabilizar aún más la región.
+
+En general, el plan de Trump ha encontrado una resistencia y un escepticismo significativos, y muchos lo consideran poco realista y potencialmente desestabilizador para el ya frágil proceso de paz en Oriente Medio.
+
+## Protestas estallan en Estados Unidos contra Trump, Musk y el Proyecto 2025
+
+En todo Estados Unidos estallaron protestas en respuesta a las medidas adoptadas por el presidente Donald Trump y Elon Musk, en particular en relación con el Proyecto 2025. Esta iniciativa se considera un manual de estrategia de extrema derecha para la gobernanza y la sociedad estadounidenses. Las protestas, organizadas bajo hashtags como #buildtheresistance y #50501, tienen como objetivo movilizar manifestaciones en los 50 estados. Entre los temas clave que impulsan las protestas se incluyen el desmantelamiento de la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID) y las implicaciones más amplias del Proyecto 2025, que muchos ven como una amenaza a la democracia y una aceptación del fascismo.
+
+Además de las protestas, existe una gran controversia en torno a las políticas de Trump, como su orden ejecutiva que prohíbe a las atletas transgénero participar en deportes femeninos y su propuesta de negar visas a las atletas transgénero para los Juegos Olímpicos de 2028. Además, la administración de Trump está presionando a los empleados federales para que renuncien, lo que podría llevar a la reducción y reestructuración de las agencias federales.
+
+La participación de Elon Musk en los esfuerzos de eficiencia gubernamental, en particular a través del Departamento de Eficiencia Gubernamental (DOGE), también ha suscitado preocupación. Las iniciativas de Musk incluyen la revisión de los sistemas Medicare y Medicaid en busca de oportunidades de reducción de costos, lo que ha hecho sonar las alarmas sobre los posibles impactos en los servicios de atención médica.
+
+Las protestas y los cambios de política han provocado una protesta pública generalizada, y muchos estadounidenses han expresado su oposición a través de manifestaciones e intentos de comunicarse con sus representantes. La situación sigue siendo tensa mientras la nación lidia con estos importantes cambios políticos y sociales.
