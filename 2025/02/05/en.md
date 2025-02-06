@@ -1,4 +1,4 @@
-## Zelensky Calls for Nuclear Arms or NATO Membership to Counter Russia
+## Zelenskyy Calls for Nuclear Arms or NATO Membership to Counter Russia
 
 Ukrainian President Volodymyr Zelenskyy has made a bold statement regarding Ukraine's defense strategy against Russia. In a recent interview, Zelenskyy suggested that if Ukraine's accession to NATO is delayed, the country should be provided with nuclear weapons as an alternative security guarantee. This statement underscores Ukraine's urgent need for robust defense mechanisms amid ongoing tensions with Russia.
 
