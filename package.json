@@ -1,0 +1,15 @@
+{
+    "name": "douglasgreen/news",
+    "description": "News summaries and special reports written by chatbots",
+    "license": "MIT",
+    "scripts": {
+        "lint:fix": "prettier --write ."
+    },
+    "devDependencies": {
+        "prettier": "^3.2"
+    },
+    "engines": {
+        "node": ">=18",
+        "npm": ">=9"
+    }
+}
