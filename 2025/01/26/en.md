@@ -329,4 +329,3 @@ Colombia has historically been a significant ally of the U.S. in Latin America, 
 a bold escalation in diplomatic tensions. The situation reflects broader challenges as countries
 worldwide prepare for the mass deportations promised by the Trump administration. The agreement with
 Colombia is seen as a resolution to the first major diplomatic clash triggered by these efforts.
-

@@ -1,15 +1,46 @@
 ## Nova Vakcino Proponas Esperon en Preventado de Reno-Kancero-Reviviĝo
 
-Nova personigita vakcino montras promeson malhelpi la ripetiĝon de progresinta rena kancero. Esploristoj ĉe la Dana-Farber Cancer Institute faris malgrandan teston implikantan naŭ pacientojn kun stadio III aŭ IV klara ĉela rena ĉela karcinomo, ofta formo de rena kancero. Post kirurgio por forigi siajn tumorojn, ĉi tiuj pacientoj ricevis personigitan kancervakcinon dizajnitan por trejni siajn imunsistemojn por rekoni kaj ataki iujn ajn ceterajn kancerajn ĉelojn. Rimarkinde, ĉiuj pacientoj restis senkancero dum pli ol tri jaroj post la terapio.
+Nova personigita vakcino montras promeson malhelpi la ripetiĝon de progresinta rena kancero.
+Esploristoj ĉe la Dana-Farber Cancer Institute faris malgrandan teston implikantan naŭ pacientojn
+kun stadio III aŭ IV klara ĉela rena ĉela karcinomo, ofta formo de rena kancero. Post kirurgio por
+forigi siajn tumorojn, ĉi tiuj pacientoj ricevis personigitan kancervakcinon dizajnitan por trejni
+siajn imunsistemojn por rekoni kaj ataki iujn ajn ceterajn kancerajn ĉelojn. Rimarkinde, ĉiuj
+pacientoj restis senkancero dum pli ol tri jaroj post la terapio.
 
-La vakcino funkcias celante specifajn proteinojn, konataj kiel neoantigenoj, trovitaj nur en la kanceraj ĉeloj de ĉiu paciento. Uzante algoritmon por identigi ĉi tiujn unikajn proteinojn, la esploristoj povis krei vakcinon adaptitan al la kancero de ĉiu individuo. Ĉi tiu aliro antaŭe montris sukceson en traktado de melanomo, kancero kun multaj mutacioj. La testo pruvis, ke eĉ en rena kancero, kiu havas malpli da mutacioj, la vakcino povus efike stimuli la imunsistemon por batali kontraŭ la malsano.
+La vakcino funkcias celante specifajn proteinojn, konataj kiel neoantigenoj, trovitaj nur en la
+kanceraj ĉeloj de ĉiu paciento. Uzante algoritmon por identigi ĉi tiujn unikajn proteinojn, la
+esploristoj povis krei vakcinon adaptitan al la kancero de ĉiu individuo. Ĉi tiu aliro antaŭe
+montris sukceson en traktado de melanomo, kancero kun multaj mutacioj. La testo pruvis, ke eĉ en
+rena kancero, kiu havas malpli da mutacioj, la vakcino povus efike stimuli la imunsistemon por
+batali kontraŭ la malsano.
 
-Dum la provaj rezultoj estas promesplenaj, la esploristoj emfazas la bezonon de pli grandaj studoj por konfirmi la efikecon de la vakcino. La sukceso de la studo pavimis la vojon al fazo II-provo, kiu esploros la potencialon de la vakcino en kombinaĵo kun aliaj terapioj. Se sukcesos, ĉi tiu personigita vakcino povus fariĝi esenca ilo por redukti la riskon de rena kancero ripetiĝo, proponante novan esperon al pacientoj alfrontantaj ĉi tiun malfacilan malsanon.
+Dum la provaj rezultoj estas promesplenaj, la esploristoj emfazas la bezonon de pli grandaj studoj
+por konfirmi la efikecon de la vakcino. La sukceso de la studo pavimis la vojon al fazo II-provo,
+kiu esploros la potencialon de la vakcino en kombinaĵo kun aliaj terapioj. Se sukcesos, ĉi tiu
+personigita vakcino povus fariĝi esenca ilo por redukti la riskon de rena kancero ripetiĝo,
+proponante novan esperon al pacientoj alfrontantaj ĉi tiun malfacilan malsanon.
 
 ## Trump Subskribas Ordonon Imponantan Sankciojn al Internacia Puna Kortumo
 
-En aŭdaca movo, prezidanto Donald Trump subskribis plenuman ordon trudantan sankciojn al la Internacia Kriminala Kortumo (ICC). Tiu ĉi decido venis post kiam la ICC emisiis arestordonojn por israela ĉefministro Benjamin Netanyahu kaj lia iama defendministro, akuzante ilin je militkrimoj en Gazao. Usono, kiu ne estas membro de la ICC, kritikis la tribunalon pro tio, kion ĝi nomis "nelegitimaj kaj senbazaj agoj" kontraŭ siaj aliancanoj. La sankcioj inkluzivas financajn kaj vizajn limigojn al ICC-oficialuloj kaj iliaj familioj, celante malhelpi enketojn pri usonaj civitanoj kaj aliancanoj.
+En aŭdaca movo, prezidanto Donald Trump subskribis plenuman ordon trudantan sankciojn al la
+Internacia Kriminala Kortumo (ICC). Tiu ĉi decido venis post kiam la ICC emisiis arestordonojn por
+israela ĉefministro Benjamin Netanyahu kaj lia iama defendministro, akuzante ilin je militkrimoj en
+Gazao. Usono, kiu ne estas membro de la ICC, kritikis la tribunalon pro tio, kion ĝi nomis
+"nelegitimaj kaj senbazaj agoj" kontraŭ siaj aliancanoj. La sankcioj inkluzivas financajn kaj vizajn
+limigojn al ICC-oficialuloj kaj iliaj familioj, celante malhelpi enketojn pri usonaj civitanoj kaj
+aliancanoj.
 
-La ICC, bazita en Hago, Nederlando, estas tutmonda tribunalo kun la aŭtoritato procesigi individuojn pro genocido, krimoj kontraŭ la homaro, kaj militkrimoj. Malgraŭ ke Usono kaj Israelo ne estas membroj, la tribunalo traktis kazojn implikantajn iliajn ŝtatanojn, kondukante al streĉitecoj. La ICC kondamnis la ordon de Trump, deklarante ke ĝi subfosas ĝian sendependan kaj senpartian juĝan laboron. La tribunalo promesis daŭrigi sian mision provizi justecon al viktimoj de abomenaĵoj tutmonde, malgraŭ la defioj prezentitaj de la sankcioj.
+La ICC, bazita en Hago, Nederlando, estas tutmonda tribunalo kun la aŭtoritato procesigi individuojn
+pro genocido, krimoj kontraŭ la homaro, kaj militkrimoj. Malgraŭ ke Usono kaj Israelo ne estas
+membroj, la tribunalo traktis kazojn implikantajn iliajn ŝtatanojn, kondukante al streĉitecoj. La
+ICC kondamnis la ordon de Trump, deklarante ke ĝi subfosas ĝian sendependan kaj senpartian juĝan
+laboron. La tribunalo promesis daŭrigi sian mision provizi justecon al viktimoj de abomenaĵoj
+tutmonde, malgraŭ la defioj prezentitaj de la sankcioj.
 
-Reagoj al la ordo de Trump estis miksitaj. Kelkaj homaj-rajtoj-organizoj esprimis zorgon ke la sankcioj povus malhelpi la kapablon de la ICC respondecigi krimintojn de gravaj krimoj. Ili argumentis ke la movo eble malinstigos kunlaboron kun la tribunalo kaj malhelpos justecon por viktimoj. Aliflanke, subtenantoj de la ordo, inkluzive de kelkaj usonaj leĝdonantoj, laŭdis ĝin kiel necesan paŝon por protekti nacian suverenecon kaj malhelpi tion, kion ili rigardas kiel troatingon de internacia korpo. La situacio elstarigas la daŭran debaton pri la rolo kaj jurisdikcio de internaciaj tribunaloj en tutmonda justeco.
+Reagoj al la ordo de Trump estis miksitaj. Kelkaj homaj-rajtoj-organizoj esprimis zorgon ke la
+sankcioj povus malhelpi la kapablon de la ICC respondecigi krimintojn de gravaj krimoj. Ili
+argumentis ke la movo eble malinstigos kunlaboron kun la tribunalo kaj malhelpos justecon por
+viktimoj. Aliflanke, subtenantoj de la ordo, inkluzive de kelkaj usonaj leĝdonantoj, laŭdis ĝin kiel
+necesan paŝon por protekti nacian suverenecon kaj malhelpi tion, kion ili rigardas kiel troatingon
+de internacia korpo. La situacio elstarigas la daŭran debaton pri la rolo kaj jurisdikcio de
+internaciaj tribunaloj en tutmonda justeco.

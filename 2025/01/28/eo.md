@@ -520,4 +520,3 @@ por malkovri la sortojn de miloj da malaperintaj arestitoj. La raporto de la kom
 14 jaroj da esploroj, dokumentas la brutalajn metodojn de torturo uzataj de la antaŭa registaro. Por
 multaj sirianoj, ĉi tiuj trovoj povas proponi la plej bonan esperon malkovri la veron pri
 malaperintaj parencoj.
-

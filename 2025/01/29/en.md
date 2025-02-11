@@ -378,4 +378,3 @@ Key points about Ahmed al-Sharaa's appointment include:
 
 This transitional period is seen as a critical opportunity for Syria to move towards stability and
 reconstruction after a prolonged and devastating civil war.
-

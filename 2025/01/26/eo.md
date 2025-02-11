@@ -324,4 +324,3 @@ Kolombio historie estis signifa aliancano de Usono en Latin-Ameriko, kaj ĉi tiu
 eskaladon en diplomatiaj streĉitecoj. La situacio reflektas pli larĝajn defiojn dum landoj tutmonde
 prepariĝas por la amasaj deportadoj promesitaj de la Trump-administrado. La interkonsento kun
 Kolombio estas vidita kiel rezolucio al la unua grava diplomatia kolizio ekigita de tiuj klopodoj.
-

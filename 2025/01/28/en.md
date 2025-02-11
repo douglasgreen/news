@@ -526,4 +526,3 @@ evidence to uncover the fates of thousands of missing detainees. The commission'
 14 years of investigations, documents the brutal methods of torture used by the former government.
 For many Syrians, these findings may offer the best hope of uncovering the truth about missing
 relatives.
-

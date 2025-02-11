@@ -129,4 +129,3 @@ La propono de Trump pri batalhalto en Ukrainio alfrontas signifajn defiojn kaj s
 de detala plano, kombinita kun la komplekseco de internacia diplomatio kaj sekurecaj garantioj,
 faras la perspektivon de rapida rezolucio necerta. Kaj Ukrainio kaj ĝiaj aliancanoj restas singardaj
 pri la eblaj rezultoj de la aliro de Trump.
-

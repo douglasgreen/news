@@ -11,7 +11,6 @@ pli oftaj arbarofajroj.
   absorbante pli da karbondioksido (CO₂) ol ĝi elsendis. Tamen, lastatempaj ŝanĝoj kondukis al 40%
   de la regiono nun elsendante pli da CO₂ ol ĝi absorbas.
 - **Faktoroj Kontribuantaj al la Ŝanĝo**:
-
 - **Permafrost Degelo**: Dum permafrost degeliĝas, ĝi liberigas stokitan karbonon, kontribuante al
   pliigitaj CO₂-emisioj.
 - **Sovaĝaj fajroj**: La ofteco kaj intenseco de sovaĝaj fajroj pliiĝis, plue liberigante karbonon

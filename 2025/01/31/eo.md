@@ -259,4 +259,3 @@ tectonics preserves its ancient surface, making it an ideal site for studying pl
 This study not only enhances our understanding of Mars' climatic history but also provides a
 framework for exploring how planets can evolve over time, potentially offering clues about the
 habitability of other planets in the universe.
-

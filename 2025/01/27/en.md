@@ -130,4 +130,3 @@ Trump's proposal for a ceasefire in Ukraine faces significant challenges and ske
 a detailed plan, combined with the complexities of international diplomacy and security guarantees,
 makes the prospect of a quick resolution uncertain. Both Ukraine and its allies remain cautious
 about the potential outcomes of Trump's approach.
-

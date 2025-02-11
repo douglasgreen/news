@@ -194,3 +194,125 @@ programo estas arbitra kaj povus kaŭzi signifajn interrompojn en registaraj fun
 la tribunalo paŭzi la limdaton permesas aŭdi pliajn laŭleĝajn argumentojn, kaj nova aŭdienco estas
 planita por lundo. Dume, federaciaj dungitoj estas lasitaj en stato de necerteco dum ili atendas la
 rezulton de la juraj procedoj.
+
+## Prezidanto Trump formas specialtrupon por batali kontraŭ-kristanan biason
+
+Prezidanto Donald Trump anoncis la kreadon de nova specialtrupo celanta trakti tion, kion li
+priskribas kiel "kontraŭ-kristanan antaŭjuĝon" ene de la federacia registaro. Ĉi tiu anonco estis
+farita dum la Nacia Preĝa Matenmanĝo en Vaŝingtono, signifa okazaĵo kiu kolektas religiajn
+gvidantojn kaj registarajn oficialulojn. Trump emfazis, ke la misio de la specialtrupo estas forigi
+ajnan formon de diskriminacio kontraŭ kristanoj en diversaj registaraj agentejoj, inkluzive de la
+Justicministerio kaj la Interna Enspeza Servo. Li nomumis ĝeneralan prokuroron Pam Bondi por gvidi
+tiun iniciaton, elstarigante ŝian rolon en procesigado de kontraŭ-kristana perforto kaj defendado de
+religiaj rajtoj tutlande.
+
+La anonco estigis miksaĵon de reagoj tra la lando. Subtenantoj de la specialtrupo argumentas ke
+estas necesa paŝo protekti religian liberecon kaj certigi ke kristanoj ne estu maljuste celitaj de
+registaraj politikoj. Ili kredas ke la specialtrupo helpos restarigi ekvilibron kaj malhelpi ajnan
+formon de biaso kontraŭ kristanaj komunumoj. Tamen, kritikistoj esprimis zorgojn ĉirkaŭ la implicoj
+de tia specialtrupo, pridubante ĉu ĝi eble malklarigos la liniojn inter eklezio kaj ŝtato. Laŭleĝaj
+ekspertoj indikis eblajn konstituciajn temojn, precipe koncerne la apartigon de preĝejo kaj ŝtato
+kiel skizite en la Unua Amendo.
+
+Malgraŭ la diskutado, prezidanto Trump restas firma en sia engaĝiĝo al la specialtrupo, deklarante
+ke ĝi estas esenca por konservi religian liberecon en Usono. Li alvokis usonanojn "reporti Dion" en
+iliajn vivojn kaj emfazis la gravecon de fido en konservado de libera lando. Ĉar la specialtrupo
+komencas sian laboron, ĝi estos proksime monitorita fare de diversaj organizoj kaj juraj ekspertoj
+por certigi, ke ĝi funkcias ene de la limoj de la Konstitucio traktante la zorgojn kiujn ĝi estis
+kreita por trakti.
+
+## Guglo Finas Diversecon Dungado-Celojn
+
+En surpriza movo, Guglo decidis fini siajn dungajn celojn de diverseco, egaleco kaj inkludo (DEI).
+Ĉi tiu decido venas post ĉiujara revizio de ĝiaj kompaniaj politikoj. Google, iam forta defendanto
+de diverseco, nun aliĝas al aliaj gravaj kompanioj kiel Meta kaj Amazon por redukti ĉi tiujn
+iniciatojn. La ŝanĝo estas parte pro politika premo de la Trump-administrado, kiu estis kritika de
+DEI-politikoj kaj ordonis al registaraj agentejoj forigi tiajn programojn.
+
+La decido de Google markas signifan ŝanĝon de ĝiaj antaŭaj devontigoj. Post la murdo de George Floyd
+en 2020, Google fiksis ambiciajn celojn pliigi la reprezentadon de subreprezentitaj grupoj en gvidaj
+pozicioj je 30% dum kvin jaroj. La firmao raportis progreson en tiu areo, kun nigra gvida
+reprezentantaro preskaŭ duobliĝanta kaj pliiĝoj en ina kaj latinamerikana reprezentantaro. Malgraŭ
+ĉi tiuj atingoj, Google nun forigis referencojn al DEI-celoj de sia plej nova investraporto,
+reflektante pli larĝan tendencon inter usonaj kompanioj por retaksi iliajn diversecajn strategiojn.
+
+La movo estigis debaton pri la estonteco de diversecaj iniciatoj en kompania Ameriko. Dum iuj
+kompanioj retiriĝas de DEI-devontigoj, aliaj kiel Apple rezistas la premon fari tion. Kritikistoj
+argumentas ke forlasi ĉi tiujn celojn povus malhelpi progreson al pli inkluziva laborejo. Tamen,
+Guglo subtenas, ke ĝi ankoraŭ kompromitas krei egalajn ŝancojn por ĉiuj dungitoj, eĉ kiam ĝi
+adaptiĝas al lastatempaj tribunalaj decidoj kaj federaciaj ordonoj. La decido elstarigas la
+kompleksan kaj evoluantan pejzaĝon de diversecaj klopodoj en la komerca mondo.
+
+## Rapida Respondo de Hugging Face: Klonado de Profunda Esplorado de OpenAI en Tago
+
+En rimarkinda atingo de novigado, Hugging Face sukcesis reprodukti la Deep Research-ilon de OpenAI
+en nur 24 horoj. Ĉi tiu malfermfonta projekto, nomita Open Deep Research, estis evoluigita kiel
+defio por egali la kapablojn de la proprieta sistemo de OpenAI. Profunda Esplorado de OpenAI estas
+konata pro sia kapablo aŭtonome foliumi la retejon kaj kompili esplorajn raportojn, trajto kiu estis
+tre atendita en la AI-komunumo. La versio de Hugging Face celas disponigi similajn funkciojn estante
+libere alirebla por programistoj tutmonde. Ĉi tiu rapida evoluo elstarigas la potencialon de
+malfermfonta kunlaboro en progresado de AI-teknologioj.
+
+La kreado de Open Deep Research implikis integri agentkadron kun ekzistantaj AI-modeloj, permesante
+al la sistemo plenumi kompleksajn, plurpaŝajn taskojn. Ĉi tiu kadro ebligas al la AI kolekti kaj
+sintezi informojn de diversaj fontoj, kapablo kiu estas decida por respondi malsimplajn demandojn.
+Malgraŭ esti disvolvita en tiel mallonga tempo, Open Deep Research jam atingis impresajn
+referencrezultojn, gajnante 55.15% precizecon sur la GAIA-komparnormo. Ĉi tiu poentaro estas
+proksima al Profunda Esplorado de OpenAI, kiu atingis 67.36% precizecon. La sukceso de ĉi tiu
+projekto pruvas la potencon de malfermfontaj iloj en rapide progresantaj AI-kapabloj.
+
+La iniciato de Hugging Face ne nur montras la rapidecon kaj efikecon de malfermfonta evoluo sed
+ankaŭ emfazas la gravecon de alirebleco en AI-esplorado. Disponigante ilian kodon publike, Hugging
+Face instigas kunlaboron kaj novigon ene de la AI-komunumo. Ĉi tiu projekto funkcias kiel atesto pri
+la potencialo de malfermfonta AI por demokratiigi aliron al progresintaj teknologioj, permesante al
+esploristoj kaj programistoj konstrui sur ekzistanta laboro kaj kontribui al la kresko de la kampo.
+Ĉar Hugging Face daŭre plibonigas Open Deep Research, la projekto estas atendita inspiri pliajn
+progresojn kaj kunlaborojn en la AI-pejzaĝo.
+
+## Alexa's Big Brain Boost: Nova Erao por Smart Homes
+
+Alexa de Amazon estas ricevonta gravan ĝisdatigon, igante ĝin pli inteligenta kaj pli helpema ol iam
+ajn antaŭe. Ĉi tiu ŝanĝo okazos poste ĉi-monate, kaj ĝi promesas transformi kiel ni interagas kun
+teknologio hejme. La nova versio de Alexa uzos altnivelan artefaritan inteligentecon, permesante al
+ĝi kompreni kaj respondi al pli kompleksaj petoj. Ĉi tio signifas, ke Alexa ne nur aŭskultos kaj
+parolos, sed ankaŭ pensos kaj agos pli kiel homa asistanto. Kun ĉi tiu ĝisdatigo, Alexa povos trakti
+plurajn taskojn samtempe kaj okupiĝi pri pli naturaj konversacioj, igante ĝin pli intuicia kaj efika
+helpanto en niaj ĉiutagaj vivoj.
+
+La venonta ĝisdatigo estas signifa paŝo por Amazon, ĉar ĝi celas daŭrigi kun aliaj teknologiaj
+gigantoj kiel Google kaj OpenAI, kiuj ankaŭ disvolvas sofistikajn AI-asistantojn. Nuntempe, Alexa
+povas nur prilabori unu komandon samtempe, sed la nova versio povos kompreni kaj efektivigi serion
+da komandoj sen bezoni konstantajn instigojn. Ekzemple, vi povus peti Alexa komenci tempigilon,
+trovi recepton kaj ludi muzikon per unu fojo. Ĉi tiu kapablo trakti plurajn taskojn perfekte faros
+Alexa pli potenca ilo por administri hejmajn agadojn.
+
+Amazon ankaŭ pripensas enkonduki abonmodelon por la novaj Alexa funkcioj, eble ŝargante uzantojn
+inter $5 kaj $10 monate. Ĉi tiu movo povus helpi Amazon moneti Alexa, kiu estis vaste uzata sed
+ankoraŭ ne profita. La kompanio esperas, ke la plibonigitaj kapabloj de la nova Alexa altiros
+uzantojn pretajn pagi por pli altnivela sperto. Tamen, la klasika versio de Alexa restos disponebla
+senpage, certigante ke ĉiuj uzantoj povas daŭre ĝui bazajn funkciojn sen aldonaj kostoj. Ĉi tiu
+strategia ĝisdatigo reflektas la engaĝiĝon de Amazon al novigo kaj ĝian deziron gvidi la
+inteligentan hejman merkaton.
+
+## La Kosma Malkovro: Giganta Radio-Jeto el la Frua Universo
+
+En pionira malkovro, astronomoj detektis la plej grandan radiojeton iam observitan en la frua
+universo. Tiu masiva jeto, etendanta pli ol 200,000 lumjarojn, estis trovita eliranta el kvazaro
+nomita J1601+3102. Kvazaroj estas nekredeble helaj galaksiaj kernoj funkciigitaj de supermasaj
+nigraj truoj. Malgraŭ ke la nigra truo de la kvazaro estas relative malgranda, kun maso 450 milionoj
+da fojoj tiu de nia suno, ĝi produktas eksterordinare potencan jeton. Ĉi tiu trovo defias antaŭajn
+supozojn, ke nur ekstreme masivaj nigraj truoj povus generi tiajn jetojn en la frua universo.
+
+La eltrovaĵo fariĝis ebla per la kombinitaj klopodoj de pluraj teleskopoj, inkluzive de la Low
+Frequency Array (LOFAR) kaj la Gemini Near-Infrared Spectrograph (GNIRS). Tiuj instrumentoj permesis
+al sciencistoj observi la kvazaron kaj ĝian jeton trans malsamaj ondolongoj, disponigante ampleksan
+vidon de tiu kosma fenomeno. La grandega grandeco de la radiojeto, duoble la larĝo de nia Lakta
+Vojo-galaksio, elstarigas la potencialon de plur-ondolongaj observoj malkovri detalojn pri la fruaj
+stadioj de la universo. Ĉi tiu malkovro ne nur lumigas la formadon de la unuaj grandskalaj jetoj sed
+ankaŭ ofertas sciojn pri la evoluo de galaksioj.
+
+La trovoj vekis eksciton en la scienca komunumo, ĉar ili malfermas novajn vojojn por kompreni la
+fruan universon. Esploristoj deziras esplori kiel tiaj potencaj jetoj efikas sur la galaksiojn,
+kiujn ili loĝas, kaj kiaj kondiĉoj estas necesaj por ilia formado. La studo de J1601+3102 kaj ĝia
+radiojeto estas atesto pri la potenco de kunlabora astronomia esplorado, montrante kiel progresinta
+teknologio povas helpi nin rigardi reen en la tempo por malkovri la misterojn de la kosmo.

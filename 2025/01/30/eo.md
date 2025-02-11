@@ -252,4 +252,3 @@ coinciding with France's new strategy to reduce its permanent military presence 
 Both Melania Trump and Usha Vance represent significant cultural and historical milestones in the
 U.S., with Melania being a naturalized citizen and former model from Slovenia, and Usha being the
 first Indian American Second Lady.
-
