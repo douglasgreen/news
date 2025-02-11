@@ -97,4 +97,3 @@ indicated his intent and inspiration from ISIS.
 The attack has drawn national attention, with President Biden and other officials condemning the
 violence and offering support to the victims and their families. The Sugar Bowl, a major college
 football event scheduled nearby, was postponed due to security concerns.
-

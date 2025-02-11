@@ -83,4 +83,3 @@ wife, Aubrey Plaza, and his family, including his mother, father, and siblings.
 Baena's untimely death is a reminder of the importance of mental health awareness and the need for
 support systems for those in distress. If you or someone you know is struggling, resources like the
 988 Suicide & Crisis Lifeline are available for support.
-

@@ -132,4 +132,3 @@ La pliiĝo en tutmondaj perdoj pro naturkatastrofoj en 2024 emfazas la urĝan be
 adaptiĝi al la ŝanĝiĝanta klimato. La datumoj sugestas, ke klimata ŝanĝo intensigas veterajn
 eventojn, kondukante al pli altaj ekonomiaj kaj homaj kostoj. Tial, estas premanta bezono por
 plibonigita rezisteco kaj prepariĝo por mildigi la efikon de estontaj katastrofoj.
-

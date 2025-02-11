@@ -994,4 +994,3 @@ malsanoj, kiel multoblaj sklerozoj kaj amiotrofia laterala sklerozio.
 Resume, la studo emfazas xenonan gason kiel promesplenan kandidaton por la traktado de Alzheimer,
 proponante novan aliron celante la imunan respondon de la cerbo kaj reduktante inflamon. La
 daŭrantaj klinikaj provoj estos decidaj por determini ĝian efikecon kaj sekurecon en homoj.
-

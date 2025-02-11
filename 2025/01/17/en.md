@@ -526,4 +526,3 @@ Key aspects of this approach include:
 The research, led by Sidi Chen and his team at Yale, represents a significant advancement in cancer
 treatment, potentially offering more effective options for patients who do not respond to current
 therapies. The findings were published in Nature Biotechnology on January 16, 2025.
-

@@ -17,4 +17,3 @@ La truado estis farita dum kvar jaroj en ekstremaj kondiĉoj, kun temperaturoj a
 minus-25.6°F. La glacia kerno estos transportita al Eŭropo por plua analizo, kie sciencistoj esperas
 malkovri eĉ pli malnovajn klimatajn registrojn. Ĉi tiu esplorado estas grava por kompreni pasintajn
 klimatajn ŝanĝojn kaj la longtempajn efikojn de homaj aktivecoj sur la medio.
-

@@ -34,4 +34,3 @@ In summary, the prolonged presidential election in Lebanon was due to a combinat
 political deadlock, external influences, and the significant role of Hezbollah. The election of
 Joseph Aoun marks a potential turning point, but the country still faces significant challenges that
 require effective governance and international cooperation.
-

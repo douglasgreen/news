@@ -17,4 +17,3 @@ The drilling was conducted over four years in extreme conditions, with temperatu
 minus-25.6°F. The ice core will be transported to Europe for further analysis, where scientists hope
 to uncover even older climate records. This research is crucial for understanding past climate
 shifts and the long-term impacts of human activities on the environment.
-

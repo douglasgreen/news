@@ -129,13 +129,11 @@ studies of exoplanetary weather patterns.
 
 ## Immunotherapy Shows Promise in Treating Melanoma and Breast Cancer
 
-### Summary of New Immunotherapy for Melanoma and Breast Cancer
-
 Recent advancements in immunotherapy have shown significant promise in treating melanoma and breast
 cancer, particularly in challenging cases like advanced melanoma and triple-negative breast cancer
 (TNBC).
 
-#### Key Points
+### Key Points
 
 - **Melanoma Treatment**: Immunotherapy, especially with immune checkpoint inhibitors like nivolumab
   and ipilimumab, has dramatically improved long-term survival rates in patients with advanced
@@ -304,4 +302,3 @@ The battle for Velyka Novosilka is part of a larger military engagement that beg
 involving both Russian and Ukrainian forces. The conflict has seen various territorial changes, with
 Russia capturing several villages in the Donetsk and Zaporizhzhia regions. The situation remains
 fluid, with both sides experiencing significant casualties and displacement of civilians.
-

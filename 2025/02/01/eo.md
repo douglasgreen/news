@@ -690,26 +690,46 @@ likvaj statoj, ŝlosila faktoro por la evoluo de vivo.
 
 2025-01-28
 
-Helion Energy, privata kunfandenergia kompanio, ambicie celas havi funkciantan fuzion reaktoro ĝis 2028. Jen resumo de ilia aliro kaj progreso:
+Helion Energy, privata kunfandenergia kompanio, ambicie celas havi funkciantan fuzion reaktoro
+ĝis 2028. Jen resumo de ilia aliro kaj progreso:
 
 ### Ŝlosila Aliro
 
-- **Noviga Metodo**: Male al tradiciaj fuziaj reaktoroj kiuj uzas vaporturbinojn, Helion's aliro implikas rekte konverti fuzian energion en elektron. Ĉi tio estas atingita per uzado de a plasmoakcelilo kiu implikas plurajn stadiojn: formado, akcelo, kunpremado, fuzio, kaj rekapto de elektro.
-- **Fuelo kaj Procezo**: Heliono uzas deŭterion kaj heliumon-3 kiel brulaĵon. La procezo implikas hejtado tiuj elementoj por formi plasmon, kiu tiam estas limigita kaj akcelita uzante magnetojn. La plasmo estas kunpremite por atingi fuziotemperaturojn de 100 milionoj °C, permesante al la jonoj kunfandi kaj liberigi energio.
-- **Electricity Generation**: La ekspansio de plasmo puŝas kontraŭ la magneta kampo, induktante a fluo kiu estas rekte rekaptita kiel elektro, preterirante la bezonon de vaporciklo. Ĉi tio metodo estas eble pli efika kaj pli simpla ol tradiciaj metodoj.
+- **Noviga Metodo**: Male al tradiciaj fuziaj reaktoroj kiuj uzas vaporturbinojn, Helion's aliro
+  implikas rekte konverti fuzian energion en elektron. Ĉi tio estas atingita per uzado de a
+  plasmoakcelilo kiu implikas plurajn stadiojn: formado, akcelo, kunpremado, fuzio, kaj rekapto de
+  elektro.
+- **Fuelo kaj Procezo**: Heliono uzas deŭterion kaj heliumon-3 kiel brulaĵon. La procezo implikas
+  hejtado tiuj elementoj por formi plasmon, kiu tiam estas limigita kaj akcelita uzante magnetojn.
+  La plasmo estas kunpremite por atingi fuziotemperaturojn de 100 milionoj °C, permesante al la
+  jonoj kunfandi kaj liberigi energio.
+- **Electricity Generation**: La ekspansio de plasmo puŝas kontraŭ la magneta kampo, induktante a
+  fluo kiu estas rekte rekaptita kiel elektro, preterirante la bezonon de vaporciklo. Ĉi tio metodo
+  estas eble pli efika kaj pli simpla ol tradiciaj metodoj.
 
 ### Progreso kaj Defioj
 
-- **Fanco kaj Subteno**: Helion akiris pli ol $ 1 miliardo, kun grava subteno de investantoj kiel Sam Altman kaj Peter Thiel. Ĉi tiu financado subtenas ilian celon de liverado senkarbona elektro sen la malavantaĝoj de tradicia nuklea energio.
-- **Prototipa Disvolviĝo**: Helion progresis tra multoblaj dezajnoj, kun ilia sepa prototipo, Polaris, atendita pruvi elektroproduktadon antaŭ 2024. Ili ankaŭ havas anoncis interkonsenton kun Mikrosofto por liveri 50 Mw da fuzia potenco antaŭ 2028.
-- **Inĝenieraj Defioj**: Malgraŭ atingi rapidajn pulsajn indicojn necesajn por fuzio sur malgranda skalo, Helion alfrontas signifajn inĝenierajn defiojn por pligrandigi la procezon. La kompanio estas laborante pri venkado de ĉi tiuj obstakloj por atingi komercan daŭrigeblecon.
+- **Fanco kaj Subteno**: Helion akiris pli ol $ 1 miliardo, kun grava subteno de investantoj kiel
+  Sam Altman kaj Peter Thiel. Ĉi tiu financado subtenas ilian celon de liverado senkarbona elektro
+  sen la malavantaĝoj de tradicia nuklea energio.
+- **Prototipa Disvolviĝo**: Helion progresis tra multoblaj dezajnoj, kun ilia sepa prototipo,
+  Polaris, atendita pruvi elektroproduktadon antaŭ 2024. Ili ankaŭ havas anoncis interkonsenton kun
+  Mikrosofto por liveri 50 Mw da fuzia potenco antaŭ 2028.
+- **Inĝenieraj Defioj**: Malgraŭ atingi rapidajn pulsajn indicojn necesajn por fuzio sur malgranda
+  skalo, Helion alfrontas signifajn inĝenierajn defiojn por pligrandigi la procezon. La kompanio
+  estas laborante pri venkado de ĉi tiuj obstakloj por atingi komercan daŭrigeblecon.
 
 ### Estontaj Perspektivoj
 
-- **Komercaj Interkonsentoj**: Helion certigis interkonsentojn por provizi kunfandan potencon al majoro kompanioj kiel Mikrosofto, indikante fidon je ilia teknologio kaj ĝia ebla efiko sur la energimerkato.
-- **Loko kaj Vastiĝo**: La firmao pripensas plurajn lokojn en Vaŝingtono por ilia elektrocentralo kaj planas vastigi sian laborantaron por renkonti iliajn ambiciajn celojn.
+- **Komercaj Interkonsentoj**: Helion certigis interkonsentojn por provizi kunfandan potencon al
+  majoro kompanioj kiel Mikrosofto, indikante fidon je ilia teknologio kaj ĝia ebla efiko sur la
+  energimerkato.
+- **Loko kaj Vastiĝo**: La firmao pripensas plurajn lokojn en Vaŝingtono por ilia elektrocentralo
+  kaj planas vastigi sian laborantaron por renkonti iliajn ambiciajn celojn.
 
-La aliro de Helion reprezentas signifan ŝanĝon en fuzia energioteknologio, temigante rektan elektroproduktado kaj ekspluato de altnivela plasmofiziko. Dum defioj restas, ilia progreso kaj strategiaj partnerecoj sugestas esperigan vojon al atingado de funkcia fuzio reaktoro antaŭ 2028.
+La aliro de Helion reprezentas signifan ŝanĝon en fuzia energioteknologio, temigante rektan
+elektroproduktado kaj ekspluato de altnivela plasmofiziko. Dum defioj restas, ilia progreso kaj
+strategiaj partnerecoj sugestas esperigan vojon al atingado de funkcia fuzio reaktoro antaŭ 2028.
 
 ## Doomsday Horloĝo Proksime al Noktomezo
 

@@ -176,4 +176,3 @@ okcidenta Ĉinio, proksime al la piedo de Mont Everest. Jen la ĉefaj detaloj:
 
 Tiu tertremo estas notita kiel unu el la plej mortigaj en Ĉinio en lastaj jaroj, emfaze la
 vundeblecon de la regiono pro ĝia loko sur grava geologia fenda linio.
-

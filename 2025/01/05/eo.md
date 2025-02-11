@@ -82,4 +82,3 @@ Aubrey Plaza, kaj lia familio, inkluzive lian patrinon, patron, kaj gefratojn.
 La malfrua morto de Baena estas memorigilo pri la graveco de konscio pri mensa sano kaj la bezono de
 subtenaj sistemoj por tiuj en malfacilaĵoj. Se vi aŭ iu, kiun vi konas, luktas, rimedoj kiel la 988
 Suicido & Krizo Lifto estas disponeblaj por subteno.
-

@@ -228,4 +228,3 @@ horojn por decidi ĉu peti mandatadon por lia daŭra detenado. Lia impeachproces
 14-an de januaro, estis suspendita pro lia foresto, kaj restas nescerte kiel la politika situacio
 evoluos. La aresto kaŭzis signifajn politikajn tumultojn en Sud-Koreio kaj altiris internacian
 atenton, precipe de aliancanoj kiel Usono.
-

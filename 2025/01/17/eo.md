@@ -525,4 +525,3 @@ kion tradiciaj terapioj ofte ne faras efike.
 La esplorado, gvidita de Sidi Chen kaj lia teamo ĉe Yale, reprezentas signifan progreson en kancera
 traktado, eble ofertante pli efikajn opciojn por pacientoj kiuj ne respondas al nunaj terapioj. La
 trovoj estis publikigitaj en Nature Biotechnology la 16-an de januaro 2025.
-

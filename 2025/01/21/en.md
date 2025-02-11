@@ -350,4 +350,3 @@ shift:
 In summary, Trump's return is expected to bring a shift towards protectionism in U.S. trade policy,
 with a focus on tariffs as a primary tool. This approach could lead to strained international
 relations and economic challenges both domestically and globally.
-

@@ -226,4 +226,3 @@ Following his arrest, Yoon was taken to the Seoul Detention Centre for questioni
 which began on January 14, was adjourned due to his absence, and it remains uncertain how the
 political situation will unfold. The arrest has caused significant political turmoil in South Korea
 and has drawn international attention, particularly from allies like the United States.
-

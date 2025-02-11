@@ -33,4 +33,3 @@ Resume, la longdaŭra prezidanta elekto en Libano estis kaŭzita de kombino de i
 blokado, eksteraj influoj, kaj la signifa rolo de Hezbollah. La elekto de Joseph Aoun markas eblan
 turnopunkton, sed la lando ankoraŭ alfrontas signifajn defiojn, kiuj postulas efikan regadon kaj
 internacian kunlaboron.
-

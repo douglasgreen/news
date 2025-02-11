@@ -86,4 +86,3 @@ granda politika ŝanĝo en Eŭropo direkte al dekstrumana populismo. Ĉi tiu ŝa
 publika malkontento kun tradiciaj centristaj partioj, ekonomiaj defioj, kaj enmigradaj temoj. La
 ebleco de gvidado de la FPÖ en Aŭstrio povus havi signifajn implicojn por naciaj kaj eŭropaj
 politikoj, emfazante la kreskantan influon de ekstremdekstraj ideologioj tra la kontinento.
-

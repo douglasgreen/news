@@ -18,4 +18,3 @@ prorogacio de la Parlamento ĝis la 24-a de marto, donante tempon por la transir
 La mandato de Trudeau inkludis signifajn atingojn kiel la Kanada Infana Beneficio, dentokuracado kaj
 farmacikovrado. Tamen, liaj pli postaj jaroj en oficejo estis markitaj de kontrovezoj, ekonomiaj
 defioj kaj perdo de subteno de ŝlosilaj aliancanoj, inkluzive la Vicĉefministro Chrystia Freeland.
-

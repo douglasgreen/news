@@ -523,4 +523,3 @@ his first term.
 Overall, Trump's inaugural address was characterized by a mix of grand promises, sharp criticism of
 past leadership, and a reaffirmation of his core policy priorities, particularly in areas of
 national security, immigration, and economic policy.
-

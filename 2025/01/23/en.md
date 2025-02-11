@@ -439,4 +439,3 @@ The integration of AI into drug discovery promises to reduce costs, improve succ
 <10% for clinical trials), and address unmet medical needs. Isomorphic’s progress, alongside
 competitors like Insilico, signals a transformative shift toward data-driven, AI-accelerated
 pharmaceutical innovation.
-

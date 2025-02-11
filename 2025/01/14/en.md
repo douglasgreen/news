@@ -179,4 +179,3 @@ China, near the base of Mount Everest. Here are the key details:
 
 This earthquake is noted as one of the deadliest in China in recent years, highlighting the region's
 vulnerability due to its location on a major geological fault line.
-

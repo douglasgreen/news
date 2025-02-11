@@ -19,4 +19,3 @@ Trudeau's tenure included significant achievements such as the Canada Child Bene
 and pharmacare coverage. However, his later years in office were marked by controversies, economic
 challenges, and a loss of support from key allies, including Deputy Prime Minister Chrystia
 Freeland.
-

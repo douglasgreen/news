@@ -990,4 +990,3 @@ sclerosis.
 In summary, the study highlights xenon gas as a promising candidate for Alzheimer's treatment,
 offering a new approach by targeting the brain's immune response and reducing inflammation. The
 ongoing clinical trials will be crucial in determining its efficacy and safety in humans.
-

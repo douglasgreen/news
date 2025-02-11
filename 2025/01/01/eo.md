@@ -94,4 +94,3 @@ lian intencon kaj inspiron de ISIS.
 La atako altiris nacionan atenton, kun Prezidanto Biden kaj aliaj oficialuloj kondamnantaj la
 perforton kaj oferante subtenon al la viktimoj kaj iliaj familioj. La Sukera Bolo, grava
 universitata futbala evento planita proksime, estis prokrastita pro sekurecaj zorgoj.
-

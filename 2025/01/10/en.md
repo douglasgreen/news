@@ -136,4 +136,3 @@ The increase in global natural disaster losses in 2024 underscores the urgent ne
 adapt to the changing climate. The data suggests that climate change is intensifying weather events,
 leading to higher economic and human costs. As such, there is a pressing need for enhanced
 resilience and preparedness to mitigate the impact of future disasters.
-

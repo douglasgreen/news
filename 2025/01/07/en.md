@@ -43,4 +43,3 @@ This discovery not only sets a record for the number of individual stars observe
 galaxy but also enhances our understanding of the universe's early epochs and the role of dark
 matter in galaxy formation. Additionally, the identification of early black holes offers a new
 perspective on the growth and evolution of these enigmatic cosmic structures.
-

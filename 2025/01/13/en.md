@@ -87,4 +87,3 @@ political shift in Europe towards right-wing populism. This shift is driven by p
 with traditional centrist parties, economic challenges, and immigration issues. The FPÖ's potential
 leadership in Austria could have significant implications for both national and European politics,
 highlighting the growing influence of far-right ideologies across the continent.
-

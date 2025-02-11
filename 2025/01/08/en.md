@@ -43,4 +43,3 @@ joined BRICS:
 In summary, Indonesia's entry into BRICS is a strategic move that aligns with its goals of enhancing
 economic collaboration and increasing its influence in global governance. The membership is expected
 to bring economic benefits and strengthen Indonesia's role in international affairs.
-

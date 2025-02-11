@@ -43,4 +43,3 @@ BRICS:
 Resume, la eniro de Indonezio en BRICS estas strategia movo, kiu kongruas kun ĝiaj celoj plibonigi
 ekonomian kunlaboron kaj pliigi sian influon en tutmonda regado. La membreco estas atendata alporti
 ekonomiajn avantaĝojn kaj fortigi la rolon de Indonezio en internaciaj aferoj.
-

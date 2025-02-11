@@ -302,4 +302,3 @@ Trump's call for NATO members to bolster their defense budgets.
 The Ukrainian leader is seeking a meeting with Trump, who has promised to end the war swiftly,
 though details on how this would be achieved remain unclear. Zelenskyy rejected Russia's demand for
 Ukraine to reduce its military size significantly, stating that such a concession is unacceptable.
-

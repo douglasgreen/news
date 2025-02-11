@@ -53,4 +53,3 @@ resulted in over 80 deaths, numerous injuries, and the displacement of thousands
 The situation in Catatumbo highlights the complexities of Colombia's ongoing struggle with armed
 groups and the challenges in achieving lasting peace. The government's efforts to negotiate with
 these groups have been hindered by persistent violence and territorial disputes.
-

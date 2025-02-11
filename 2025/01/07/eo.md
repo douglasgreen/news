@@ -43,4 +43,3 @@ Tiu malkovro ne nur starigas rekordon pri la nombro de individuaj steloj observi
 galaksio, sed ankaŭ plibonigas nian komprenon pri la fruaj epokoj de la universo kaj la rolon de
 malluma materio en galaksia formado. Krome, la identigo de fruaj nigraj truoj ofertas novan
 perspektivon pri la kresko kaj evoluo de ĉi tiuj enigmaj kosmaj strukturoj.
-
