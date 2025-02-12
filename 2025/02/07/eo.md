@@ -210,7 +210,7 @@ al la proceso per defia mesaĝo, indikante la pretecon de New York defendi la le
 procedoj disvolviĝas, la kazo elstarigas la daŭrantan streĉitecon inter ŝtata kaj federacia
 aŭtoritato pri traktado de klimata ŝanĝo kaj la respondecoj de energiproduktantoj.
 
-Russell Vought Konfirmita kiel Blankdomo-Buĝetdirektoro
+## Russell Vought Konfirmita kiel Blankdomo-Buĝetdirektoro
 
 Russell Vought estis konfirmita de la Senato kiel la Direktoro de la Oficejo de Administrado kaj
 Buĝeto (OMB). Tiu decido venis post ekscitita debato, kie la Senato voĉdonas laŭ partilinioj, 53-47.
