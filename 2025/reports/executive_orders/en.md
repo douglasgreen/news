@@ -17,6 +17,7 @@ Lastly, President Trump named chairmen and acting chairmen for various committee
 
 ## Flying The Flag Of The United States At Full-Staff On Inauguration Day (Presidential Actions January 20, 2025)
 
+On January 20, 2025, a U.S. presidential proclamation was issued to fly the American flag at full-staff on Inauguration Day. This decision honors the significance of Inauguration Day and the values it represents for the nation. The order mandates that the flag be flown at full-staff at the White House, all public buildings, military posts, naval stations, and U.S. embassies worldwide for the entire day. After Inauguration Day, the flag will return to half-staff to honor former President Jimmy Carter, following a previous proclamation for a 30-day mourning period after his death.
 
 ## Initial Rescissions Of Harmful Executive Orders And Actions (Presidential Actions January 20, 2025)
 
