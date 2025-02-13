@@ -77,3 +77,19 @@ In a significant move by the Trump administration, about 75,000 federal employee
 The program's deadline closed after a federal judge ruled to end a temporary pause on the initiative. Despite the administration's hopes that 5% to 10% of the federal workforce would participate, only about 3% accepted the offer. This outcome has led to discussions about potential further cuts to meet the administration's goals.
 
 The decision to proceed with the deferred resignation program was met with mixed reactions. While some see it as a necessary step towards efficiency, others express concern over the impact on government services and the livelihoods of those who chose to leave. As the program concludes, the focus now shifts to how these changes will affect the federal workforce and the services they provide.
+
+## Robert F. Kennedy Jr. Confirmed as Health Secretary Amid Vaccine Concerns
+
+Robert F. Kennedy Jr. has been confirmed as the Secretary of Health and Human Services under President Trump. The Senate vote was narrow, with a 52-48 outcome. All Democrats voted against him, and Mitch McConnell was the only Republican to oppose his confirmation. McConnell, a childhood polio survivor, expressed concerns about Kennedy's views on vaccines and his history of promoting conspiracy theories that could undermine public trust in health institutions.
+
+Kennedy's confirmation was contentious due to his past as a prominent figure in the anti-vaccine movement. Despite this, he managed to win over some skeptical senators by promising to prioritize scientific integrity and safety. Senator Susan Collins, initially a potential hurdle, decided to support Kennedy after he addressed her concerns about potential cuts to the National Institute of Health, which she feared would harm biomedical research and lead to job losses.
+
+Kennedy's appointment has sparked debate, with some fearing his influence on public health policies, especially regarding vaccines. However, supporters believe he will bring a fresh perspective to the role. As he steps into his new position, Kennedy faces the challenge of balancing his past views with the responsibilities of leading America's largest health agency.
+
+## Pam Bondi Takes Legal Action Against New York Over Driver's Licenses for Undocumented Immigrants
+
+Attorney General Pam Bondi has announced a lawsuit against the state of New York, challenging its law that allows undocumented immigrants to obtain driver's licenses. This law, known as the Green Light law, has been a point of contention as it permits the Department of Motor Vehicles to issue licenses without requiring proof of legal residency. Bondi argues that this policy prioritizes undocumented immigrants over American citizens and obstructs federal immigration enforcement efforts.
+
+During a press conference, Bondi emphasized that the lawsuit is part of a broader initiative to ensure states comply with federal immigration laws. She stated that New York's actions are unacceptable and that the Justice Department is committed to taking necessary steps to protect American citizens. Bondi's announcement follows a similar legal action against Illinois, highlighting the administration's focus on challenging sanctuary policies across the country.
+
+New York officials, including Governor Kathy Hochul and Attorney General Letitia James, have defended the state's laws, asserting that they protect the rights of all residents and enhance public safety. They argue that the Green Light law helps reduce the number of uninsured drivers and ensures that all drivers are tested and licensed. Despite the lawsuit, New York leaders remain firm in their stance, vowing to defend their laws and continue supporting their communities.
