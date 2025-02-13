@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php
 // URL of the webpage you want to read
 $url = $argv[1];
@@ -19,6 +20,7 @@ if ($htmlContent === FALSE) {
     $textContent = preg_replace('/<.*?>/', ' ', $htmlContent);
 
     // Print the plain text content
+    echo "Summarize and explain this text using simple English in 1-3 paragraphs:\n";
     $lines = explode("\n", $textContent);
     foreach ($lines as $line) {
         $line = trim($line);

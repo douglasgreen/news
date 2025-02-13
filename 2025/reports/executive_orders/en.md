@@ -16,11 +16,11 @@ These appointments are part of the president's executive powers, where he nomina
 
 ## President Trump Announces Acting Cabinet and Cabinet-Level Positions (Presidential Actions January 20, 2025)
 
-On January 20, 2025, President Trump issued an executive order appointing individuals to serve in acting capacities for various cabinet and cabinet-level positions. This action is in accordance with the U.S. Constitution and specific laws that allow temporary appointments until permanent appointments are made. The order lists individuals assigned to key roles such as Secretary of Defense, Secretary of State, and Attorney General, among others.
+On January 20, 2025, President Trump issued an executive order to appoint individuals to serve in acting capacities for various cabinet and cabinet-level positions. This action is in accordance with the U.S. Constitution and federal laws, specifically referencing 5 U.S.C. 3345, which allows for temporary appointments to fill vacancies. The order lists individuals assigned to key roles such as Secretary of Defense, Secretary of State, and Attorney General, among others, until permanent appointments are made.
 
-These appointments are temporary and are meant to ensure that the functions and duties of these important government positions continue without interruption. The individuals named will serve until the positions are officially filled through the standard appointment process, which typically involves nomination by the President and confirmation by the Senate.
+This move is part of President Trump's initial actions upon taking office, aiming to ensure that essential government functions continue smoothly while permanent appointments are processed. The list includes a wide range of positions across different departments, reflecting the administration's immediate need to fill leadership roles to maintain government operations.
 
-This executive order is a common practice during transitions in administration or when there are vacancies in critical government roles. It ensures that the government continues to operate smoothly and that there is no gap in leadership or decision-making capabilities in essential departments and agencies.
+Overall, the executive order is a standard procedure for a new administration to temporarily fill critical positions, ensuring that the government remains functional and responsive during the transition period. This approach allows the administration to continue its work without interruption while permanent candidates are vetted and confirmed.
 
 ## President Trump Designates Chairmen and Acting Chairmen (Presidential Actions January 20, 2025)
 
@@ -36,21 +36,49 @@ On January 20, 2025, a U.S. presidential proclamation was issued to fly the Amer
 
 ## Initial Rescissions Of Harmful Executive Orders And Actions (Presidential Actions January 20, 2025)
 
+On January 20, 2025, a new executive order was issued to revoke several executive actions from the previous administration. The order claims that the previous administration's policies were unpopular, inflationary, illegal, and radical. It criticizes the focus on diversity, equity, and inclusion (DEI) as corrupting institutions by prioritizing preferential hierarchies over merit and equality. The order also argues that open border policies and climate regulations have harmed American safety and economic stability.
+
+The executive order revokes numerous actions related to racial equity, COVID-19 response, climate change, and other areas. It aims to restore what it describes as "common sense" to the federal government and enhance American prosperity. The heads of federal agencies are instructed to end the implementation of DEI ideologies and review previous actions for potential rescission or replacement. The order emphasizes the need for a thorough review of national security memoranda to ensure they align with American values and security.
+
+The order outlines a process for implementing these changes, including a review by the Domestic Policy Council and the National Economic Council. It also specifies that the order should not interfere with existing legal authorities or create enforceable rights against the U.S. government. The overall goal is to repair institutions and the economy by rolling back what the current administration views as harmful policies from the previous administration.
 
 ## Restoring Freedom Of Speech And Ending Federal Censorship (Presidential Actions January 20, 2025)
 
+On January 20, 2025, a new executive order was issued to restore freedom of speech and end federal censorship. This order emphasizes the importance of the First Amendment, which protects the right of Americans to speak freely without government interference. The order criticizes the previous administration for allegedly censoring speech on online platforms by pressuring social media companies to suppress content that did not align with the government's views. It argues that such actions, under the pretense of combating misinformation, violated the free speech rights of American citizens.
+
+The executive order outlines a policy to protect free speech by ensuring that no federal government official or taxpayer resources are used to unconstitutionally limit speech. It also calls for an investigation into past government actions that may have suppressed protected speech, with the Attorney General tasked to report findings and suggest corrective measures. The order aims to prevent any federal department or employee from engaging in activities that contradict these policies.
+
+The order includes provisions to ensure it does not interfere with existing legal authorities or create new legal rights. It stresses that its implementation should align with applicable laws and available funding. The overall goal is to safeguard free speech while addressing past government misconduct related to censorship, ensuring that the government does not overstep its bounds in regulating speech.
 
 ## Ending The Weaponization Of The Federal Government (Presidential Actions January 20, 2025)
 
+On January 20, 2025, President Donald Trump issued an executive order aimed at ending what he described as the "weaponization" of the federal government by the previous administration. This order claims that the prior administration used federal law enforcement and intelligence agencies to target political opponents through investigations and prosecutions, actions that were allegedly more about political gain than justice. The order highlights instances where individuals were targeted for protesting or speaking out against the administration, and it criticizes the Department of Justice for its handling of cases related to the January 6 events and Black Lives Matter protests.
+
+The executive order sets a policy to identify and correct past misconduct by federal agencies. It directs the Attorney General and the Director of National Intelligence to review the activities of federal law enforcement and intelligence agencies over the past four years. They are tasked with identifying any actions that contradict the order's purposes and recommending remedial actions. The order also emphasizes compliance with document-retention policies and legal obligations, with noncompliance referred to the Attorney General.
+
+Overall, the order seeks to ensure accountability for what it describes as the misuse of federal power by the previous administration. It aims to prevent similar actions in the future by reviewing past activities and enforcing compliance with legal standards. However, the order does not create any new legal rights or benefits enforceable against the government.
 
 ## Return to In-Person Work (Presidential Actions January 20, 2025)
 
+On January 20, 2025, a memorandum was issued by the executive branch of the U.S. government, directing all department and agency heads to end remote work arrangements and require employees to return to in-person work at their duty stations on a full-time basis. However, the memorandum allows for exemptions if deemed necessary by the department and agency heads. This directive is to be implemented in accordance with applicable laws.
+
+This action aligns with President Donald Trump's stance against remote work, which he had expressed prior to taking office. The order is part of a broader set of executive actions taken by Trump shortly after his inauguration, reflecting his campaign promises and policy priorities. The return to in-person work is expected to face legal challenges, as some federal employees and unions advocate for maintaining remote work options where necessary.
 
 ## Regulatory Freeze Pending Review (Presidential Actions January 20, 2025)
 
+On January 20, 2025, the President issued a memorandum to pause and review new regulations. This order applies to all executive departments and agencies, instructing them not to propose or issue any new rules until they are reviewed and approved by a department or agency head appointed by the President. The memorandum also requires the withdrawal of any rules sent to the Office of the Federal Register but not yet published, so they can be reviewed. Additionally, it suggests postponing the effective date of any published rules that have not yet taken effect for 60 days to allow for further review and public comment.
+
+The memorandum defines "rules" broadly, including any regulatory actions or guidance documents that could lead to a final rule or regulation. The Office of Management and Budget (OMB) Director is responsible for overseeing the implementation of this memorandum and can exempt rules necessary for emergencies. The OMB Director can also establish a process to review pending information collections under the Paperwork Reduction Act. If any actions taken before the memorandum's issuance undermine its purpose, the President may modify or extend the memorandum to address those actions.
+
+This regulatory freeze is a common practice for new administrations, allowing them to review and potentially alter the regulatory landscape set by the previous administration. It aims to ensure that new leadership has the opportunity to assess and align regulations with the current administration's priorities. The memorandum emphasizes compliance with existing executive orders on regulatory management and is to be implemented in accordance with applicable laws.
 
 ## Hiring Freeze (Presidential Actions January 20, 2025)
 
+On January 20, 2025, the President issued an order to freeze the hiring of federal civilian employees across the executive branch. This means that any vacant federal civilian positions as of noon on that day cannot be filled, and no new positions can be created unless specified by the memorandum or other laws. However, this freeze does not affect military personnel or positions related to immigration enforcement, national security, or public safety. Social Security, Medicare, and Veterans' benefits will not be impacted by this freeze. The Director of the Office of Personnel Management (OPM) can grant exemptions if necessary.
+
+Within 90 days, the Director of the Office of Management and Budget (OMB), in consultation with the Director of OPM and the Administrator of the United States DOGE Service (USDS), must submit a plan to reduce the federal workforce through efficiency improvements and attrition. Once this plan is issued, the hiring freeze will end for all executive departments and agencies, except for the Internal Revenue Service (IRS). The freeze for the IRS will continue until the Secretary of the Treasury, in consultation with the Director of OMB and the Administrator of USDS, decides it is in the national interest to lift it. The memorandum also prohibits contracting outside the federal government to bypass the freeze.
+
+The memorandum encourages efficient use of existing personnel and funds to improve public services and does not restrict reallocating resources to meet high-priority needs. It also does not limit the appointment of officials to positions requiring Presidential appointment or Senate confirmation, nor does it affect non-career positions or temporary hiring authority. Additionally, it does not override any existing collective bargaining agreements.
 
 ## Delivering Emergency Price Relief for American Families and Defeating the Cost-of-Living Crisis (Presidential Actions January 20, 2025)
 

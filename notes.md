@@ -10,4 +10,4 @@ I am writing a special report on X in the past year to cover news topics. Write 
 
 ### Summaries
 
-Summarize and explain this U.S. presidential executive order using simple English in 1-3 paragraphs:
+Summarize and explain this text using simple English in 1-3 paragraphs:
