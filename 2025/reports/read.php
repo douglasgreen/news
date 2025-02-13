@@ -1,0 +1,29 @@
+<?php
+// URL of the webpage you want to read
+$url = $argv[1];
+
+// Use file_get_contents to read the content of the webpage
+$htmlContent = file_get_contents($url);
+
+// Check if the webpage was successfully fetched
+if ($htmlContent === FALSE) {
+    echo "Error: Unable to fetch the webpage.";
+} else {
+    if (preg_match('/<main.*<\/main>/s', $htmlContent, $match)) {
+        $htmlContent = $match[0];
+    }
+    $htmlContent = preg_replace('#<script.*</script>#s', ' ', $htmlContent);
+    $htmlContent = preg_replace('#&nbsp;#', ' ', $htmlContent);
+
+    // Use strip_tags to remove HTML tags and get only the text
+    $textContent = preg_replace('/<.*?>/', ' ', $htmlContent);
+
+    // Print the plain text content
+    $lines = explode("\n", $textContent);
+    foreach ($lines as $line) {
+        $line = trim($line);
+        if ($line) {
+            echo $line . "\n";
+        }
+    }
+}
