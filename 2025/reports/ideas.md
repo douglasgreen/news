@@ -4,8 +4,6 @@ I am writing a special report on X in the past year to cover news topics. Write 
 - **Overview of 2024**: A transformative year marked by technological leaps, geopolitical shifts, and growing private-sector dominance in space activities .
 - **Key Themes**: Resilience in the space economy, international collaboration, and the rise of commercial ventures .
 
-
-
 * Global Warming
 * AI Regulation
 * Russia-Ukraine War
