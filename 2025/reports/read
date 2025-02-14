@@ -4,24 +4,25 @@
 $url = $argv[1];
 
 // Use file_get_contents to read the content of the webpage
-$htmlContent = file_get_contents($url);
+$content = file_get_contents($url);
 
 // Check if the webpage was successfully fetched
-if ($htmlContent === FALSE) {
+if ($content === FALSE) {
     echo "Error: Unable to fetch the webpage.";
 } else {
-    if (preg_match('/<main.*<\/main>/s', $htmlContent, $match)) {
-        $htmlContent = $match[0];
+    if (preg_match('/<main.*<\/main>/s', $content, $match)) {
+        $content = $match[0];
     }
-    $htmlContent = preg_replace('#<script.*</script>#s', ' ', $htmlContent);
-    $htmlContent = preg_replace('#&nbsp;#', ' ', $htmlContent);
+    $content = preg_replace('#<script.*</script>#s', ' ', $content);
+    $content = preg_replace('#&nbsp;#', ' ', $content);
 
     // Use strip_tags to remove HTML tags and get only the text
-    $textContent = preg_replace('/<.*?>/', ' ', $htmlContent);
+    $content = preg_replace('/<.*?>/', ' ', $content);
+    $content = html_entity_decode($content);
 
     // Print the plain text content
     echo "Summarize and explain this text using simple English in 1-3 paragraphs:\n";
-    $lines = explode("\n", $textContent);
+    $lines = explode("\n", $content);
     foreach ($lines as $line) {
         $line = trim($line);
         if ($line) {
