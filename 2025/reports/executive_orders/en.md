@@ -125,9 +125,7 @@ Attorney General tasked to report findings and suggest corrective measures. The 
 prevent any federal department or employee from engaging in activities that contradict these
 policies.
 
-The order includes provisions to ensure it does not interfere with existing legal authorities or
-create new legal rights. It stresses that its implementation should align with applicable laws and
-available funding. The overall goal is to safeguard free speech while addressing past government
+The overall goal is to safeguard free speech while addressing past government
 misconduct related to censorship, ensuring that the government does not overstep its bounds in
 regulating speech.
 
