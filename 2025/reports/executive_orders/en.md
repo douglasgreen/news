@@ -125,9 +125,8 @@ Attorney General tasked to report findings and suggest corrective measures. The 
 prevent any federal department or employee from engaging in activities that contradict these
 policies.
 
-The overall goal is to safeguard free speech while addressing past government
-misconduct related to censorship, ensuring that the government does not overstep its bounds in
-regulating speech.
+The overall goal is to safeguard free speech while addressing past government misconduct related to
+censorship, ensuring that the government does not overstep its bounds in regulating speech.
 
 ## Ending The Weaponization Of The Federal Government (Presidential Actions, January 20, 2025)
 
