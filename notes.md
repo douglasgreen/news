@@ -2,11 +2,7 @@
 
 ### News stories
 
-Write a title and a 1-3 paragraph story about this topic from the news using simple English:
-
-Write a title and a 2-4 paragraph story about this topic from the news using simple English (write 2
-paragraphs if the topic has low importance, 3 paragraphs for medium importance, and 4 paragraphs for
-high importance):
+Write a title and a 2-3 paragraph story about this topic from the news using simple English:
 
 ### Special reports
 
