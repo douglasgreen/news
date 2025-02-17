@@ -118,6 +118,27 @@ Grok 3's capabilities remain sparse. The live demonstration is expected to shed 
 aspects, providing insights into the chatbot's potential to reshape industry standards and
 expectations.
 
+### Perplexity AI Unveils New Deep Research Tool for In-Depth Analysis
+
+Perplexity AI has launched a new tool called "Deep Research," designed to help users conduct
+extensive research quickly and efficiently. This tool is part of a growing trend among AI companies
+to provide more detailed and professional-level research capabilities. Unlike traditional chatbots,
+Deep Research aims to deliver comprehensive answers with real citations, making it suitable for
+expert-level tasks in fields like finance, marketing, and product research.
+
+The Deep Research tool is currently available on the web, with plans to expand to Mac, iOS, and
+Android platforms. Users can access it by selecting "Deep Research" from a drop-down menu on the
+Perplexity website. The tool then generates a detailed report that can be exported as a PDF or
+shared as a Perplexity Page. This process involves the AI iteratively searching, reading documents,
+and refining its research plan, similar to how a human might approach a new topic.
+
+Perplexity's Deep Research stands out for its speed and accessibility. While OpenAI's similar tool
+requires a $200 monthly subscription, Perplexity offers a freemium model. Non-subscribers can make a
+limited number of queries per day for free, while paying subscribers enjoy unlimited access. This
+makes it an attractive option for casual researchers who need quick and reliable information.
+Despite some concerns about over-reliance on AI for research, Perplexity's new tool promises to
+enhance the efficiency and depth of information retrieval across various industries.
+
 ## Entertainment
 
 ### Marvel's New 'Captain America' Triumphs at Box Office Despite Criticisms
@@ -163,6 +184,25 @@ circumstances. Meanwhile, actor Frankie Muniz, who is pursuing a career in motor
 his first top-10 finish in the Truck Series. As the racing community awaits the outcome of
 Kligerman's appeal, the incident highlights the unpredictable nature of motorsports and the
 importance of adhering to technical regulations.
+
+### Ice Hockey Rivalry Ignites: USA vs. Canada Clash at 4 Nations
+
+The ice hockey match between the USA and Canada at the 4 Nations tournament was nothing short of
+dramatic. The game, held in Montreal, began with an unexpected twist as the American national anthem
+was met with boos from the Canadian crowd. This tension quickly spilled onto the ice, leading to
+three fights within the first nine seconds of the game. The players, fueled by the charged
+atmosphere, engaged in a series of brawls that set the tone for the rest of the match.
+
+Despite the chaotic start, the USA managed to secure a 3-1 victory over Canada. The game was marked
+by intense physicality and skill, with both teams showcasing their best players. Dylan Larkin scored
+the go-ahead goal for the USA in the second period, and Jake Guentzel sealed the win with an
+empty-net goal. The victory ensured the USA's place in the tournament's final, while Canada faced
+the pressure of a must-win situation in their next game against Finland.
+
+The match was a testament to the fierce rivalry between the two nations, both on and off the ice.
+The booing of the US anthem highlighted the underlying tensions, but it also added to the excitement
+and intensity of the game. Fans from both countries were treated to a thrilling display of hockey,
+reminding everyone why this rivalry is one of the most anticipated in the sport.
 
 ## Science
 
