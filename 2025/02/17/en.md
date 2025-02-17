@@ -31,9 +31,10 @@ In Argentina, President Javier Milei is facing serious accusations from a group 
 filed fraud charges against him. The controversy began when Milei promoted a cryptocurrency called
 $LIBRA on his social media platform, X. He claimed that the coin was designed to boost economic
 growth by supporting small businesses and startups. However, shortly after his post, the value of
-$LIBRA plummeted, leading to significant financial losses for investors. The lawyers argue that
-Milei's actions were part of a fraudulent scheme, commonly known in the crypto world as a "rug
-pull," where a token is promoted and then abandoned, leaving investors with worthless assets.
+$LIBRA
+plummeted, leading to significant financial losses for investors. The lawyers argue that Milei's
+actions were part of a fraudulent scheme, commonly known in the crypto world as a "rug pull," where
+a token is promoted and then abandoned, leaving investors with worthless assets.
 
 The President's Office responded by stating that Milei was not involved in the development of the
 cryptocurrency and removed his post to prevent further speculation. They emphasized that Milei often
