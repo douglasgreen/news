@@ -54,6 +54,14 @@ As the tech world waits with bated breath, the potential impact of this launch i
 
 ## Entertainment
 
+### A Night of Triumph at the 78th British Academy Film Awards
+
+The 78th British Academy Film Awards, held on February 16, 2025, at the Royal Festival Hall in London, was a night to remember. Hosted by the charismatic David Tennant, the ceremony celebrated the best in film from the past year. The event was filled with excitement, laughter, and a few surprises as the winners were announced.
+
+The film "Conclave" emerged as a major winner, taking home four awards, including Best Film and Outstanding British Film. This gripping papal thriller, starring Ralph Fiennes, captivated audiences with its intense storyline about the election of a new pope. The film also won awards for Best Editing and Best Adapted Screenplay, solidifying its place as a standout in this year's awards season.
+
+Another big winner of the night was "The Brutalist," which also secured four awards. Adrien Brody's performance in the film earned him the Best Actor award, while Brady Corbet was recognized as Best Director. The film's unique storytelling and powerful performances resonated with both the audience and the critics. Meanwhile, Mikey Madison won Best Actress for her role in the tragicomedy "Anora," adding to the evening's highlights. The ceremony showcased a diverse range of films and performances, reflecting the rich tapestry of talent in the film industry today.
+
 ### Rihanna Speaks Out After A$AP Rocky's Trial Verdict
 
 Rihanna has finally broken her silence following the not guilty verdict in her boyfriend A$AP Rocky's assault trial. The courtroom was filled with tension as the jury delivered their decision, sparing Rocky from a potential 24-year prison sentence. The rapper, whose real name is Rakim Mayers, was accused of firing a handgun at a former friend, A$AP Relli, during an altercation in Hollywood in 2021. However, the jury found reasonable doubt in the prosecution's case, leading to Rocky's acquittal.
