@@ -1,5 +1,3 @@
-Write a title and a 2-3 paragraph story about this topic from the news using simple English:
-
 ## United States
 
 ### Trump's Controversial Accusation: Ukraine Blamed for War with Russia
@@ -9,6 +7,12 @@ In a surprising turn of events, President Donald Trump has accused Ukraine of st
 Trump's comments have raised alarms in Europe and among Ukraine's allies, who fear that the U.S. might push for a peace deal favoring Russia. The exclusion of Ukraine from recent U.S.-Russia talks in Riyadh has only added to these concerns. Critics argue that Trump's stance undermines Ukraine's sovereignty and the international community's efforts to support the country against Russian aggression. Despite Trump's claims, reliable sources indicate that Zelensky's approval ratings, while lower than at the war's onset, are not as dire as Trump suggests.
 
 The international response to Trump's statements has been mixed. While some European leaders express concern over the potential implications for regional stability, others emphasize the importance of including Ukraine in any peace negotiations. Trump's remarks have also sparked debate within the U.S., with some political figures criticizing his approach as overly sympathetic to Russia. As the situation develops, the global community watches closely, hoping for a resolution that respects Ukraine's sovereignty and ensures lasting peace in the region.
+
+### Trump's Executive Order: A New Era of Presidential Power
+
+Donald Trump has signed a new executive order that could make him the most powerful president in U.S. history. This order uses a little-known Constitutional theory to expand his control over the government. The order aims to bring independent agencies, which usually work with Congress, under the direct control of the White House. This means that Trump and the Attorney General will have the power to interpret laws without needing approval from Congress or the courts.
+
+The theory behind this move is called the "unitary executive theory." It suggests that the president has complete authority over the executive branch, including the power to dismiss the heads of independent agencies. With this order, Trump gains control over important agencies like the Federal Communications Commission and the Federal Trade Commission. This change is part of Trump's plan to make the government more accountable to the American people by reducing bureaucracy and increasing efficiency. However, many believe this order will face legal challenges, as it raises questions about its constitutionality and the balance of power in the government.
 
 ## World
 
