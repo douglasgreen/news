@@ -2310,3 +2310,83 @@ long-term goals for energy production and ensuring consistency in energy policie
 recommend actions to increase energy production, such as building infrastructure and reopening power
 plants. The Council will consult with state, local, and tribal governments, as well as private
 sector stakeholders, to gather feedback and improve energy production efforts.
+
+## Keeping Education Accessible and Ending Covid-19 Vaccine Mandates in Schools (Presidential Actions, February 15, 2025)
+
+President Trump issued an executive order to stop schools from requiring COVID-19 vaccinations for
+students to attend in-person classes. The order argues that such mandates infringe on personal
+freedom, especially since the risk of severe illness from COVID-19 is low for children and young
+adults. The order states that federal funds should not support schools that enforce these vaccine
+mandates, emphasizing the importance of parental authority and religious freedom in making health
+decisions for children.
+
+The order directs the Secretary of Education to issue guidelines to educational institutions about
+their legal obligations concerning parental rights and religious freedoms. Within 90 days, a plan
+should be developed to end coercive vaccine mandates in schools, potentially including new
+legislation. This plan will also identify schools that do not comply with the guidelines and outline
+how federal funding can be withheld from them.
+
+Overall, the executive order aims to ensure that education remains accessible without the condition
+of COVID-19 vaccination, aligning with Trump's campaign promise to oppose vaccine mandates in
+schools. While the order may not have a significant national impact due to many schools already
+dropping such mandates, it underscores the administration's stance on personal freedom and parental
+rights in education.
+
+## President Donald J. Trump Approves Kentucky Emergency Declaration (Presidential Actions, February 16, 2025)
+
+President Donald J. Trump has declared an emergency in Kentucky due to severe weather conditions,
+including storms, winds, flooding, and landslides that began on February 14, 2025. This declaration
+allows for federal assistance to support local and state efforts in managing the emergency. The
+Federal Emergency Management Agency (FEMA) is tasked with coordinating disaster relief efforts to
+help alleviate the suffering of the affected population and to protect lives and property.
+
+FEMA is authorized to provide necessary equipment and resources to address the emergency's impacts.
+The federal government will cover 75% of the costs for emergency protective measures. Jeremy Slinker
+from FEMA has been appointed to oversee federal recovery operations in the affected areas. For more
+information, media representatives are advised to contact the FEMA News Desk.
+
+## President George Washington’s Birthday, 2025 (Presidential Actions, February 17, 2025)
+
+The proclamation by President Donald J. Trump on February 17, 2025, honors George Washington, the
+first President of the United States, on his birthday. Washington is celebrated as a key figure in
+American history, known for his leadership during the Revolutionary War and his role in establishing
+the federal government. The proclamation highlights Washington's dedication to the country, his
+vision for a unified nation, and his commitment to public service. It also recounts a pivotal moment
+during the Revolutionary War when Washington led his troops to victory against the odds,
+demonstrating his resilience and patriotism.
+
+The proclamation declares February 17, 2025, as a holiday to commemorate Washington's birthday,
+emphasizing his lasting impact on the nation. It reflects on Washington's legacy as a model of valor
+and virtue, inspiring current and future generations to uphold the values he championed. The
+document serves as a reminder of the sacrifices made by Washington and his contributions to American
+liberty and governance.
+
+Overall, the proclamation is a tribute to George Washington's enduring influence on the United
+States, recognizing him as a foundational figure in the nation's history. It calls on Americans to
+remember his achievements and to draw inspiration from his leadership and dedication to the common
+good.
+
+## Memorandum for the Heads of Executive Departments and Agencies (Presidential Actions, February 18, 2025)
+
+The memorandum issued on February 18, 2025, by President Donald J. Trump focuses on increasing
+transparency regarding wasteful spending by the U.S. government. It highlights concerns that
+taxpayer money has been used for programs and projects that do not align with the national interest,
+often supporting ideological initiatives both domestically and internationally. The memorandum
+directs executive departments and agencies to publicly disclose details of any terminated programs,
+canceled contracts, or discontinued grants, ensuring that this information is shared to the fullest
+extent allowed by law. This move is part of a broader effort to allow the American public to see how
+their tax dollars are being spent and to hold the government accountable for financial decisions.
+
+President Trump has emphasized the need to stop wasteful spending and has taken steps to fulfill his
+campaign promise of increasing government accountability. This includes creating the Department of
+Government Efficiency to oversee federal spending and ensure taxpayer dollars are used effectively.
+The administration is also reviewing and canceling programs from the previous administration that
+are deemed inefficient or politically motivated. This initiative is part of a larger strategy to
+return power to the American people by addressing government corruption and reducing unnecessary
+expenditures.
+
+Overall, the memorandum is a step towards promoting transparency and accountability in government
+spending. By making information about terminated and canceled financial obligations public, the
+administration aims to demonstrate its commitment to using taxpayer money wisely and aligning
+federal spending with the interests of the American people. This approach is intended to build trust
+and ensure that government actions reflect the priorities of the citizens it serves.
