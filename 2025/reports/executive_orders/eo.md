@@ -2363,3 +2363,48 @@ elspezoj. Publikigante informojn pri ĉesigitaj kaj nuligitaj financaj obligacio
 celas pruvi sian devontigon uzi impostpaganton saĝe kaj akordigi federaciajn elspezojn kun la
 interesoj de la usona popolo. Ĉi tiu aliro estas celita konstrui fidon kaj certigi ke registaraj
 agoj reflektas la prioritatojn de la civitanoj kiujn ĝi servas.
+
+## Vastigi Aliron al In Vitro Fekundigo (Prezidantaj Agoj, 18-a de februaro 2025)
+
+Prezidanto Donald Trump subskribis plenuman ordonon la 18-an de februaro 2025, celantan pligrandigi
+aliron al invitra fekundigo (IVF) por usonanoj. La ordo agnoskas la defiojn konfrontitajn de multaj
+paroj kiuj luktas kun malfekundeco, notante ke eĉ unu el sep paroj estas nekapablaj gravedi. La alta
+kosto de IVF, kiu povas varii de $ 12,000 ĝis $ 25,000 per ciklo, estas grava baro por multaj
+familioj. La plenuma ordono serĉas igi IVF pli pagebla reduktante elpoŝajn elspezojn kaj sanplanajn
+kostojn, kaj malpezigante nenecesajn laŭleĝajn aŭ reguligajn ŝarĝojn.
+
+La ordo direktas la Asistanton al la Prezidanto por Hejma Politiko sendi politikajn rekomendojn ene
+de 90 tagoj por protekti IVF-aliron kaj redukti kostojn. Ĉi tiu iniciato estas parto de pli larĝa
+klopodo de la Trump-administrado por subteni familian formadon kaj faciligi al paroj havi infanojn.
+La ordo emfazas la gravecon provizi fidindan aliron al IVF kaj pageblajn kuracajn elektojn por helpi
+familiojn navigi sian vojon al gepatreco kun espero kaj fido.
+
+Dum la plenuma ordo ne rekte ŝanĝas iujn ajn politikojn aŭ kreas novajn rajtojn, ĝi metas la
+scenejon por eblaj leĝdonaj kaj reguligaj ŝanĝoj por plibonigi aliron al IVF. La ordo estigis
+diskutojn pri la rolo de registaro kaj asekurentreprenoj en kovrado de IVF-kostoj, same kiel
+debatojn pri la etikaj implicoj de IVF, precipe inter kontraŭ-abortaj aktivuloj kiuj kontraŭbatalas
+la kreadon kaj eblan forĵeton de embrioj.
+
+## Certigi Respondecon por Ĉiuj Agentejoj (Prezidentaj Agoj, la 18-an de februaro 2025)
+
+La plenuma ordono eldonita la 18-an de februaro 2025 celas certigi, ke ĉiuj federaciaj agentejoj,
+inkluzive de sendependaj reguligaj agentejoj, estas respondecaj antaŭ la Prezidanto kaj, per li,
+antaŭ la usona popolo. La ordo emfazas ke dum la Prezidanto tenas ĉiun plenuman potencon, estas
+nepraktike por li administri ĉiujn federaciajn operaciojn sole. Tial, malĉefaj oficiroj helpas en ĉi
+tiuj taskoj sed restas sub la inspektado de la prezidanto. La ordo traktas zorgojn, ke antaŭaj
+administracioj permesis al sendependaj agentejoj funkcii kun minimuma superrigardo, kondukante al
+manko de respondigebleco kaj kohereco en plenumado de federaciaj leĝoj.
+
+Por trakti ĉi tiujn aferojn, la ordo postulas, ke ĉiuj administraj departementoj kaj agentejoj,
+inkluzive de sendependaj, submetu signifajn reguligajn agojn por revizio de la Oficejo pri Informoj
+kaj Reguligaj Aferoj (OIRA) antaŭ ol ili estas publikigitaj. Ĉi tiu paŝo celas certigi, ke ĉi tiuj
+agentejoj kongruas kun la politikoj kaj prioritatoj de la Prezidanto. Plie, la ordo skizas la rolojn
+kaj difinojn de diversaj agentejoficialuloj kaj establas agadonormojn kaj administradcelojn por
+sendependaj agentejestroj, kun periodaj raportoj al la prezidanto pri ilia efikeco.
+
+La ordo ankaŭ postulas sendependajn reguligajn agentejojn regule interkonsiliĝi kun la Plenuma
+Oficejo de la Prezidanto kaj establi pozicion de Blankdomo-Kontakto ene de iliaj agentejoj. Ĝi
+fiksas regulojn por la interpretado de la leĝo de federaciaj dungitoj, deklarante ke la prezidanto
+kaj la Ĝenerala Prokuroro disponigas aŭtoritatajn laŭleĝajn interpretojn por la ekzekutivo.
+Ĝenerale, la plenuma ordono serĉas alcentrigi kontrolon kaj certigi ke ĉiuj federaciaj agentejoj
+funkciigu sub la gvidado de la prezidanto por konservi respondigeblecon kaj efikan administradon.

@@ -2366,7 +2366,7 @@ States, recognizing him as a foundational figure in the nation's history. It cal
 remember his achievements and to draw inspiration from his leadership and dedication to the common
 good.
 
-## Memorandum for the Heads of Executive Departments and Agencies (Presidential Actions, February 18, 2025)
+## Radical Transparency About Wasteful Spending (Presidential Actions, February 18, 2025)
 
 The memorandum issued on February 18, 2025, by President Donald J. Trump focuses on increasing
 transparency regarding wasteful spending by the U.S. government. It highlights concerns that
@@ -2390,3 +2390,51 @@ spending. By making information about terminated and canceled financial obligati
 administration aims to demonstrate its commitment to using taxpayer money wisely and aligning
 federal spending with the interests of the American people. This approach is intended to build trust
 and ensure that government actions reflect the priorities of the citizens it serves.
+
+## Expanding Access to In Vitro Fertilization (Presidential Actions, February 18, 2025)
+
+President Donald Trump signed an executive order on February 18, 2025, aimed at expanding access to
+in vitro fertilization (IVF) for Americans. The order acknowledges the challenges faced by many
+couples who struggle with infertility, noting that as many as one in seven couples are unable to
+conceive. The high cost of IVF, which can range from $12,000 to $25,000 per cycle, is a significant
+barrier for many families. The executive order seeks to make IVF more affordable by reducing
+out-of-pocket expenses and health plan costs, and by easing unnecessary statutory or regulatory
+burdens.
+
+The order directs the Assistant to the President for Domestic Policy to submit policy
+recommendations within 90 days to protect IVF access and reduce costs. This initiative is part of a
+broader effort by the Trump administration to support family formation and make it easier for
+couples to have children. The order emphasizes the importance of providing reliable access to IVF
+and affordable treatment options to help families navigate their path to parenthood with hope and
+confidence.
+
+While the executive order does not directly change any policies or create new rights, it sets the
+stage for potential legislative and regulatory changes to improve access to IVF. The order has
+sparked discussions about the role of government and insurance companies in covering IVF costs, as
+well as debates about the ethical implications of IVF, particularly among anti-abortion activists
+who oppose the creation and potential discarding of embryos.
+
+## Ensuring Accountability for All Agencies (Presidential Actions, February 18, 2025)
+
+The executive order issued on February 18, 2025, aims to ensure that all federal agencies, including
+independent regulatory agencies, are accountable to the President and, through him, to the American
+people. The order emphasizes that while the President holds all executive power, it is impractical
+for him to manage all federal operations alone. Therefore, subordinate officers assist in these
+duties but remain under the President's supervision. The order addresses concerns that previous
+administrations allowed independent agencies to operate with minimal oversight, leading to a lack of
+accountability and coherence in executing federal laws.
+
+To address these issues, the order mandates that all executive departments and agencies, including
+independent ones, submit significant regulatory actions for review by the Office of Information and
+Regulatory Affairs (OIRA) before they are published. This step is intended to ensure that these
+agencies align with the President's policies and priorities. Additionally, the order outlines the
+roles and definitions of various agency officials and establishes performance standards and
+management objectives for independent agency heads, with periodic reports to the President on their
+performance.
+
+The order also requires independent regulatory agencies to consult regularly with the Executive
+Office of the President and establish a White House Liaison position within their agencies. It sets
+rules for federal employees' interpretation of the law, stating that the President and the Attorney
+General provide authoritative legal interpretations for the executive branch. Overall, the executive
+order seeks to centralize control and ensure that all federal agencies operate under the President's
+guidance to maintain accountability and effective governance.
