@@ -13,11 +13,11 @@ if ($content === FALSE) {
     if (preg_match('/<main.*<\/main>/s', $content, $match)) {
         $content = $match[0];
     }
-    $content = preg_replace('#<script.*</script>#s', ' ', $content);
+    $content = preg_replace('#<script.*?</script>#s', ' ', $content);
     $content = preg_replace('#&nbsp;#', ' ', $content);
 
     // Use strip_tags to remove HTML tags and get only the text
-    $content = preg_replace('/<.*?>/', ' ', $content);
+    $content = preg_replace('/<.*?>/s', ' ', $content);
     $content = html_entity_decode($content);
 
     // Print the plain text content
