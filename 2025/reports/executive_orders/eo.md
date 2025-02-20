@@ -2408,3 +2408,110 @@ fiksas regulojn por la interpretado de la leĝo de federaciaj dungitoj, deklaran
 kaj la Ĝenerala Prokuroro disponigas aŭtoritatajn laŭleĝajn interpretojn por la ekzekutivo.
 Ĝenerale, la plenuma ordono serĉas alcentrigi kontrolon kaj certigi ke ĉiuj federaciaj agentejoj
 funkciigu sub la gvidado de la prezidanto por konservi respondigeblecon kaj efikan administradon.
+
+# Prezidanto Trump Anoncas Nomumojn al la Oficejo pri Interregistaraj Aferoj de la Blanka Domo (Prezidantaj Agoj, la 19-an de februaro 2025)
+
+Prezidanto Trump anoncis novajn nomumojn al la Oficejo pri Interregistaraj Aferoj de la Blanka Domo.
+Ĉi tiu oficejo funkcias kiel la ĉefa ligo inter la federacia registaro kaj ŝtataj, lokaj, tribaj kaj
+teritoriaj registaroj. Alex Meyer gvidos la oficejon kiel Vichelpanto de la Prezidanto kaj
+Direktoro. Meyer havas ampleksan sperton pri laborado pri la kampanjo de Trump en 2024, precipe en
+ŝlosilaj ŝtatoj kiel Kartvelio, Norda Karolino kaj Pensilvanio. Aliaj nomumitoj inkludas Jared Borg,
+Christine Serrano Glassner, Connor Reardon, kaj plurajn aliajn, multaj el kiuj havas fonojn en
+politikaj kampanjoj kaj registaraj roloj.
+
+La nomumitoj alportas abundon da sperto de diversaj politikaj kampanjoj kaj registaraj pozicioj.
+Jared Borg, ekzemple, estis implikita en la kampanjoj de Trump en 2020 kaj 2024 kaj servos kiel
+vicdirektoro por ŝtataj registaroj. Christine Serrano Glassner, kiu funkciis kiel urbestro en
+Nov-Ĵerzejo, koncentriĝos pri lokaj kaj tribaj registaroj. La teamo ankaŭ inkludas individuojn kiel
+Connor Reardon kaj Chase Wilson, kiuj tenis signifajn rolojn en ŝtatpolitikaj operacioj.
+
+La Blankdomo-Oficejo de Interregistaraj Aferoj, sub la gvidado de Alex Meyer, celas konservi
+malfermajn komunikajn kanalojn kun malsamaj niveloj de registaro. Ĉi tiu oficejo estas decida por
+antaŭenigi la prioritatojn de la administracio kaj certigi efikan kunordigon inter federaciaj kaj
+lokaj estaĵoj. La nomumoj reflektas strategian elekton por utiligi kampanjosperton kaj politikan
+kompetentecon por plifortigi tiujn interregistarajn rilatojn.
+
+## Prezidanto Trump Anoncas Nomumojn al la Konsilio de Regantoj (Prezidentaj Agoj, la 19-an de februaro 2025)
+
+Prezidanto Donald J. Trump anoncis novajn nomumojn al la Konsilio de Guberniestroj, ambaŭpartia
+grupo de ŝtatgvidantoj. Ĉi tiu konsilio respondecas pri plifortigado de partnerecoj inter ŝtataj kaj
+federaciaj registaroj, temigante nacian sekurecon, katastrofrespondon kaj armean kunordigon. La
+elelektitaj membroj inkluzivas guberniestrojn el diversaj ŝtatoj, kiel Glenn Youngkin el Virginio
+kaj Josh Stein el Norda Karolino, kiuj funkcios kiel kunprezidantoj. Aliaj membroj inkludas
+guberniestrojn de Florido, Kartvelio, Luiziano, Marilando, Miĉigano, New York, Pensilvanio, kaj suda
+Karolino.
+
+La Konsilio de Guberniestroj estis establita fare de la Nacia Defendo-Aprobo-Leĝo de 2008 kaj estis
+formale kreita per Administra Ordo 13528 en 2010. Ĝi funkcias kiel decida platformo por
+guberniestroj kaj federaciaj oficialuloj por kunlabori en temoj ligitaj al katastrofrespondo,
+Nacigvardio-operacioj, kaj armea integriĝo ene de la ŝtatoj. Ĉi tiu konsilio celas plifortigi la
+kunlaboron inter ŝtataj kaj federaciaj niveloj por efike trakti ĉi tiujn kritikajn areojn.
+
+## 80-a Datreveno de la Batalo de Iwo Jima (Prezidantaj Agoj, la 19-an de februaro 2025)
+
+La teksto estas proklamo de la Prezidanto de Usono, markante la 80-an datrevenon de la Batalo de Iwo
+Jima, kiu komenciĝis la 19-an de februaro 1945. Ĉi tiu batalo estis signifa kaj streĉa kampanjo dum
+la Dua Mondmilito, daŭranta 36 tagojn. La japanaj trupoj furioze defendis la insulon per peza
+artilerio kaj manpafiloj-pafado, sed la amerikaj marsoldatoj montris rimarkindan rezistecon kaj ne
+retiriĝis. Rimarkinda momento dum la batalo estis kiam ses marsoldatoj levis la amerikan flagon sur
+Monto Suribachi, simbolante la kuraĝon kaj persistemon de la usonaj fortoj.
+
+La batalo rezultigis altan nombron da viktimoj, kun preskaŭ 7,000 marsoldatoj kaj maristoj perdantaj
+siajn vivojn kaj 20,000 pli ŭounded. Malgraŭ la gravaj perdoj, la venko ĉe Iwo Jima estis decida por
+la klopodoj de Usono en la Pacifika Teatro. La batalo estis markita per agoj de braveco, kun 27
+marsoldatoj kaj maristoj ricevantaj la Medalon de Honoro, rekordon por ununura batalo en usona
+historio. La proklamo emfazas la gravecon memori la oferojn faritajn de tiuj junuloj kaj la daŭra
+alianco inter Usono kaj Japanio, kiu nun servas kiel fundamento por paco en la Hind-Pacifika
+regiono.
+
+La proklamo de la Prezidanto servas kiel memorigilo de la heroeco kaj ofero de la "Plej Granda
+Generacio" kiu batalis en la Dua Mondmilito. Ĝi alvokas usonanojn honori ĉi tiujn patriotojn kaj
+daŭrigi konstrui nacion kiu reflektas ilian kuraĝon kaj dediĉon. La proklamo oficiale nomumas la
+19-an de februaro 2025 kiel la 80-an Datrevenon de la Batalo de Iwo Jima, instigante ĉiujn
+civitanojn memori kaj omaĝi la sindoneman servon de tiuj, kiuj batalis por libereco.
+
+## Certigi Laŭleĝan Regadon kaj Efektivigi la Reguligan Iniciaton "Departemento de Registara Efikeco" de la Prezidanto (Prezidentaj Agoj, la 19-an de februaro 2025)
+
+La Plenuma Ordo subskribita de Prezidanto Trump la 19-an de februaro 2025 celas certigi laŭleĝan
+regadon per fokuso sur regularoj, kiuj estas klare rajtigitaj de konstituciaj federaciaj statutoj.
+La ordo serĉas malmunti tion, kio estas perceptita kiel superrega administra ŝtato kaj restarigi la
+konstitucian povdisigon. Ĝi emfazas la bezonon fini federacian troatingon kaj prioritati la
+limigitajn devigresursojn de la ekzekutivo en regularoj kiuj akordigas kun konstituciaj statutoj.
+
+La ordo ordonas al agentejestroj revizii ĉiujn regularojn sub ilia jurisdikcio por konsistenco kun
+la leĝo kaj administracia politiko. Ene de 60 tagoj, ili devas identigi regularojn kiuj estas
+kontraŭkonstituciaj, bazitaj sur kontraŭleĝaj delegacioj de potenco, aŭ ne rajtigitaj fare de klara
+laŭleĝa aŭtoritato. La celo estas nuligi aŭ modifi regularojn kiuj trudas signifajn kostojn sen
+publikaj avantaĝoj, malhelpas teknologian novigon aŭ damaĝas la nacian intereson. La ordo ankaŭ
+instigas agentejojn por malprioritigi devigajn agojn kiuj superas konstituciajn potencojn,
+certigante ke resursoj estas uzitaj efike kaj laŭleĝe.
+
+Plie, la ordo skizas la procezon por promulgado de novaj regularoj, devigante agentejojn sekvi
+ekzistantajn procedurojn dum konsiderante kromajn faktorojn fiksitajn en la ordo. Ĝi inkludas
+difinojn por ŝlosilaj terminoj kaj precizigas sendevigojn por certaj agoj ligitaj al nacia sekureco
+kaj aliaj areoj. Ĝenerale, la Plenuma Ordo reprezentas signifan ŝanĝon al pli malreguliga tagordo,
+celante redukti la reguligan ŝarĝon sur privataj partioj kaj plibonigi registaran efikecon.
+
+## Komencante la Reducion de la Federacia Burokratio (Prezidentaj Agoj, la 19-an de februaro 2025)
+
+La plenuma ordono eldonita la 19-an de februaro 2025 celas signife redukti la grandecon de la
+federacia registaro per forigo de nenecesaj komponantoj kaj funkcioj ene de diversaj registaraj
+estaĵoj. La prezidanto opinias, ke redukti la federacian burokration minimumigos registaran
+malŝparon, reduktos inflacion kaj antaŭenigos usonan liberecon kaj novigon. La ordo specife celas
+ne-leĝajn komponentojn de unuoj kiel la Presidio Trust kaj la Usono-Instituto de Paco, inter aliaj,
+por elimino. Estroj de ĉi tiuj entoj devas raporti konformecon kaj pravigi la neceson de siaj
+funkcioj ene de 14 tagoj.
+
+Plie, la ordo postulas la malakcepton de financaj petoj malkongruaj kun ĝiaj celoj kaj revokas
+antaŭajn prezidentajn memorandojn kaj regularojn kiuj establis certajn federaciajn estrarojn kaj
+programojn. Ĝi ankaŭ direktas la finon de pluraj federaciaj konsilaj komisionoj ene de specifaj
+agentejoj. La ordo emfazas, ke ĉi tiuj agoj devus esti kongruaj kun aplikeblaj leĝoj kaj ne devus
+difekti la aŭtoritaton de administraj departementoj aŭ agentejoj. Ĝi klarigas, ke la ordo ne kreas
+ajnajn plenumeblajn rajtojn aŭ avantaĝojn kontraŭ Usono aŭ ĝiaj entoj.
+
+Ĝenerale, ĉi tiu plenuma ordono reflektas pli larĝan politikon plifaciligi registarajn operaciojn
+per tranĉado de tio, kio estas konsiderata nenecesa burokratio. Ĝi substrekas la fokuson de la
+administracio sur efikeco kaj respondigebleco, celante certigi ke registarfunkcioj estas akordigita
+kun laŭleĝaj postuloj kaj publika intereso. La ordo ankaŭ metas kadron por identigado de kromaj
+registaraj unuoj kaj komisionoj kiuj povas esti konsideritaj superfluaj aŭ nenecesaj, antaŭenigante
+la celon de reduktado de la piedsigno de la federacia registaro.

@@ -2439,32 +2439,110 @@ General provide authoritative legal interpretations for the executive branch. Ov
 order seeks to centralize control and ensure that all federal agencies operate under the President's
 guidance to maintain accountability and effective governance.
 
-## Interview of President Trump and Elon Musk by Sean Hannity, “The Sean Hannity Show” (Remarks, February 18, 2025)
-
-In a recent interview with Sean Hannity, President Trump and Elon Musk discussed various topics, including their working relationship and the challenges they face from the media. President Trump mentioned a past lawsuit against Twitter, which resulted in a $10 million settlement, and highlighted Musk's role in supporting his administration without financial compensation. Musk expressed admiration for Trump, stating that he believes the president has been unfairly attacked by the media and has not witnessed any wrongdoing by him.
-
-The conversation also touched on Musk's contributions to technology and his efforts to ensure that presidential executive orders are implemented effectively. Musk emphasized the importance of carrying out these orders to reflect the will of the people, suggesting that bureaucracy often hinders this process. Both Trump and Musk criticized the media for attempting to create a rift between them and for spreading negative publicity, but they agreed that the public is perceptive and understands the situation.
-
-Additionally, the interview highlighted Musk's technological achievements, such as the development of Starlink, which provided crucial communication support during emergencies. Trump praised Musk's ability to execute projects successfully, comparing him to others who may have great ideas but fail to implement them. The discussion also covered the importance of addressing waste and fraud in government spending, with Musk aiming to save a trillion dollars from the deficit to prevent the country from going bankrupt.
-
-Overall, the interview showcased the mutual respect between Trump and Musk, their shared goals of improving government efficiency, and their commitment to addressing challenges despite media criticism. Musk's role as a technologist and his dedication to supporting the administration were emphasized, along with the broader implications of their efforts to restore democracy and reduce bureaucratic obstacles.
-
-## President Trump Announces Appointments to the White House Office of Political Affairs (Briefings & Statements, February 19, 2025)
-
 ## President Trump Announces Appointments to the White House Office of Intergovernmental Affairs (Presidential Actions, February 19, 2025)
 
-## National Energy Dominance Council Paves Way for Unleashing American Energy (Articles, February 19, 2025)
+President Trump has announced new appointments to the White House Office of Intergovernmental
+Affairs. This office acts as the main connection between the federal government and state, local,
+tribal, and territorial governments. Alex Meyer will lead the office as Deputy Assistant to the
+President and Director. Meyer has extensive experience from working on Trump's 2024 campaign,
+particularly in key states like Georgia, North Carolina, and Pennsylvania. Other appointees include
+Jared Borg, Christine Serrano Glassner, Connor Reardon, and several others, many of whom have
+backgrounds in political campaigns and government roles.
+
+The appointees bring a wealth of experience from various political campaigns and government
+positions. Jared Borg, for example, has been involved in Trump's 2020 and 2024 campaigns and will
+serve as Deputy Director for State Governments. Christine Serrano Glassner, who has served as a
+mayor in New Jersey, will focus on local and tribal governments. The team also includes individuals
+like Connor Reardon and Chase Wilson, who have held significant roles in state political operations.
+
+The White House Office of Intergovernmental Affairs, under the leadership of Alex Meyer, aims to
+maintain open communication channels with different levels of government. This office is crucial for
+advancing the administration's priorities and ensuring effective coordination between federal and
+local entities. The appointments reflect a strategic choice to leverage campaign experience and
+political expertise to strengthen these intergovernmental relationships.
 
 ## President Trump Announces Appointments to the Council of Governors (Presidential Actions, February 19, 2025)
 
-## Fact Sheet: President Donald J. Trump Ends Taxpayer Subsidization of Open Borders (Fact Sheets, February 19, 2025)
+President Donald J. Trump has announced new appointments to the Council of Governors, a bipartisan
+group of state leaders. This council is responsible for enhancing partnerships between state and
+federal governments, focusing on national security, disaster response, and military coordination.
+The appointed members include governors from various states, such as Glenn Youngkin from Virginia
+and Josh Stein from North Carolina, who will serve as co-chairs. Other members include governors
+from Florida, Georgia, Louisiana, Maryland, Michigan, New York, Pennsylvania, and South Carolina.
+
+The Council of Governors was established by the National Defense Authorization Act of 2008 and was
+formally created by Executive Order 13528 in 2010. It acts as a crucial platform for governors and
+federal officials to collaborate on issues related to disaster response, National Guard operations,
+and military integration within the states. This council aims to strengthen the cooperation between
+state and federal levels to effectively address these critical areas.
 
 ## 80th Anniversary of the Battle of Iwo Jima (Presidential Actions, February 19, 2025)
 
-## Fact Sheet: President Donald J. Trump Reduces the Federal Bureaucracy (Fact Sheets, February 19, 2025)
+The text is a proclamation by the President of the United States, marking the 80th anniversary of
+the Battle of Iwo Jima, which began on February 19, 1945. This battle was a significant and grueling
+campaign during World War II, lasting 36 days. The Japanese forces fiercely defended the island with
+heavy artillery and small arms fire, but the American Marines showed remarkable resilience and did
+not retreat. A notable moment during the battle was when six Marines raised the American flag on
+Mount Suribachi, symbolizing the courage and determination of the U.S. forces.
+
+The battle resulted in a high number of casualties, with nearly 7,000 Marines and Sailors losing
+their lives and 20,000 more wounded. Despite the heavy losses, the victory at Iwo Jima was crucial
+for the United States' efforts in the Pacific Theater. The battle was marked by acts of bravery,
+with 27 Marines and Sailors receiving the Medal of Honor, a record for a single battle in U.S.
+history. The proclamation emphasizes the importance of remembering the sacrifices made by these
+young men and the enduring alliance between the United States and Japan, which now serves as a
+foundation for peace in the Indo-Pacific region.
+
+The President's proclamation serves as a reminder of the heroism and sacrifice of the "Greatest
+Generation" who fought in World War II. It calls on Americans to honor these patriots and to
+continue building a nation that reflects their courage and dedication. The proclamation officially
+designates February 19, 2025, as the 80th Anniversary of the Battle of Iwo Jima, encouraging all
+citizens to remember and pay tribute to the selfless service of those who fought for freedom.
 
 ## Ensuring Lawful Governance and Implementing the President’s “Department of Government Efficiency” Regulatory Initiative (Presidential Actions, February 19, 2025)
 
-## Fact Sheet: President Donald J. Trump Reins in Government Overreach and Begins Deconstruction of Unconstitutional Administrative State (Fact Sheets, February 19, 2025)
+The Executive Order signed by President Trump on February 19, 2025, aims to ensure lawful governance
+by focusing on regulations that are clearly authorized by constitutional federal statutes. The order
+seeks to dismantle what is perceived as an overbearing administrative state and restore the
+constitutional separation of powers. It emphasizes the need to end federal overreach and prioritize
+the executive branch's limited enforcement resources on regulations that align with constitutional
+statutes.
+
+The order mandates agency heads to review all regulations under their jurisdiction for consistency
+with the law and administration policy. Within 60 days, they must identify regulations that are
+unconstitutional, based on unlawful delegations of power, or not authorized by clear statutory
+authority. The goal is to rescind or modify regulations that impose significant costs without public
+benefits, impede technological innovation, or harm the national interest. The order also encourages
+agencies to de-prioritize enforcement actions that exceed constitutional powers, ensuring that
+resources are used efficiently and lawfully.
+
+Additionally, the order outlines the process for promulgating new regulations, requiring agencies to
+follow existing procedures while considering additional factors set out in the order. It includes
+definitions for key terms and specifies exemptions for certain actions related to national security
+and other areas. Overall, the Executive Order represents a significant shift towards a more
+deregulatory agenda, aiming to reduce the regulatory burden on private parties and enhance
+government efficiency.
 
 ## Commencing the Reduction of the Federal Bureaucracy (Presidential Actions, February 19, 2025)
+
+The executive order issued on February 19, 2025, aims to significantly reduce the size of the
+federal government by eliminating unnecessary components and functions within various governmental
+entities. The President believes that reducing the federal bureaucracy will minimize government
+waste, reduce inflation, and promote American freedom and innovation. The order specifically targets
+non-statutory components of entities like the Presidio Trust and the United States Institute of
+Peace, among others, for elimination. Heads of these entities are required to report compliance and
+justify the necessity of their functions within 14 days.
+
+Additionally, the order mandates the rejection of funding requests inconsistent with its objectives
+and revokes previous presidential memoranda and regulations that established certain federal boards
+and programs. It also directs the termination of several federal advisory committees within specific
+agencies. The order emphasizes that these actions should be consistent with applicable laws and
+should not impair the authority of executive departments or agencies. It clarifies that the order
+does not create any enforceable rights or benefits against the United States or its entities.
+
+Overall, this executive order reflects a broader policy to streamline government operations by
+cutting down on what is deemed unnecessary bureaucracy. It underscores the administration's focus on
+efficiency and accountability, aiming to ensure that government functions are aligned with statutory
+requirements and public interest. The order also sets a framework for identifying additional
+governmental entities and committees that may be considered redundant or unnecessary, furthering the
+goal of reducing the federal government's footprint.
