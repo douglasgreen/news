@@ -2438,3 +2438,33 @@ rules for federal employees' interpretation of the law, stating that the Preside
 General provide authoritative legal interpretations for the executive branch. Overall, the executive
 order seeks to centralize control and ensure that all federal agencies operate under the President's
 guidance to maintain accountability and effective governance.
+
+## Interview of President Trump and Elon Musk by Sean Hannity, “The Sean Hannity Show” (Remarks, February 18, 2025)
+
+In a recent interview with Sean Hannity, President Trump and Elon Musk discussed various topics, including their working relationship and the challenges they face from the media. President Trump mentioned a past lawsuit against Twitter, which resulted in a $10 million settlement, and highlighted Musk's role in supporting his administration without financial compensation. Musk expressed admiration for Trump, stating that he believes the president has been unfairly attacked by the media and has not witnessed any wrongdoing by him.
+
+The conversation also touched on Musk's contributions to technology and his efforts to ensure that presidential executive orders are implemented effectively. Musk emphasized the importance of carrying out these orders to reflect the will of the people, suggesting that bureaucracy often hinders this process. Both Trump and Musk criticized the media for attempting to create a rift between them and for spreading negative publicity, but they agreed that the public is perceptive and understands the situation.
+
+Additionally, the interview highlighted Musk's technological achievements, such as the development of Starlink, which provided crucial communication support during emergencies. Trump praised Musk's ability to execute projects successfully, comparing him to others who may have great ideas but fail to implement them. The discussion also covered the importance of addressing waste and fraud in government spending, with Musk aiming to save a trillion dollars from the deficit to prevent the country from going bankrupt.
+
+Overall, the interview showcased the mutual respect between Trump and Musk, their shared goals of improving government efficiency, and their commitment to addressing challenges despite media criticism. Musk's role as a technologist and his dedication to supporting the administration were emphasized, along with the broader implications of their efforts to restore democracy and reduce bureaucratic obstacles.
+
+## President Trump Announces Appointments to the White House Office of Political Affairs (Briefings & Statements, February 19, 2025)
+
+## President Trump Announces Appointments to the White House Office of Intergovernmental Affairs (Presidential Actions, February 19, 2025)
+
+## National Energy Dominance Council Paves Way for Unleashing American Energy (Articles, February 19, 2025)
+
+## President Trump Announces Appointments to the Council of Governors (Presidential Actions, February 19, 2025)
+
+## Fact Sheet: President Donald J. Trump Ends Taxpayer Subsidization of Open Borders (Fact Sheets, February 19, 2025)
+
+## 80th Anniversary of the Battle of Iwo Jima (Presidential Actions, February 19, 2025)
+
+## Fact Sheet: President Donald J. Trump Reduces the Federal Bureaucracy (Fact Sheets, February 19, 2025)
+
+## Ensuring Lawful Governance and Implementing the President’s “Department of Government Efficiency” Regulatory Initiative (Presidential Actions, February 19, 2025)
+
+## Fact Sheet: President Donald J. Trump Reins in Government Overreach and Begins Deconstruction of Unconstitutional Administrative State (Fact Sheets, February 19, 2025)
+
+## Commencing the Reduction of the Federal Bureaucracy (Presidential Actions, February 19, 2025)
