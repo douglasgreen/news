@@ -11,7 +11,7 @@ following in simple English to give background and explanation for related, ongo
 
 ### Summaries
 
-Summarize and explain this text using simple English in 1-3 paragraphs:
+Summarize and explain this text using simple English in 2-3 paragraphs:
 
 ## Headings
 

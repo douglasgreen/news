@@ -21,7 +21,7 @@ if ($content === FALSE) {
     $content = html_entity_decode($content);
 
     // Print the plain text content
-    echo "Summarize and explain this text using simple English in 1-3 paragraphs:\n";
+    echo "Summarize and explain this text using simple English in 2-3 paragraphs:\n";
     $lines = explode("\n", $content);
     foreach ($lines as $line) {
         $line = trim($line);
