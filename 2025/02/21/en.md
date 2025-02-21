@@ -8,6 +8,12 @@ The database contained records of misconduct by federal officers, aiming to prev
 
 The removal of this database has sparked a debate about the balance between law enforcement accountability and operational freedom. Critics argue that the database was a crucial tool for maintaining transparency and preventing misconduct, while supporters of the shutdown believe it was an unnecessary burden on law enforcement agencies. The decision has raised concerns about the future of police accountability and the potential for misconduct to go unchecked without a centralized tracking system.
 
+### Zelensky's Bold Moves Stir Trump's Fury
+
+In recent peace talks with Russia, Ukrainian President Volodymyr Zelensky made decisions that deeply frustrated U.S. President Donald Trump. The tension between the two leaders escalated when Zelensky rejected a proposal from the U.S. that involved granting access to Ukraine's mineral rights in exchange for American protection. This refusal, along with Zelensky's public criticism of the U.S. for excluding Ukraine from key negotiations, led to a heated exchange of words between the two presidents.
+
+The conflict between Trump and Zelensky has caused concern among European allies, who fear that the discord could embolden Russian President Vladimir Putin. Trump's frustration was evident when he accused Zelensky of being a "dictator without elections" and suggested that Ukraine had started the war with Russia. Zelensky, in turn, accused Trump of living in a "disinformation space" and criticized the U.S. for negotiating with Russia without Ukraine's involvement. Despite the tensions, Trump's team continues to negotiate with Ukraine, hoping to reach a new mineral-rights deal as part of a peace agreement.
+
 ## World
 
 ### Mexico Cracks Down on American Gun Smugglers Amidst Rising Tensions
