@@ -24,11 +24,23 @@ Summarize and explain this text using simple English in 2-3 paragraphs:
 
 ## Technology
 
-## Entertainment
-
-## Sports
-
 ## Science
 
 ## Health
+
+## Entertainment
+
+## Sports
 ```
+
+## Critera
+
+Topics should be:
+* Past, not future, events, no more than 1 week old
+* Personally relevant or interesting
+
+## Length
+
+In each section:
+* 1-2 articles of normal length (2-3 paragraphs)
+* 0-2 articles of short length (1 paragraph)
