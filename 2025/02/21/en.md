@@ -16,6 +16,18 @@ The conflict between Trump and Zelensky intensified as Zelensky publicly critici
 
 Despite the heated exchanges, negotiations continued, with Trump's team working on a new mineral-rights deal as part of a potential peace agreement. However, the proposed deal faced criticism for potentially forcing Ukraine to cede territory and mineral rights with little in return. Critics likened it to a "mafia shakedown," arguing that it would undermine Ukraine's sovereignty. The diplomatic fallout from the Trump-Zelensky clash underscored the complexities of international relations and the delicate balance required to achieve a lasting peace in the region. As the talks progressed, the world watched closely, hoping for a resolution that would ensure Ukraine's independence and stability.
 
+### Elon Musk and the Symbolic Chainsaw at CPAC
+
+At the Conservative Political Action Conference (CPAC), Elon Musk made a memorable appearance by wielding a chainsaw on stage, a gift from Argentine President Javier Milei. The chainsaw, engraved with the slogan "Viva la libertad, carajo," symbolized the fight against bureaucracy and government inefficiency. Musk, known for his cost-cutting initiatives, used this dramatic gesture to emphasize the need for reducing waste in government. The audience responded with enthusiasm, seeing the act as a powerful statement against excessive bureaucracy. This event highlighted the shared vision between Musk and Milei for a leaner government, resonating with the conference's conservative audience.
+
+### Controversial Salute by Steve Bannon at CPAC Draws Widespread Criticism
+
+At the Conservative Political Action Conference (CPAC), Steve Bannon, a former adviser to Donald Trump, sparked controversy by making a gesture that many interpreted as a Nazi salute. This action mirrored a similar gesture made by Elon Musk at a previous event, which also drew criticism. Bannon's gesture involved raising his right arm with his palm down, a move that has historical associations with Nazi ideology. The incident led to an outcry from various political figures, including those from the French far-right, who condemned the gesture as evoking Nazi symbolism. Bannon has not yet responded to the allegations, but the gesture has intensified debates about the use of such symbols in political discourse and the implications of their use by public figures.
+
+### Trump Shuts Down Police Misconduct Database, Sparking Debate
+
+In a controversial move, President Donald Trump has ordered the deletion of a nationwide database that tracked police misconduct, a system initially proposed after the tragic death of George Floyd. This database, which was formally established under President Joe Biden, aimed to prevent officers with histories of misconduct from moving between agencies without accountability. The database included records of nearly 150,000 federal officers and agents, providing a tool for transparency and reform in law enforcement. Critics argue that dismantling this resource undermines efforts to improve public safety and police accountability, while supporters claim it was part of a broader initiative to reduce federal oversight and bureaucracy. The decision has reignited discussions on the balance between law enforcement accountability and administrative control.
+
 ## World
 
 ### Mexico Cracks Down on American Gun Smugglers Amidst Rising Tensions
@@ -36,6 +48,18 @@ Walmart's stock took a significant hit, closing with a loss of 6.5%. The company
 
 The impact of these developments was not limited to Walmart. Other major retailers like Costco and Amazon also saw their stocks decline. The Commerce Department reported a 0.9% drop in retail sales last month, further fueling concerns about consumer spending. As inflation expectations rise, the Federal Reserve faces pressure to balance interest rates without exacerbating inflation. The economic landscape remains uncertain, with investors closely watching how these factors will play out in the coming months.
 
+### Companies Shift Focus Away from Diversity Goals Amid Political Pressure
+
+In recent developments, several major companies, including Citigroup and Pepsi, have decided to change their approach to diversity, equity, and inclusion (DEI) initiatives. Citigroup announced that it would rename its "Diversity, Equity and Inclusion and Talent Management" team to "Talent Management and Engagement" and end its diversity hiring goals. This move comes as part of a broader trend where companies are reevaluating their DEI policies in response to political pressures and changing government regulations.
+
+Similarly, Pepsi has decided to stop using representation goals in hiring and will shift the focus of its "Chief DEI Officer" position towards employee development. The company also plans to adjust its supplier diversity program to support all small businesses, rather than focusing solely on diversity. These changes were revealed in an internal memo shared by anti-DEI activist Robby Starbuck, who has been vocal about his opposition to what he calls "woke policies".
+
+These shifts in corporate DEI strategies are part of a larger movement influenced by political and legal challenges. Many companies are responding to the Trump administration's executive orders, which aim to eliminate DEI programs within the federal government and discourage their use in the private sector. As a result, businesses are reassessing their diversity commitments and language to align with the evolving political landscape, while some companies, like Costco and Apple, continue to stand by their DEI initiatives, emphasizing their importance for business success and innovation.
+
+### Dow Jones Suffers Major Drop Amid Economic Concerns
+
+On Friday, the Dow Jones Industrial Average experienced its worst day of 2025, plummeting over 700 points. This significant drop was fueled by growing fears about the state of economic growth in the United States. Investors were rattled by mixed economic data, including a decline in consumer sentiment and rising inflation expectations. The Services Purchasing Managers Index (PMI) fell below the critical 50.0 mark, indicating contraction, while the Manufacturing PMI showed only a slight improvement. Additionally, UnitedHealth's stock took a hit due to an investigation by the US Justice Department, further dragging down the index. As a result, the Dow closed at its lowest level in over a month, reflecting the market's anxiety over potential recession risks and the Federal Reserve's future interest rate decisions.
+
 ## Technology
 
 ### Oppo Unveils the Find N5: A Slim Folding Phone to Challenge Samsung and Huawei
@@ -45,6 +69,16 @@ Chinese smartphone company Oppo has launched its latest innovation, the Find N5,
 The Find N5 is not just about looks; it packs impressive technology under its slim exterior. It boasts a powerful 5,600 mAh battery made with silicon-carbon material, allowing for high capacity without adding bulk. The phone also features a triple-camera setup with AI enhancements, including a telephoto lens capable of 30x zoom. Oppo has integrated AI capabilities throughout the device, offering features like document summarization and real-time translation, making it a versatile tool for both personal and professional use.
 
 Oppo's new folding phone also introduces innovative connectivity options, such as the ability to link with Mac computers using the O+ Connect app. This feature allows users to transfer files and even control their Mac remotely from the Find N5. With these advancements, Oppo is positioning the Find N5 as a formidable competitor in the foldable phone market, challenging established players like Samsung and Huawei with its combination of style, functionality, and cutting-edge technology.
+
+### DeepSeek's Bold Move: Open-Sourcing AI for All
+
+DeepSeek, a rising star in the AI industry, has announced a groundbreaking initiative to open-source five of its AI code repositories over the course of five days. This move is part of the company's commitment to transparency and community-driven innovation. By making these repositories publicly available, DeepSeek aims to foster collaboration and accelerate advancements in artificial intelligence. The company believes that sharing its code will not only enhance its own models but also contribute to the global AI community's growth. This initiative follows the success of DeepSeek's open-source R1 reasoning model, which has already made waves in the industry by rivaling Western systems in performance.
+
+The decision to open-source these repositories reflects DeepSeek's unique approach in the competitive AI landscape. Unlike many of its peers, DeepSeek prioritizes open-source contributions over commercial gains. The company's founder, Liang Wenfeng, has emphasized the cultural significance of open-source, viewing it as a way to earn respect and drive innovation. This philosophy has resonated with users, as evidenced by the rapid growth of DeepSeek's user base, which now boasts over 22 million daily active users. By sharing its code, DeepSeek hopes to inspire others to build upon its work, creating a ripple effect of innovation and collaboration across the AI community.
+
+### Apple Removes Data Protection Tool in UK Amid Government Dispute Over Encryption Access
+
+Apple has decided to remove its Advanced Data Protection (ADP) tool, which provides end-to-end encryption for user data, from its UK customers following a dispute with the UK government. The government requested access to encrypted user data under the Investigatory Powers Act, which Apple opposed, citing privacy concerns and the risk of creating a "backdoor" that could be exploited by hackers. As a result, Apple will no longer offer this high-level security feature in the UK, meaning that data stored on iCloud will not be fully encrypted and could be accessed by Apple and shared with law enforcement if required by a warrant. This decision has sparked criticism from privacy advocates and tech industry experts, who argue that it weakens online security and sets a concerning precedent for other countries. Apple expressed disappointment over the situation and reiterated its commitment to user privacy and security.
 
 ## Entertainment
 
@@ -66,11 +100,7 @@ The transition of creative control to Amazon marks a significant shift in the Ja
 
 ### Chhaava: The Roar of a Warrior King
 
-The movie "Chhaava" has taken the Indian film industry by storm, captivating audiences with its powerful portrayal of Chhatrapati Sambhaji Maharaj, the son of the legendary Shivaji Maharaj. Directed by Laxman Utekar, the film stars Vicky Kaushal in a commanding role, supported by a talented cast including Rashmika Mandanna, Diana Penty, and Akshaye Khanna. The film's narrative is set against the backdrop of the Mughal Empire's dominance in India, focusing on Sambhaji's fierce resistance and his quest to uphold the legacy of Hindavi Swaraj, a concept of self-rule initiated by his father.
-
-"Chhaava" opens with the death of Shivaji Maharaj, which leaves a void in the Maratha Empire. The young Sambhaji, portrayed with intensity by Vicky Kaushal, steps into his father's shoes, determined to protect his people and their sovereignty. The film is a visual spectacle, with grand battle sequences and a stirring musical score by A.R. Rahman that enhances the emotional depth of the story. Despite its historical setting, the film resonates with contemporary audiences, drawing parallels between past and present struggles for freedom and identity.
-
-The film's climax is particularly noteworthy, as it showcases Sambhaji's unwavering courage in the face of overwhelming odds. While the movie has been praised for its action sequences and performances, it also invites viewers to reflect on the complexities of history and the enduring spirit of resistance. "Chhaava" is not just a tale of war and valor; it is a tribute to the unsung heroes of India's past, whose stories continue to inspire generations. Through its cinematic brilliance, "Chhaava" reminds us of the importance of remembering and honoring our history.
+The movie "Chhaava," directed by Laxman Utekar, is a historical action film that has captivated audiences with its portrayal of Chhatrapati Sambhaji Maharaj, the son of Shivaji Maharaj. Starring Vicky Kaushal, the film is set during the Mughal Empire's dominance in India and focuses on Sambhaji's resistance and his efforts to uphold his father's legacy of Hindavi Swaraj, or self-rule. The film features grand battle sequences and a musical score by A.R. Rahman, enhancing its emotional depth. Despite its historical setting, "Chhaava" resonates with contemporary audiences by drawing parallels between past and present struggles for freedom. The film has been praised for its action sequences and performances, particularly Kaushal's portrayal of Sambhaji, while also inviting viewers to reflect on the complexities of history and the spirit of resistance. Released on February 14, 2025, it has become the highest-grossing Indian film of the year, earning ₹318.46 crore worldwide.
 
 ## Sports
 
@@ -89,6 +119,14 @@ Astronomers have achieved a groundbreaking feat by mapping the 3D structure of a
 The research team, led by Julia Victoria Seidel, used the ESPRESSO instrument on the VLT to combine the light from four telescope units into a single signal. This allowed them to observe the planet's atmosphere in unprecedented detail. They discovered distinct winds in different layers of the atmosphere, with a jet stream rotating material around the planet's equator and another flow moving gas from the hot side to the cooler side. This unique climate, with its violent jet streams and temperature contrasts, has never been seen before on any planet, challenging our understanding of weather systems not just on Earth, but across the universe.
 
 This study opens new doors for exploring the atmospheres of distant planets, emphasizing the importance of ground-based observations. The findings also highlight the potential for future research with larger telescopes, such as the upcoming Extremely Large Telescope (ELT) in Chile. As astronomers continue to uncover the secrets of these alien worlds, we are on the brink of discovering phenomena that were once only imaginable in science fiction.
+
+### The X-37B: A New Era for the U.S. Space Force
+
+The X-37B is a remarkable spacecraft that is helping shape the future of the U.S. Space Force. This small, unmanned spaceplane has been quietly orbiting the Earth, gathering valuable data for the military. Built by Boeing, the X-37B is designed to test new technologies and conduct experiments in space. It can stay in orbit for long periods, much longer than the old space shuttles, and it can land back on Earth like an airplane. This makes it a perfect tool for the Space Force to learn more about operating in space, which is becoming more crowded with satellites and debris.
+
+One of the most exciting things about the X-37B is its ability to perform new maneuvers in space. Recently, it tested a technique called aerobraking, which uses the Earth's atmosphere to slow down and change orbits without using much fuel. This maneuver is important because it allows the spacecraft to move more efficiently and avoid collisions with other objects in space. The data collected from these maneuvers helps the Space Force develop better strategies for future space missions and improve their ability to protect U.S. interests in space.
+
+The X-37B is not just about testing new technologies; it also plays a crucial role in the Space Force's mission to maintain space superiority. By gathering real-world data and testing new capabilities, the X-37B helps the military understand how to operate in space more effectively. This knowledge is vital as the U.S. prepares for the possibility of conflicts in space. The X-37B's success demonstrates the importance of having a reliable, reusable spacecraft that can adapt to the challenges of space operations. As the Space Force continues to evolve, the lessons learned from the X-37B will guide the development of future spacecraft and strategies.
 
 ## Health
 
