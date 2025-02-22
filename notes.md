@@ -38,6 +38,7 @@ Summarize and explain this text using simple English in 2-3 paragraphs:
 Topics should be:
 
 - Past, not future, events, no more than 1 week old
+- Should be action, not just talk or opinions
 - Personally relevant or interesting
 
 ## Length
