@@ -2546,3 +2546,70 @@ efficiency and accountability, aiming to ensure that government functions are al
 requirements and public interest. The order also sets a framework for identifying additional
 governmental entities and committees that may be considered redundant or unnecessary, furthering the
 goal of reducing the federal government's footprint.
+
+## Defending American Companies and Innovators From Overseas Extortion and Unfair Fines and Penalties (Presidential Actions, February 21, 2025)
+
+The memorandum from the President addresses the issue of foreign governments imposing unfair taxes
+and regulations on American companies, particularly in the technology sector. These actions, such as
+digital services taxes (DSTs), are seen as attempts by foreign countries to extract revenue from
+successful American companies, which could cost billions of dollars. The memorandum highlights that
+these measures not only violate American sovereignty but also increase operational costs and expose
+sensitive information to potentially hostile foreign regulators. The administration is committed to
+protecting American companies and workers from these anti-competitive practices and will not allow
+American businesses to support failing foreign economies through such extortive measures.
+
+To counter these challenges, the administration has outlined a policy to impose tariffs and take
+other necessary actions against foreign governments that impose discriminatory or disproportionate
+burdens on American companies. The policy aims to mitigate harm to the United States and restore
+balance. The administration will consider various factors, including taxes and regulations that
+inhibit the growth of U.S. companies or require them to jeopardize their intellectual property. The
+memorandum also assigns responsibilities to various agencies, such as the United States Trade
+Representative, to investigate and respond to these unfair practices, ensuring that American
+companies remain competitive globally.
+
+The memorandum emphasizes the need for a coordinated response to protect American interests. It
+directs the United States Trade Representative and other officials to investigate and address
+discriminatory practices by foreign governments, particularly those in the European Union, the UK,
+and Canada. The administration seeks to establish a process for American businesses to report
+harmful foreign tax or regulatory practices. Overall, the memorandum underscores the
+administration's commitment to defending American companies from overseas extortion and ensuring
+that U.S. economic and national security interests are not compromised by unfair foreign policies.
+
+## America First Investment Policy (Presidential Actions, February 21, 2025)
+
+The "America First Investment Policy," signed on February 21, 2025, is a strategic directive aimed
+at balancing economic growth with national security. It encourages investments from allied countries
+while imposing restrictions on investments from adversaries, particularly China. The policy seeks to
+make the United States an attractive destination for investment by simplifying the process for
+allies, especially in technology and critical sectors, while being cautious about investments from
+countries that pose security risks. This approach is intended to protect U.S. national interests and
+foster economic growth by leveraging the country's attractive assets.
+
+The policy outlines several measures to achieve its objectives. It introduces a "fast-track" process
+to facilitate investments from allies in U.S. advanced technology and other important areas, while
+imposing restrictions on investments from adversaries in sensitive sectors like critical
+infrastructure and personal data. The policy also aims to limit U.S. investments in China's
+military-related industries and considers reviewing the U.S.-China tax treaty to protect American
+industries. Additionally, it ensures that U.S. retirement funds and university endowments do not
+invest in adversary companies, safeguarding American savings.
+
+Critics of the policy express concerns that it might discourage all foreign investments, potentially
+harming U.S. companies that rely on foreign funding and leading to higher costs for consumers. They
+also worry about government overreach in business decisions, which could undermine free market
+principles. However, proponents argue that the policy is necessary to protect national security and
+prevent technology theft, while also creating jobs by attracting investments from allies. The
+success of the policy will depend on balancing these objectives and its impact on U.S. economic
+competitiveness and international relations.
+
+## President Trump Takes Decisive Action to Deliver Relief to Kentucky (Presidential Actions, February 25, 2025)
+
+President Donald J. Trump has issued a Major Disaster Declaration for Kentucky due to severe storms
+and flooding, allowing federal funds to aid affected individuals and communities. This assistance
+includes grants for temporary housing and support for businesses, as well as funding for local
+governments and nonprofits. Acting FEMA Administrator Cameron Hamilton praised the President's quick
+response, which began with an emergency declaration on February 16, enabling search and rescue
+operations. Deputy White House Press Secretary Kush Desai emphasized the administration's commitment
+to providing necessary resources to help Kentucky recover. Governor Andy Beshear and Congressman Hal
+Rogers expressed gratitude for the swift approval of the disaster declaration, which will provide
+both public and individual assistance to ten counties. This declaration follows an earlier emergency
+declaration, with Governor Beshear noting the rapid response to their requests.

@@ -2515,3 +2515,71 @@ administracio sur efikeco kaj respondigebleco, celante certigi ke registarfunkci
 kun laŭleĝaj postuloj kaj publika intereso. La ordo ankaŭ metas kadron por identigado de kromaj
 registaraj unuoj kaj komisionoj kiuj povas esti konsideritaj superfluaj aŭ nenecesaj, antaŭenigante
 la celon de reduktado de la piedsigno de la federacia registaro.
+
+## Defendante usonajn kompaniojn kaj novigantojn kontraŭ transmara ĉantaĝo kaj maljustaj monpunoj kaj punoj (prezidentaj agoj, la 21-an de februaro 2025)
+
+La memorando de la Prezidanto traktas la temon de eksterlandaj registaroj trudantaj maljustajn
+impostojn kaj regularojn al usonaj kompanioj, precipe en la teknologia sektoro. Ĉi tiuj agoj, kiel
+ekzemple ciferecaj servoj-impostoj (DSTs), estas rigardataj kiel provoj de eksterlandoj por ĉerpi
+enspezojn de sukcesaj usonaj kompanioj, kiuj povus kosti miliardojn da dolaroj. La memorando
+emfazas, ke ĉi tiuj mezuroj ne nur malobservas usonan suverenecon sed ankaŭ pliigas operaciajn
+kostojn kaj elmontras sentemajn informojn al eble malamikaj eksterlandaj reguligistoj. La
+administracio kompromitas protekti usonajn kompaniojn kaj laboristojn de ĉi tiuj kontraŭkonkurencaj
+praktikoj kaj ne permesos al usonaj entreprenoj subteni malsukcesajn eksterlandajn ekonomiojn per
+tiaj ĉantaĝaj rimedoj.
+
+Por kontraŭstari ĉi tiujn defiojn, la administracio skizis politikon por trudi tarifojn kaj fari
+aliajn necesajn agojn kontraŭ eksterlandaj registaroj kiuj trudas diskriminaciajn aŭ neproporciajn
+ŝarĝojn al usonaj kompanioj. La politiko celas mildigi damaĝon al Usono kaj restarigi ekvilibron. La
+administrado konsideros diversajn faktorojn, inkluzive de impostoj kaj regularoj, kiuj malhelpas la
+kreskon de usonaj kompanioj aŭ devigas ilin endanĝerigi ilian intelektan proprieton. La memorando
+ankaŭ atribuas respondecojn al diversaj agentejoj, kiel la Usona Komerca Reprezentanto, por esplori
+kaj respondi al ĉi tiuj maljustaj praktikoj, certigante, ke usonaj kompanioj restu konkurencivaj
+tutmonde.
+
+La memorando emfazas la bezonon de kunordigita respondo por protekti usonajn interesojn. Ĝi direktas
+la Usonan Komercan Reprezentanton kaj aliajn oficialulojn esplori kaj trakti diskriminaciajn
+praktikojn de eksterlandaj registaroj, precipe tiuj en la Eŭropa Unio, la UK, kaj Kanado. La
+administracio serĉas establi procezon por amerikaj entreprenoj por raporti damaĝajn eksterlandajn
+impostojn aŭ reguligajn praktikojn. Ĝenerale, la memorando substrekas la engaĝiĝon de la
+administracio defendi usonajn kompaniojn kontraŭ transmara ĉantaĝo kaj certigi, ke usonaj ekonomiaj
+kaj naciaj sekurecaj interesoj ne estas kompromititaj de maljustaj eksteraj politikoj.
+
+## Amerika Unua Investpolitiko (Prezidantaj Agoj, la 21-an de februaro 2025)
+
+La "America First Investment Policy", subskribita la 21-an de februaro 2025, estas strategia
+direktivo celanta ekvilibrigi ekonomian kreskon kun nacia sekureco. Ĝi instigas investojn de
+aliancitaj landoj dum trudado de restriktoj al investoj de kontraŭuloj, precipe Ĉinio. La politiko
+celas igi Usonon alloga celo por investado simpligante la procezon por aliancanoj, precipe en
+teknologio kaj kritikaj sektoroj, dum estante singarda pri investoj de landoj kiuj prezentas
+sekurecajn riskojn. Ĉi tiu aliro celas protekti usonajn naciajn interesojn kaj kreskigi ekonomian
+kreskon utiligante la allogajn valoraĵojn de la lando.
+
+La politiko skizas plurajn mezurojn por atingi siajn celojn. Ĝi enkondukas "rapidan" procezon por
+faciligi investojn de aliancanoj en usona progresinta teknologio kaj aliaj gravaj areoj, dum trudas
+restriktojn al investoj de kontraŭuloj en sentemaj sektoroj kiel kritika infrastrukturo kaj personaj
+datumoj. La politiko ankaŭ celas limigi usonajn investojn en la milit-rilataj industrioj de Ĉinio
+kaj pripensas revizii la imposttraktaton de Usono kaj Ĉinio por protekti usonajn industriojn.
+Aldone, ĝi certigas, ke usonaj emeritiĝaj fondusoj kaj universitataj fondusoj ne investas en
+kontraŭaj kompanioj, protektante usonajn ŝparaĵojn.
+
+Kritikistoj de la politiko esprimas zorgojn, ke ĝi povus malinstigi ĉiujn eksterlandajn investojn,
+eble damaĝante usonajn kompaniojn kiuj dependas de eksterlanda financado kaj kondukante al pli altaj
+kostoj por konsumantoj. Ili ankaŭ zorgas pri registara troa atingo en komercaj decidoj, kiuj povus
+subfosi libermerkatajn principojn. Tamen, propagandantoj argumentas ke la politiko estas necesa por
+protekti nacian sekurecon kaj malhelpi teknologioŝtelon, dum ankaŭ kreante laborlokojn altirante
+investojn de aliancanoj. La sukceso de la politiko dependos de ekvilibro de ĉi tiuj celoj kaj ĝia
+efiko al usona ekonomia konkurencivo kaj internaciaj rilatoj.
+
+## Prezidanto Trump Prenas Decidan Agon Liveri Krizhelpon al Kentukio (Prezidentaj Agoj, la 25-an de februaro 2025)
+
+Prezidanto Donald J. Trump publikigis Gravan Katastrofon-Deklaracion por Kentukio pro severaj
+ŝtormoj kaj inundo, permesante al federaciaj financoj helpi tuŝitajn individuojn kaj komunumojn. Ĉi
+tiu asistado inkluzivas subvenciojn por provizora loĝado kaj subteno por entreprenoj, same kiel
+financadon por lokaj administracioj kaj neprofitoj. Portempa administranto de FEMA Cameron Hamilton
+laŭdis la rapidan respondon de la prezidanto, kiu komenciĝis per kriz-deklaro la 16-an de februaro,
+ebligante serĉajn kaj savoperaciojn. Deputito Blankdomo Gazetara sekretario Kush Desai emfazis la
+engaĝiĝon de la administracio provizi necesajn rimedojn por helpi Kentukion resaniĝi. Guberniestro
+Andy Beshear kaj Kongresano Hal Rogers esprimis dankemon pro la rapida aprobo de la katastrofa
+deklaro, kiu provizos kaj publikan kaj individuan helpon al dek gubernioj. Ĉi tiu deklaracio sekvas
+pli fruan kriz-deklaron, kie guberniestro Beshear rimarkas la rapidan respondon al iliaj petoj.
