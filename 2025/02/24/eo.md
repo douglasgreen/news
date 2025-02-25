@@ -300,6 +300,31 @@ Nigra sperto en Ameriko. Kun sia debuto ĉe CBS, ĉi tiu serio promesas allogi s
 konvinka rakontado kaj dinamikaj karakteroj, markante novan ĉapitron en la mondo de tagtempa
 televido.
 
+### Avowed: Nova Fantazia Aventuro Disvolvas sur Xbox kaj PC
+
+Avowed, la plej nova fantazia RPG de Obsidian Entertainment, finfine estis publikigita por Xbox kaj
+PC, kaptante la korojn de ludantoj per sia riĉa rakontado kaj enpenetra mondo. Lokita en la universo
+de Kolonoj de Eterneco, Avowed invitas ludantojn esplori la viglajn kaj popolplenajn Vivantajn
+Terojn. Kiel Diosimila karaktero, ludantoj estas taskigitaj per malimplikado de la mistero de la
+Dreamscorge, pesto kaŭzanta frenezon trans la tero. La ludo ofertas miksaĵon de ekscita batalo,
+profunda personigo de karakteroj kaj signifaj elektoj, kiuj influas la rezulton de la rakonto. Kun
+mirindaj bildoj funkciigitaj de Unreal Engine 5, Avowed promesas allogan sperton, kiu kombinas la
+plej bonajn elementojn de klasikaj RPG-oj kun modernaj novigoj. Ĉu vi enprofundiĝas en antikvajn
+ruinojn aŭ okupiĝas pri epopeaj bataloj, Avowed disponigas allogan vojaĝon, kiun ĝuos kaj novaj kaj
+spertaj RPG-adorantoj.
+
+### Swashbuckling Adventure de Majima: Kiel Drako: Pirato Jakuza en Havajo
+
+En la plej nova epizodo de la amata franĉizo, "Kiel Drako: Pirato Jakuza en Havajo", ludantoj estas
+kondukitaj al ekscita vojaĝo kun Goro Majima, ŝatata rolulo. Metita sur la vigla fono de Havajo, ĉi
+tiu ludo kombinas la eksciton de pirataj aventuroj kun la klasika Yakuza ago. Majima, kiu trovas sin
+lavita marborde sen memoro, komencas serĉon por trovi la legendan Esperanza trezoron. Kune kun juna
+knabo nomita Noaĥo, Majima navigas tra defioj, batalas kontraŭ piratoj, kaj esploras la
+malferma-mondajn mapojn de Honolulu kaj Madlantis. La ludo ofertas miksaĵon de batbataloj kaj
+marbataloj, provizante freŝan turnon al la serio. Kun ĝia alloga intrigo, buntaj agordoj kaj
+diversaj mini-ludoj, "Kiel Drako: Pirato Jakuza en Havajo" estas rava aventuro, kiu kaptas la
+esencon de amuzo kaj esplorado, igante ĝin nepra ludo por novaj kaj veteranaj ŝatantoj de la serio.
+
 ## Sportoj
 
 ### Dramatic Overtime Venko de Christopher Bell ĉe Atlanta Motor Speedway

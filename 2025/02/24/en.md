@@ -300,6 +300,32 @@ of the Black experience in America. With its debut on CBS, this series promises 
 audiences with its compelling storytelling and dynamic characters, marking a new chapter in the
 world of daytime television.
 
+### Avowed: A New Fantasy Adventure Unfolds on Xbox and PC
+
+Avowed, the latest fantasy RPG from Obsidian Entertainment, has finally been released for Xbox and
+PC, capturing the hearts of gamers with its rich storytelling and immersive world. Set in the
+universe of Pillars of Eternity, Avowed invites players to explore the vibrant and lore-filled
+Living Lands. As a Godlike character, players are tasked with unraveling the mystery of the
+Dreamscourge, a plague causing madness across the land. The game offers a mix of thrilling combat,
+deep character customization, and meaningful choices that impact the story's outcome. With stunning
+visuals powered by Unreal Engine 5, Avowed promises an engaging experience that combines the best
+elements of classic RPGs with modern innovations. Whether you're delving into ancient ruins or
+engaging in epic battles, Avowed provides a captivating journey that both new and seasoned RPG fans
+will enjoy.
+
+### Majima's Swashbuckling Adventure: Like a Dragon: Pirate Yakuza in Hawaii
+
+In the latest installment of the beloved franchise, "Like a Dragon: Pirate Yakuza in Hawaii,"
+players are taken on a thrilling journey with Goro Majima, a fan-favorite character. Set against the
+vibrant backdrop of Hawaii, this game combines the excitement of pirate adventures with the classic
+Yakuza action. Majima, who finds himself washed ashore with no memory, embarks on a quest to find
+the legendary Esperanza treasure. Alongside a young boy named Noah, Majima navigates through
+challenges, battles pirates, and explores the open-world maps of Honolulu and Madlantis. The game
+offers a mix of beat 'em up combat and naval battles, providing a fresh twist to the series. With
+its engaging storyline, colorful settings, and a variety of mini-games, "Like a Dragon: Pirate
+Yakuza in Hawaii" is a delightful adventure that captures the essence of fun and exploration, making
+it a must-play for both new and veteran fans of the series.
+
 ## Sports
 
 ### Christopher Bell's Dramatic Overtime Victory at Atlanta Motor Speedway
