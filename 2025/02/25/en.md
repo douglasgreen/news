@@ -28,6 +28,19 @@ Ukraine's critical minerals. While their countries have different stances at the
 Trump and Macron's discussions focused on finding common ground to end the war and support Ukraine's
 future security.
 
+### Supreme Court Grants New Trial for Oklahoma Death Row Inmate
+
+Richard Glossip, an Oklahoma man who has been on death row for over two decades, has been granted a
+new trial by the U.S. Supreme Court. Glossip was convicted in 1997 for the murder of a motel owner,
+a crime he has always claimed he did not commit. The Supreme Court's decision came after it was
+revealed that prosecutors allowed false testimony from a key witness, Justin Sneed, who had
+confessed to the murder but claimed Glossip had hired him to do it. The court found that Glossip's
+constitutional rights were violated because the prosecution did not correct this false testimony.
+This ruling marks a significant turn in a long legal battle, as Glossip has faced nine execution
+dates and has had his conviction upheld multiple times by Oklahoma courts. Now, with the Supreme
+Court's intervention, Glossip will have the opportunity for a fair trial, a decision celebrated by
+his family and legal team as a victory for justice.
+
 ## World
 
 ### Mourning and Unity: Beirut Bids Farewell to Hezbollah Leader Nasrallah
@@ -46,6 +59,18 @@ delegations from Iran, Iraq, and Yemen, highlighting the regional significance o
 leadership. As his body was laid to rest, the legacy of Hassan Nasrallah remained a topic of deep
 admiration and controversy, reflecting the complex political and sectarian dynamics of the Middle
 East.
+
+### UK to Increase Military Spending to Counter Russian Threat
+
+In response to growing concerns about Russian aggression, UK Prime Minister Keir Starmer announced a
+significant increase in military spending. By 2027, the UK plans to raise its defense budget to 2.5%
+of its GDP, marking the largest sustained increase since the Cold War. This decision comes amid
+rising tensions in Europe and aims to strengthen the UK's defense capabilities against threats like
+cyberattacks and chemical weapons incidents. The additional funding, amounting to £13.4 billion
+annually, will be sourced from cuts to foreign aid. Starmer emphasized the importance of standing
+with Ukraine to ensure lasting peace and stability, as economic and security threats continue to
+grow. This move also aligns with calls from the US for European nations to take more responsibility
+for their own defense.
 
 ## Business
 
@@ -88,6 +113,17 @@ assured its users that other cold wallets remain secure and has taken steps to r
 funds, collaborating with blockchain analysis firms and offering a bounty for information leading to
 the recovery of the assets.
 
+### Gemini Code Assist: Free AI Help for Coders Everywhere
+
+Gemini Code Assist is now available for free, offering AI-powered coding assistance to developers
+worldwide. This tool is designed to help both beginners and experienced developers by providing code
+completions, generating code snippets, and assisting with debugging and code reviews. With a
+generous limit of up to 180,000 code completions per month, Gemini Code Assist ensures that
+developers can work without worrying about hitting usage caps. It supports a wide range of
+programming languages and integrates seamlessly with popular IDEs like Visual Studio Code and
+JetBrains. This initiative aims to make advanced coding tools accessible to everyone, from students
+to startups, enabling them to build and innovate with ease.
+
 ## Science
 
 ### Asteroid 2024 YR4: No Longer a Threat to Earth
@@ -128,6 +164,19 @@ biological aging. The research underscores the potential benefits of focusing on
 environmental factors to prevent age-related diseases and premature death. By addressing these
 factors through individual choices and policy interventions, there is an opportunity to improve
 public health and extend life expectancy.
+
+### Measles Outbreak Hits Texas and New Mexico, Nearly 100 Cases Reported
+
+In recent weeks, health officials in Texas and New Mexico have been grappling with a significant
+measles outbreak, with nearly 100 cases reported across the two states. The majority of these cases
+have been identified in Texas, particularly in the South Plains area, where 90 cases have been
+diagnosed, mostly affecting children and teenagers under 17. New Mexico has reported nine cases in
+Lea County, which borders Texas. The outbreak is alarming due to the highly contagious nature of
+measles, which can lead to severe complications, especially in young children and pregnant women.
+Health experts emphasize the importance of vaccination, as the measles, mumps, and rubella (MMR)
+vaccine is 97% effective in preventing the disease. However, vaccination rates have declined in some
+communities, contributing to the spread. Officials are urging residents to ensure they are
+vaccinated to prevent further cases and protect vulnerable populations.
 
 ## Entertainment
 
