@@ -30,6 +30,8 @@ Summarize and explain this text using simple English in 2-3 paragraphs:
 
 ## Entertainment
 
+Movies, TV, Games, and Music
+
 ## Sports
 ```
 
