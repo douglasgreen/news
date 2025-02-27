@@ -30,6 +30,12 @@ Nvidia, a leading chipmaker, recently announced impressive financial results for
 
 ## Technology
 
+### Pew Study Explores Worker Usage of Chatbots
+
+A Pew Research Center study published on February 25, 2025, explores how U.S. workers are engaging with AI chatbots, such as ChatGPT, Gemini, and Copilot, in their jobs. The findings reveal that a majority of workers (55%) rarely or never use these tools at work, while 29% have not even heard of their workplace applications. Only a small fraction use AI chatbots regularly: 9% daily or a few times a week, and 7% a few times a month. Among those who do use them, common tasks include research (57%), editing written content (52%), and drafting reports or documents (47%).
+
+Workers who use AI chatbots frequently report greater benefits, with 54% saying they significantly speed up work and 41% noting improved work quality, compared to 25% and 16% among infrequent users. Younger workers (ages 18-29) and those with higher education are more likely to adopt these tools, with 23% of 18-29-year-olds using them at least a few times a month. Among non-users, 36% cite a lack of relevance to their job as the main reason for not using AI chatbots, while 22% express disinterest. Overall, the study highlights a cautious and limited embrace of AI chatbots in the workplace as of late 2024, with adoption varying by age, education, and frequency of use.
+
 ## Science
 
 ## Health
