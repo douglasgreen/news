@@ -20,8 +20,12 @@ if ($content === FALSE) {
     $content = preg_replace('/<.*?>/s', ' ', $content);
     $content = html_entity_decode($content);
 
+    preg_match_all('/\pL+/u', $content, $words);
+    $wordCount = count($words[0]);
+    $parCount = min(ceil($wordCount / 500), 4);
+
     // Print the plain text content
-    echo "Summarize and explain this text using simple English in 2-3 paragraphs:\n";
+    echo "Summarize and explain this text using simple English in $parCount paragraphs:\n";
     $lines = explode("\n", $content);
     foreach ($lines as $line) {
         $line = trim($line);
