@@ -1,0 +1,82 @@
+#!/bin/env bash
+
+# Check if both arguments are provided
+if [ $# -ne 2 ]; then
+    echo "Usage: $0 <input_file> <language>"
+    echo "Supported languages: Esperanto, French, German, Greek, Italian, Latin, Portuguese, Spanish"
+    exit 1
+fi
+
+# Get the input file and language from command line arguments
+INPUT_FILE=$1
+LANGUAGE=$2
+
+# Activate the Python virtual environment
+source ~/myenv/bin/activate
+
+# Check if input file exists
+if [ ! -f "$INPUT_FILE" ]; then
+    echo "Error: Input file '$INPUT_FILE' does not exist"
+    exit 1
+fi
+
+# Get the directory path of the input file
+INPUT_DIR=$(dirname "$INPUT_FILE")
+
+# Determine output file extension based on language
+case "$LANGUAGE" in
+    "Esperanto")
+        OUTPUT_EXT="eo.md"
+        ;;
+    "French")
+        OUTPUT_EXT="fr.md"
+        ;;
+    "German")
+        OUTPUT_EXT="de.md"
+        ;;
+    "Greek")
+        OUTPUT_EXT="el.md"
+        ;;
+    "Italian")
+        OUTPUT_EXT="it.md"
+        ;;
+    "Latin")
+        OUTPUT_EXT="la.md"
+        ;;
+    "Portuguese")
+        OUTPUT_EXT="pt.md"
+        ;;
+    "Spanish")
+        OUTPUT_EXT="es.md"
+        ;;
+    *)
+        echo "Unsupported language: $LANGUAGE"
+        echo "Supported languages: Esperanto, French, German, Greek, Italian, Latin, Portuguese, Spanish"
+        exit 1
+        ;;
+esac
+
+# Construct the full output file path
+OUTPUT_FILE="$INPUT_DIR/$OUTPUT_EXT"
+
+# Run the initial command to generate input files
+md4trans "$INPUT_FILE"
+
+# Get the list of input files matching input*
+files=(input*)
+
+# Check if any files were found
+if [ ${#files[@]} -eq 0 ]; then
+    echo "No input files found matching input*"
+    exit 1
+fi
+
+# Process the first file (overwrite output)
+translate gpt-4o-mini "$LANGUAGE" "${files[0]}" > "$OUTPUT_FILE"
+
+# Process remaining files (append to output)
+for ((i=1; i<${#files[@]}; i++)); do
+    translate gpt-4o-mini "$LANGUAGE" "${files[$i]}" >> "$OUTPUT_FILE"
+done
+
+echo "Translation to $LANGUAGE completed. Results saved in $OUTPUT_FILE"
