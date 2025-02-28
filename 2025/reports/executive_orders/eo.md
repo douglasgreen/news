@@ -2583,3 +2583,80 @@ engaĝiĝon de la administracio provizi necesajn rimedojn por helpi Kentukion re
 Andy Beshear kaj Kongresano Hal Rogers esprimis dankemon pro la rapida aprobo de la katastrofa
 deklaro, kiu provizos kaj publikan kaj individuan helpon al dek gubernioj. Ĉi tiu deklaracio sekvas
 pli fruan kriz-deklaron, kie guberniestro Beshear rimarkas la rapidan respondon al iliaj petoj.
+
+## Pritraktado de la Minaco al Nacia Sekureco de Importado de Kupro (Prezidentaj Agoj, la 25-an de februaro 2025)
+
+Prezidanto Trump eldonis Plenuman Ordon por esplori la efikon de kuproimportado sur nacia sekureco.
+Ĉi tiu enketo, gvidata de la Sekretario pri Komerco, taksos ĉu la dependeco de importita kupro,
+inkluzive de krudaj, rafinitaj kaj derivitaj formoj, prezentas minacon al la nacia sekureco de
+Usono. La enketo estas instigita de zorgoj pri la dependeco de Usono de eksterlandaj kuprofontoj,
+precipe ĉar ununura eksterlanda produktanto kontrolas signifan parton de tutmonda fandado kaj rafina
+kapacito. La celo estas determini ĉu komercaj kuraciloj, kiel tarifoj aŭ eksportkontroloj, estas
+necesaj por protekti la hejman kupran industrion kaj certigi stabilan provizoĉenon por kritikaj
+sektoroj kiel defendo kaj teknologio.
+
+La esploro konsideros diversajn faktorojn, inkluzive de la nuna kaj estonta postulo pri kupro en
+defendo kaj infrastrukturo, la kapablon de enlanda produktado por plenumi ĉi tiun postulon, kaj la
+riskojn asociitajn kun koncentritaj eksterlandaj provizoĉenoj. La Komerca Sekretario konsultos kun
+aliaj registaraj departementoj kaj prezentos raporton ene de 270 tagoj, skizante rezultojn kaj
+rekomendojn. Ĉi tiuj povas inkluzivi strategiojn por akceli hejman produktadon kaj recikladon, same
+kiel politikajn ŝanĝojn por plifortigi la usonan kupran provizoĉenon. La Plenuma Ordo emfazas la
+gravecon redukti importdependecon por protekti nacian sekurecon kaj ekonomian stabilecon.
+
+## Ĉesigo de Sekurecaj Rajtoj kaj Taksado de Registaraj Kontraktoj (Prezidentaj Agoj, la 25-an de februaro 2025)
+
+Prezidanto Trump eldonis direktivon por suspendi la sekurecajn rajtigojn de advokatoj de la advokata
+firmao Covington & Burling, kiu helpis iaman Specialan Konsilon Jack Smith. Ĉi tiu ago estas parto
+de pli larĝa revizio de la implikiĝo de la firmao en tio, kion Trump priskribas kiel la "armiligo de
+la juĝa procezo". La direktivo ankaŭ postulas revizion de registaraj kontraktoj kun la firmao por
+certigi, ke ili kongruas kun la prioritatoj de la administracio kaj la interesoj de usonaj
+civitanoj. La movo estas rigardata kiel respondo al la jura subteno de la firmao por Smith, kiu
+antaŭe gvidis esplorojn kontraŭ Trump.
+
+## Farante Usonon Sana Denove per Povigo de Pacientoj kun Klaraj, Precizaj, kaj Ageblaj Sanaj Prezaj Informoj (Prezidentaj Agoj, la 25-an de februaro 2025)
+
+En februaro 2025, prezidanto Trump subskribis Plenuman Ordon por plibonigi sanpreztravideblecon en
+Usono. Ĉi tiu ordono baziĝas sur antaŭaj klopodoj de lia unua oficperiodo, kiu celis fari
+sanprezadon pli travidebla postulante hospitalojn kaj sanplanojn malkaŝi prezojn informojn. La celo
+estis povigi pacientojn per klaraj kaj ageblaj prezaj datumoj, permesante al ili fari informitajn
+sandecidojn kaj aĉeti servojn bazitajn sur kosto kaj kvalito. La ordo postulas, ke hospitaloj montru
+prezojn por ĝis 300 servoj kaj provizas maŝinlegeblajn dosierojn kun intertraktitaj tarifoj.
+Sanplanoj ankaŭ devas malkaŝi siajn intertraktatajn tarifojn kaj realajn prezojn pagitaj por
+preskribaj medikamentoj. Ĉi tiuj mezuroj estas atenditaj ŝpari konsumantojn, dungantojn kaj
+asekuristojn ĝis $80 miliardoj antaŭ 2025 kaj helpi redukti sankostojn signife.
+
+Tamen, progreso pri plenumado de ĉi tiuj travideblecoj haltis post la unua oficperiodo de Trump, kaj
+multaj hospitaloj kaj sanplanoj ne plenumis plene. La nova Plenum-Ordo direktas la Sekciojn de
+Fisko, Laboro, kaj Sano kaj Homaj Servoj pli strikte plenumi ĉi tiujn regularojn. Ene de 90 tagoj,
+ĉi tiuj departementoj devas certigi, ke realaj prezoj, ne taksoj, estas malkaŝitaj kaj ke prezoj
+informoj estas normigitaj tra hospitaloj kaj sanplanoj. La ordo emfazas la bezonon de travidebleco
+por krei konkurencivan kaj pageblan sansistemon, finfine profitigante pacientojn provizante al ili
+la necesajn informojn por fari pli bonajn sanelektojn.
+
+## Efektivigo de la Kostefika Iniciato de "Departemento de Registara Efikeco" de la Prezidanto (Prezidantaj Agoj, la 26-an de februaro 2025)
+
+La plenuma ordono eldonita de prezidanto Trump la 26-an de februaro 2025 celas plibonigi registaran
+efikecon efektivigante serion da mezuroj per la Departemento pri Registara Efikeco (DOGE). La ordo
+devigas federaciajn agentejojn establi centralizitajn teknologiajn sistemojn por registri kaj
+pravigi ĉiun pagon faritan sub kontraktoj kaj subvencioj. Ĉi tiu iniciato estas dizajnita por
+certigi travideblecon kaj respondigeblecon en registaraj elspezoj. Agentestroj estas postulataj por
+labori kun DOGE-teamkondukoj por revizii ekzistantajn kontraktojn kaj subvenciojn, kun la celo de
+reduktado de federaciaj elspezoj kaj reasigni resursojn por antaŭenigi efikecon. La ordo ankaŭ
+emfazas la bezonon de agentejoj limigi neesencajn vojaĝojn kaj taksi nemoveblaĵojn por ebla forigo.
+
+Aldone al financa malatento, la administra ordo skizas planon por agentejoj por revizii kaj eble
+fini aŭ modifi kontraktojn kaj stipendiojn kiuj ne akordigas kun la efikecceloj de la administracio.
+Ĉi tio inkluzivas prioritati la revizion de financo elpagitaj al edukaj institucioj kaj eksterlandaj
+estaĵoj por identigi malŝparon, fraŭdon kaj misuzon. Agentejoj ricevas 30-tagan templimon por
+kompletigi ĉi tiujn recenzojn kaj estas instrukciitaj doni gvidon pri subskribado de novaj
+kontraktoj aŭ modifado de ekzistantaj por akordigi kun registaraj efikecceloj. La ordo ankaŭ
+postulas agentejojn evoluigi sistemojn por registri aprobojn por federacie financita vojaĝado,
+certigante ke tia vojaĝado estas pravigita kaj necesa.
+
+La ordo plue direktas agentejojn por taksi iliajn fiksproprietaĵojn, identigante trajtojn kiuj povas
+esti venditaj por redukti kostojn. Ene de 30 tagoj, agentejestroj devas identigi finrajtojn por
+ekzistantaj lizkontraktoj kaj konsulti kun DOGE-personaro kaj la Ĝeneralaj Servoj-Administracio por
+determini kiuj lizkontraktoj devus esti finitaj. Ampleksa plano por la dispono de nebezonataj
+registaraj nemoveblaĵoj estas prezentota ene de 60 tagoj. Tiuj iniciatoj estas parto de pli larĝa
+iniciato fluliniigi registarajn operaciojn, redukti malŝparon, kaj plifortigi respondigeblecon, kun
+la potencialo por signifaj laborfortreduktoj kiam agentejoj akordigas kun la novaj direktivoj.
