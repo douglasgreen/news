@@ -2,349 +2,122 @@
 
 ### La Ora Karto de $5 Milionoj de Trump: Nova Vojo al Usona Civitaneco
 
-Prezidanto Donald Trump anoncis novan iniciaton vendi "orajn kartojn" al riĉaj eksterlandanoj
-kontraŭ 5 milionoj da dolaroj. Ĉi tiu karto permesus al ili vivi kaj labori en Usono kaj oferti
-vojon al civitaneco. Trump klarigis, ke ĉi tiu programo celas altiri sukcesajn kaj riĉajn
-individuojn, kiuj signife kontribuus al la usona ekonomio elspezante monon, pagante impostojn kaj
-kreante laborpostenojn. La ora karto estas preta anstataŭigi la ekzistantan EB-5-enmigrindan
-investan vizon-programon, kiu postulis minimuman investon de 1.05 milionoj USD en usona komerco kiu
-kreas laborlokojn. Komerca sekretario Howard Lutnick menciis ke la nova programo eliminus la fraŭdon
-kaj neefikecojn asociitajn kun la EB-5-programo.
+Prezidanto Donald Trump anoncis novan iniciaton vendi "orajn kartojn" al riĉaj eksterlandanoj kontraŭ 5 milionoj da dolaroj. Ĉi tiu karto permesus al ili vivi kaj labori en Usono kaj oferti vojon al civitaneco. Trump klarigis, ke ĉi tiu programo celas altiri sukcesajn kaj riĉajn individuojn, kiuj signife kontribuus al la usona ekonomio elspezante monon, pagante impostojn kaj kreante laborpostenojn. La ora karto estas preta anstataŭigi la ekzistantan EB-5-enmigrindan investan vizon-programon, kiu postulis minimuman investon de 1.05 milionoj USD en usona komerco kiu kreas laborlokojn. Komerca sekretario Howard Lutnick menciis ke la nova programo eliminus la fraŭdon kaj neefikecojn asociitajn kun la EB-5-programo.
 
-La anonco estigis miksaĵon de reagoj. Subtenantoj argumentas, ke la ora karto povus alporti grandan
-enspezon kaj helpi redukti la nacian deficiton. Ili kredas, ke ĝi altiros altnivelajn individuojn,
-kiuj povas pozitive influi la ekonomion. Kritikistoj, aliflanke, esprimas zorgojn ĉirkaŭ la etikaj
-implicoj de vendado de civitaneco kaj la potencialon por favoratismo direkte al riĉaj individuoj.
-Kelkaj leĝdonantoj zorgas pri la manko de kongresa aprobo por tia signifa ŝanĝo en enmigra politiko.
-Malgraŭ ĉi tiuj zorgoj, Trump restas optimisma pri la sukceso de la programo kaj ĝia potencialo
-alporti milionojn da dolaroj vendante ĉi tiujn orajn kartojn al eksterlandanoj tutmonde.
+La anonco estigis miksaĵon de reagoj. Subtenantoj argumentas, ke la ora karto povus alporti grandan enspezon kaj helpi redukti la nacian deficiton. Ili kredas, ke ĝi altiros altnivelajn individuojn, kiuj povas pozitive influi la ekonomion. Kritikistoj, aliflanke, esprimas zorgojn ĉirkaŭ la etikaj implicoj de vendado de civitaneco kaj la potencialon por favoratismo direkte al riĉaj individuoj. Kelkaj leĝdonantoj zorgas pri la manko de kongresa aprobo por tia signifa ŝanĝo en enmigra politiko. Malgraŭ ĉi tiuj zorgoj, Trump restas optimisma pri la sukceso de la programo kaj ĝia potencialo alporti milionojn da dolaroj vendante ĉi tiujn orajn kartojn al eksterlandanoj tutmonde.
 
 ### Nova DHS-Registro por Kontraŭleĝaj Enmigrintoj: Paŝo Al Pli Strikta Devigo
 
-Sekretario Kristi Noem de la Departemento pri Ŝtatsekureco (DHS) anoncis novan iniciaton celantan
-devigi la Leĝon pri Enmigrado kaj Nacieco de 1952. Ĉi tiu iniciato inkluzivas la kreadon de registro
-por kontraŭleĝaj enmigrintoj en Usono, kiu postulos, ke ili estu fingrospuroj. La celo estas spuri
-kontraŭleĝajn enmigrintojn pli efike kaj instigi ilin libervole forlasi la landon. Sekretario Noem
-emfazis, ke tiuj, kiuj ne plenumas la postulojn pri registrado kaj fingrospurado, povus alfronti
-severajn punojn, inkluzive de monpunoj kaj malliberigo. Ĉi tiu movo estas parto de pli larĝa klopodo
-de la Trump-administrado por certigi, ke enmigradaj leĝoj estas plene plenumitaj, sen esceptoj.
+Sekretario Kristi Noem de la Departemento pri Ŝtatsekureco (DHS) anoncis novan iniciaton celantan devigi la Leĝon pri Enmigrado kaj Nacieco de 1952. Ĉi tiu iniciato inkluzivas la kreadon de registro por kontraŭleĝaj enmigrintoj en Usono, kiu postulos, ke ili estu fingrospuroj. La celo estas spuri kontraŭleĝajn enmigrintojn pli efike kaj instigi ilin libervole forlasi la landon. Sekretario Noem emfazis, ke tiuj, kiuj ne plenumas la postulojn pri registrado kaj fingrospurado, povus alfronti severajn punojn, inkluzive de monpunoj kaj malliberigo. Ĉi tiu movo estas parto de pli larĝa klopodo de la Trump-administrado por certigi, ke enmigradaj leĝoj estas plene plenumitaj, sen esceptoj.
 
-La anonco estigis tutlandan kaj internacian kampanjon avertante kontraŭleĝajn enmigrintojn
-sindeporti. La DHS lanĉis reklamojn tra diversaj amaskomunikilaj platformoj, instigante tiujn en la
-lando kontraŭleĝe foriri tuj. Sekretario Noem deklaris ke tiu aliro estas ne nur pli sekura por la
-enmigrintoj mem sed ankaŭ por policoj. Instigante al memdeportado, la administracio celas konservi
-resursojn kaj plibonigi la sekurecon kaj sekurecon de Usono. La mesaĝo estas klara: tiuj kiuj
-foriras nun eble havos la ŝancon reveni laŭleĝe en la estonteco, sed tiuj kiuj elektas resti kaj
-malobei la leĝon alfrontos gravajn sekvojn.
+La anonco estigis tutlandan kaj internacian kampanjon avertante kontraŭleĝajn enmigrintojn sindeporti. La DHS lanĉis reklamojn tra diversaj amaskomunikilaj platformoj, instigante tiujn en la lando kontraŭleĝe foriri tuj. Sekretario Noem deklaris ke tiu aliro estas ne nur pli sekura por la enmigrintoj mem sed ankaŭ por policoj. Instigante al memdeportado, la administracio celas konservi resursojn kaj plibonigi la sekurecon kaj sekurecon de Usono. La mesaĝo estas klara: tiuj kiuj foriras nun eble havos la ŝancon reveni laŭleĝe en la estonteco, sed tiuj kiuj elektas resti kaj malobei la leĝon alfrontos gravajn sekvojn.
 
 ### Nova Ĉapitro: Interkonsento pri Rara Teraj Mineraloj de Usono kaj Ukrainio
 
-En signifa movado, Usono kaj Ukrainio finpretigis interkonsenton por kune disvolvi la rarajn terajn
-mineralojn de Ukrainio. Ĉi tiu interkonsento markas novan ĉapitron en la rilato inter la du landoj,
-fokusante al ekonomia kunlaboro kaj disvolviĝo de rimedoj. La interkonsento permesas al Usono aliron
-al la vastaj kuŝejoj de Ukrainio de raraj teraj mineraloj, kiuj estas decidaj por diversaj
-industrioj, inkluzive de teknologio kaj defendo. Kontraŭe, Ukrainio esperas certigi daŭran usonan
-armean subtenon, kio estas esenca por sia daŭra konflikto kun Rusio. La interkonsento ankaŭ
-inkluzivas planojn krei komunan fondaĵon por reinvesti en la infrastrukturo kaj ekonomio de
-Ukrainio, celante rekonstrui la nacion post konflikto.
+En signifa movado, Usono kaj Ukrainio finpretigis interkonsenton por kune disvolvi la rarajn terajn mineralojn de Ukrainio. Ĉi tiu interkonsento markas novan ĉapitron en la rilato inter la du landoj, fokusante al ekonomia kunlaboro kaj disvolviĝo de rimedoj. La interkonsento permesas al Usono aliron al la vastaj kuŝejoj de Ukrainio de raraj teraj mineraloj, kiuj estas decidaj por diversaj industrioj, inkluzive de teknologio kaj defendo. Kontraŭe, Ukrainio esperas certigi daŭran usonan armean subtenon, kio estas esenca por sia daŭra konflikto kun Rusio. La interkonsento ankaŭ inkluzivas planojn krei komunan fondaĵon por reinvesti en la infrastrukturo kaj ekonomio de Ukrainio, celante rekonstrui la nacion post konflikto.
 
-La interkonsento tamen ne inkluzivas specifajn sekurecajn garantiojn por Ukrainio, disputpunkto por
-Kyiv. Ukraina prezidento Volodymyr Zelenskyy kaj usona prezidento Donald Trump baldaŭ renkontos por
-diskuti pliajn detalojn kaj eble subskribi la interkonsenton. Dum la interkonsento estas rigardata
-kiel pozitiva paŝo al ekonomia reakiro por Ukrainio, ĝi ankaŭ emfazas la strategian gravecon de
-raraj teraj mineraloj en tutmonda politiko. Ambaŭ landoj rigardas tiun partnerecon kiel manieron
-plifortigi siajn kravatojn kaj certigi reciprokajn avantaĝojn, kie Ukrainio kontribuas duonon de sia
-estonta enspezo de ŝtataj rimedoj al la komuna fonduso. Ĉi tiu kunlaboro estas parto de pli larĝa
-klopodo stabiligi la ekonomion de Ukrainio kaj certigi ĝian estontecon inter daŭrantaj geopolitikaj
-streĉitecoj.
+La interkonsento tamen ne inkluzivas specifajn sekurecajn garantiojn por Ukrainio, disputpunkto por Kyiv. Ukraina prezidento Volodymyr Zelenskyy kaj usona prezidento Donald Trump baldaŭ renkontos por diskuti pliajn detalojn kaj eble subskribi la interkonsenton. Dum la interkonsento estas rigardata kiel pozitiva paŝo al ekonomia reakiro por Ukrainio, ĝi ankaŭ emfazas la strategian gravecon de raraj teraj mineraloj en tutmonda politiko. Ambaŭ landoj rigardas tiun partnerecon kiel manieron plifortigi siajn kravatojn kaj certigi reciprokajn avantaĝojn, kie Ukrainio kontribuas duonon de sia estonta enspezo de ŝtataj rimedoj al la komuna fonduso. Ĉi tiu kunlaboro estas parto de pli larĝa klopodo stabiligi la ekonomion de Ukrainio kaj certigi ĝian estontecon inter daŭrantaj geopolitikaj streĉitecoj.
 
 ### Rusio Proponas Ekonomian Partnerecon al Usono pri Maloftaj Teraj Mineraloj
 
-En surpriza movado, Rusio esprimis sian volon kunlabori kun Usono pri ekonomiaj projektoj
-implikantaj rarajn terajn mineralojn. Tiu ĉi propono inkluzivas areojn en Ukrainio, kiuj estas
-nuntempe sub rusa kontrolo. Rusa prezidanto Vladimir Putin sugestis, ke usonaj kompanioj povus
-profiti el minado de ĉi tiuj valoraj rimedoj, kiuj estas decidaj por diversaj industrioj. La oferto
-venas meze de daŭrantaj streĉiĝoj kaj kompleksaj intertraktadoj implikantaj Ukrainion, Usonon kaj
-Rusion. Dum Usono ankoraŭ ne engaĝiĝis pri ĉi tiu interkonsento, la potencialo por ekonomia
-kunlaboro povus malfermi novajn vojojn por dialogo inter la du nacioj. Tamen la situacio restas
-delikata, ĉar temas pri teritorioj trafitaj de konfliktoj kaj geopolitikaj interesoj.
+En surpriza movado, Rusio esprimis sian volon kunlabori kun Usono pri ekonomiaj projektoj implikantaj rarajn terajn mineralojn. Tiu ĉi propono inkluzivas areojn en Ukrainio, kiuj estas nuntempe sub rusa kontrolo. Rusa prezidanto Vladimir Putin sugestis, ke usonaj kompanioj povus profiti el minado de ĉi tiuj valoraj rimedoj, kiuj estas decidaj por diversaj industrioj. La oferto venas meze de daŭrantaj streĉiĝoj kaj kompleksaj intertraktadoj implikantaj Ukrainion, Usonon kaj Rusion. Dum Usono ankoraŭ ne engaĝiĝis pri ĉi tiu interkonsento, la potencialo por ekonomia kunlaboro povus malfermi novajn vojojn por dialogo inter la du nacioj. Tamen la situacio restas delikata, ĉar temas pri teritorioj trafitaj de konfliktoj kaj geopolitikaj interesoj.
 
 ### Respublikanoj Distancas Sin de Elon Musk Dum Polemiko
 
-En lastatempaj evoluoj, iuj Kongresaj Respublikanoj komencas distanciĝi de Elon Musk pro kreskantaj
-zorgoj pri liaj agoj kun la Departemento de Registaro-Efikeco (DOGE). Musk, kiu laboris proksime kun
-prezidanto Donald Trump, estis implikita en signifaj tranĉoj al federaciaj agentejoj, estigante
-protestojn kaj kritikojn de kaj demokratoj kaj iuj respublikanoj. La polemiko centras ĉirkaŭ la
-aliro de Musk al sentemaj registaraj datumoj kaj lia rolo en malmuntado de diversaj registaraj
-programoj sen kongresa superrigardo. Dum iuj respublikanoj defendas la klopodojn de Musk kiel necese
-por redukti registaran malŝparon, aliaj zorgas pri la politika kontraŭreago kaj ebla efiko al siaj
-ŝancoj en venontaj elektoj. La situacio kaŭzis ekscititajn debatojn en la Kongreso, kie demokratoj
-premas ke Musk atestu pri siaj agoj, kvankam respublikaj gvidantoj blokis ĉi tiujn klopodojn. Dum la
-streĉiĝo pliiĝas, la estonteco de la implikiĝo de Musk en registaraj operacioj restas necerta, kun
-leĝaj defioj kaj publikaj protestoj daŭre pliiĝantaj.
+En lastatempaj evoluoj, iuj Kongresaj Respublikanoj komencas distanciĝi de Elon Musk pro kreskantaj zorgoj pri liaj agoj kun la Departemento de Registaro-Efikeco (DOGE). Musk, kiu laboris proksime kun prezidanto Donald Trump, estis implikita en signifaj tranĉoj al federaciaj agentejoj, estigante protestojn kaj kritikojn de kaj demokratoj kaj iuj respublikanoj. La polemiko centras ĉirkaŭ la aliro de Musk al sentemaj registaraj datumoj kaj lia rolo en malmuntado de diversaj registaraj programoj sen kongresa superrigardo. Dum iuj respublikanoj defendas la klopodojn de Musk kiel necese por redukti registaran malŝparon, aliaj zorgas pri la politika kontraŭreago kaj ebla efiko al siaj ŝancoj en venontaj elektoj. La situacio kaŭzis ekscititajn debatojn en la Kongreso, kie demokratoj premas ke Musk atestu pri siaj agoj, kvankam respublikaj gvidantoj blokis ĉi tiujn klopodojn. Dum la streĉiĝo pliiĝas, la estonteco de la implikiĝo de Musk en registaraj operacioj restas necerta, kun leĝaj defioj kaj publikaj protestoj daŭre pliiĝantaj.
 
 ### Usona Domo aprobis polemikan leĝproponon pri elspezo apogita de Trump per mallarĝa rando
 
-En drama kunsido, la Usona Ĉambro de Reprezentantoj mallarĝe pasigis signifan elspezan leĝproponon
-subtenitan de prezidanto Donald Trump. La voĉdono, kiu finiĝis ĉe 217-215, estis decida testo por
-House Speaker Mike Johnson, kiu alfrontis defiojn en sekurigado de sufiĉe da subteno de sia partio.
-La fakturo proponas 4.5 bilionojn USD en impostreduktoj kaj celas redukti federaciajn elspezojn je 2
-bilionoj USD dum la venonta jardeko. Ĝi inkludas pliigitan financadon por enmigradevigo kaj armea
-elspezo. Malgraŭ opozicio de demokratoj kaj kelkaj respublikanoj maltrankvilaj pri imposta
-disciplino, la fakturo pasis kun nur unu respublikano, Thomas Massie, voĉdonante kontraŭ ĝi. La
-fakturo nun moviĝas al la Senato, kie ĝi alfrontos plian ekzamenadon kaj intertraktadon antaŭ eble
-fariĝi leĝo.
+En drama kunsido, la Usona Ĉambro de Reprezentantoj mallarĝe pasigis signifan elspezan leĝproponon subtenitan de prezidanto Donald Trump. La voĉdono, kiu finiĝis ĉe 217-215, estis decida testo por House Speaker Mike Johnson, kiu alfrontis defiojn en sekurigado de sufiĉe da subteno de sia partio. La fakturo proponas 4.5 bilionojn USD en impostreduktoj kaj celas redukti federaciajn elspezojn je 2 bilionoj USD dum la venonta jardeko. Ĝi inkludas pliigitan financadon por enmigradevigo kaj armea elspezo. Malgraŭ opozicio de demokratoj kaj kelkaj respublikanoj maltrankvilaj pri imposta disciplino, la fakturo pasis kun nur unu respublikano, Thomas Massie, voĉdonante kontraŭ ĝi. La fakturo nun moviĝas al la Senato, kie ĝi alfrontos plian ekzamenadon kaj intertraktadon antaŭ eble fariĝi leĝo.
 
 ### Gabbard Maldungas Pli ol 100 Inteligentajn Oficirojn pro Misuzo de Babilejoj de NSA
 
-Tulsi Gabbard, la Direktoro de Nacia Inteligenteco, sciigis la finon de pli ol 100 spionoficiroj por
-partoprenado en sekse eksplicitaj diskutoj pri registara babilejo. La babilprogramo, administrita de
-la Nacia Sekureca Agentejo, estis destinita por sentemaj sekurecdiskutoj sed estis misuzita de
-kelkaj dungitoj por netaŭgaj konversacioj. Gabbard priskribis tion kiel severan rompon de fido kaj
-profesiismo. La decido maldungi ĉi tiujn oficirojn estas parto de pli larĝa klopodo malpolitikigi la
-spionkomunumon kaj restarigi fidon al ĉi tiuj institucioj. La movo sekvas la malkaŝon de
-babiltransskribaĵoj de konservativa aktivulo, elstarigante la misuzon de la platformo por diskutoj
-pri seksaj temoj kaj seksaj transiraj operacioj. Gabbard emfazis la gravecon de respondigebleco kaj
-profesiismo ene de la spionkomunumo por certigi la sekurecon de la amerika popolo.
+Tulsi Gabbard, la Direktoro de Nacia Inteligenteco, sciigis la finon de pli ol 100 spionoficiroj por partoprenado en sekse eksplicitaj diskutoj pri registara babilejo. La babilprogramo, administrita de la Nacia Sekureca Agentejo, estis destinita por sentemaj sekurecdiskutoj sed estis misuzita de kelkaj dungitoj por netaŭgaj konversacioj. Gabbard priskribis tion kiel severan rompon de fido kaj profesiismo. La decido maldungi ĉi tiujn oficirojn estas parto de pli larĝa klopodo malpolitikigi la spionkomunumon kaj restarigi fidon al ĉi tiuj institucioj. La movo sekvas la malkaŝon de babiltransskribaĵoj de konservativa aktivulo, elstarigante la misuzon de la platformo por diskutoj pri seksaj temoj kaj seksaj transiraj operacioj. Gabbard emfazis la gravecon de respondigebleco kaj profesiismo ene de la spionkomunumo por certigi la sekurecon de la amerika popolo.
 
 ### Jeff Bezos Reformas la Opinian Paĝon de Washington Post, Kondukante al Foriro de Redaktoro
 
-Jeff Bezos, la posedanto de la Washington Post, anoncis signifajn ŝanĝojn al la opinisekcio de la
-ĵurnalo, fokusante antaŭenigi personajn liberecojn kaj liberajn merkatojn. Tiu ĉi ŝanĝo kaŭzis la
-eksiĝon de David Shipley, la redakcia paĝredaktisto. Bezos deklaris, ke la opiniosekcio nun ĉefe
-subtenos ĉi tiujn du kolonojn, lasante kontraŭajn vidpunktojn por esti publikigitaj aliloke. Tiu
-decido sekvas kontestatan periodon kie la papero renkontis kontraŭreagon por ne apogi Kamala Harris
-en la elekto de 2024, rezultigante perdon de abonantoj kaj stabforiroj. Bezos emfazis, ke la ŝanĝoj
-ne temas pri aliĝado al iu ajn politika partio sed pri klare difini la sintenon de la gazeto. La
-anonco vekis miksitajn reagojn, kun iuj dungitoj esprimas zorgon pri la malvastigo de vidpunktoj,
-dum aliaj vidas ĝin kiel pozitiva movo al klareco kaj travidebleco.
+Jeff Bezos, la posedanto de la Washington Post, anoncis signifajn ŝanĝojn al la opinisekcio de la ĵurnalo, fokusante antaŭenigi personajn liberecojn kaj liberajn merkatojn. Tiu ĉi ŝanĝo kaŭzis la eksiĝon de David Shipley, la redakcia paĝredaktisto. Bezos deklaris, ke la opiniosekcio nun ĉefe subtenos ĉi tiujn du kolonojn, lasante kontraŭajn vidpunktojn por esti publikigitaj aliloke. Tiu decido sekvas kontestatan periodon kie la papero renkontis kontraŭreagon por ne apogi Kamala Harris en la elekto de 2024, rezultigante perdon de abonantoj kaj stabforiroj. Bezos emfazis, ke la ŝanĝoj ne temas pri aliĝado al iu ajn politika partio sed pri klare difini la sintenon de la gazeto. La anonco vekis miksitajn reagojn, kun iuj dungitoj esprimas zorgon pri la malvastigo de vidpunktoj, dum aliaj vidas ĝin kiel pozitiva movo al klareco kaj travidebleco.
 
 ## Mondo
 
 ### Ĉinaj Militŝipoj Proksime de Aŭstralio Fajreras Regionajn Tensiojn
 
-En la lastaj tagoj, la ĉeesto de ĉinaj batalŝipoj proksime de Aŭstralio estigis gravajn zorgojn pri
-sekureco en la regiono. La ĉina mararmeo faris realfajrajn ekzercojn en internaciaj akvoj inter
-Aŭstralio kaj Nov-Zelando, kaŭzante alarmon pro la mallonga avizo donita al ambaŭ landoj. Tiuj
-ekzercoj devigis komercajn flugojn deturni, elstarigante la eblajn riskojn implikitajn. Kvankam
-Ĉinio ne malobeis iujn ajn internaciajn leĝojn, la manko de antaŭaverto estis kritikita de gvidantoj
-en Aŭstralio kaj Nov-Zelando. La situacio substrekas la kreskantajn streĉitecojn en la regiono dum
-Ĉinio serĉas vastigi sian influon, instigante Aŭstralion kaj Nov-Zelandon atente kontroli la
-movadojn de la ĉina maramea specialgrupo. La okazaĵo ankaŭ vekis diskutojn pri la taŭgeco de la
-armea respondo de ambaŭ landoj kaj la implicoj por iliaj diplomatiaj rilatoj kun Ĉinio.
+En la lastaj tagoj, la ĉeesto de ĉinaj batalŝipoj proksime de Aŭstralio estigis gravajn zorgojn pri sekureco en la regiono. La ĉina mararmeo faris realfajrajn ekzercojn en internaciaj akvoj inter Aŭstralio kaj Nov-Zelando, kaŭzante alarmon pro la mallonga avizo donita al ambaŭ landoj. Tiuj ekzercoj devigis komercajn flugojn deturni, elstarigante la eblajn riskojn implikitajn. Kvankam Ĉinio ne malobeis iujn ajn internaciajn leĝojn, la manko de antaŭaverto estis kritikita de gvidantoj en Aŭstralio kaj Nov-Zelando. La situacio substrekas la kreskantajn streĉitecojn en la regiono dum Ĉinio serĉas vastigi sian influon, instigante Aŭstralion kaj Nov-Zelandon atente kontroli la movadojn de la ĉina maramea specialgrupo. La okazaĵo ankaŭ vekis diskutojn pri la taŭgeco de la armea respondo de ambaŭ landoj kaj la implicoj por iliaj diplomatiaj rilatoj kun Ĉinio.
 
 ### Rumana Ekstremdekstra Gvidanto Detenita Meze de Elekta Konflikto
 
-En Rumanio, la politika sceno estas en tumulto kiam ekstremdekstra politikisto Călin Georgescu, kiu
-antaŭe gvidis en la unua raŭndo de la nuligitaj prezidant-elektoj, estis prenita en prizorgon fare
-de polico. La elektoj estis nuligitaj fare de la Konstitucia Tribunalo pro akuzoj de rusa enmiksiĝo
-kaj neregulaĵoj en kampanjofinancado. Georgescu, kiu estis akuzita je farado de malveraj deklaroj
-kaj provado instigi agojn kontraŭ la konstitucia ordo, estis maldaŭrigita fare de polico dum sur sia
-vojo por registriĝi por la venontaj elektoj. Lia aresto vekis protestojn de liaj subtenantoj, kiuj
-kolektiĝis ekster la oficejo de la prokuroro, ĉantante por lia liberigo. La situacio altiris
-internacian atenton, kie la usona vicprezidanto JD Vance kritikas la nuligon de la elektoj, nomante
-ĝin movo bazita sur "malfortaj suspektoj". Dum Rumanio prepariĝas por nova raŭndo de elektoj en
-majo, la politika pejzaĝo restas streĉa, kun la estonta kandidateco de Georgescu necerta inter
-daŭrantaj esploroj.
+En Rumanio, la politika sceno estas en tumulto kiam ekstremdekstra politikisto Călin Georgescu, kiu antaŭe gvidis en la unua raŭndo de la nuligitaj prezidant-elektoj, estis prenita en prizorgon fare de polico. La elektoj estis nuligitaj fare de la Konstitucia Tribunalo pro akuzoj de rusa enmiksiĝo kaj neregulaĵoj en kampanjofinancado. Georgescu, kiu estis akuzita je farado de malveraj deklaroj kaj provado instigi agojn kontraŭ la konstitucia ordo, estis maldaŭrigita fare de polico dum sur sia vojo por registriĝi por la venontaj elektoj. Lia aresto vekis protestojn de liaj subtenantoj, kiuj kolektiĝis ekster la oficejo de la prokuroro, ĉantante por lia liberigo. La situacio altiris internacian atenton, kie la usona vicprezidanto JD Vance kritikas la nuligon de la elektoj, nomante ĝin movo bazita sur "malfortaj suspektoj". Dum Rumanio prepariĝas por nova raŭndo de elektoj en majo, la politika pejzaĝo restas streĉa, kun la estonta kandidateco de Georgescu necerta inter daŭrantaj esploroj.
 
 ## Komerco
 
 ### Teknikaj Gigantoj kaj Bitcoin Tumble kiel Konsumanto Fido Malkreskas
 
-En turbula mardo, la borsmerkato spertis gravan malkreskon, gviditan de malkreskoj en ĉefaj
-teknologiaj kompanioj kiel Nvidia kaj Tesla. La Nasdaq Composite, forte influita de teknikaj akcioj,
-falis akre je 1.4%. Ĉi tiu malkresko estis parto de pli larĝa tendenco, kie altkreskaj akcioj, iam
-la karuloj de la merkato, alfrontis renversiĝon de impeto. La akcioj de Nvidia falis je 1.8%, dum
-Tesla vidis pli draman falon de 8.7%. Ĉi tiuj malkreskoj estis kunmetitaj de akra falo en la valoro
-de Bitcoin, kiu falis sub $ 88,000, influante ankaŭ kompaniojn en la kripta monero. La ĝenerala
-merkata sento estis plu malfortigita per malkresko de konsumanta konfido, kiu estis kritika faktoro
-por subteni ekonomian kreskon malgraŭ altaj interezaj indicoj.
+En turbula mardo, la borsmerkato spertis gravan malkreskon, gviditan de malkreskoj en ĉefaj teknologiaj kompanioj kiel Nvidia kaj Tesla. La Nasdaq Composite, forte influita de teknikaj akcioj, falis akre je 1.4%. Ĉi tiu malkresko estis parto de pli larĝa tendenco, kie altkreskaj akcioj, iam la karuloj de la merkato, alfrontis renversiĝon de impeto. La akcioj de Nvidia falis je 1.8%, dum Tesla vidis pli draman falon de 8.7%. Ĉi tiuj malkreskoj estis kunmetitaj de akra falo en la valoro de Bitcoin, kiu falis sub $ 88,000, influante ankaŭ kompaniojn en la kripta monero. La ĝenerala merkata sento estis plu malfortigita per malkresko de konsumanta konfido, kiu estis kritika faktoro por subteni ekonomian kreskon malgraŭ altaj interezaj indicoj.
 
-La falo de la konfido de la konsumantoj estis atribuita al kreskantaj zorgoj pri inflacio kaj
-tarifoj, kiuj multe pezis la mensojn de usonaj konsumantoj. Raportoj indikis, ke konsumantaj atendoj
-por la ekonomio baldaŭ falis sub niveloj, kiuj tipe signalas recesion. Tiu pesimismo estis
-ĝeneraligita, influante domanarojn trans malsamaj enspezniveloj kaj aĝoklasoj. La necerteco ĉirkaŭ
-ekonomiaj politikoj, precipe tiuj rilataj al komerco kaj tarifoj, aldonis al la volatilo de la
-merkato. Kiel rezulto, investantoj serĉis pli sekurajn aktivojn, kondukante al malkresko de
-Trezorejo-rendimento. Malgraŭ ĉi tiuj defioj, iuj sektoroj, kiel Home Depot, sukcesis afiŝi gajnojn,
-helpante al la Industria Mezumo de Dow Jones pli bone ol aliaj indicoj. Tamen, la ĝenerala merkato
-restas sur rando dum ĝi navigas ĉi tiujn ekonomiajn necertecojn.
+La falo de la konfido de la konsumantoj estis atribuita al kreskantaj zorgoj pri inflacio kaj tarifoj, kiuj multe pezis la mensojn de usonaj konsumantoj. Raportoj indikis, ke konsumantaj atendoj por la ekonomio baldaŭ falis sub niveloj, kiuj tipe signalas recesion. Tiu pesimismo estis ĝeneraligita, influante domanarojn trans malsamaj enspezniveloj kaj aĝoklasoj. La necerteco ĉirkaŭ ekonomiaj politikoj, precipe tiuj rilataj al komerco kaj tarifoj, aldonis al la volatilo de la merkato. Kiel rezulto, investantoj serĉis pli sekurajn aktivojn, kondukante al malkresko de Trezorejo-rendimento. Malgraŭ ĉi tiuj defioj, iuj sektoroj, kiel Home Depot, sukcesis afiŝi gajnojn, helpante al la Industria Mezumo de Dow Jones pli bone ol aliaj indicoj. Tamen, la ĝenerala merkato restas sur rando dum ĝi navigas ĉi tiujn ekonomiajn necertecojn.
 
 ## Teknologio
 
 ### Alexa+ Malkaŝita: Pli Saĝa, Pli Amika AI-Asistanto
 
-Amazon lastatempe prezentis Alexa+, ĝisdatigitan version de sia populara voĉa asistanto, ĉe gazetara
-evento en Novjorko. Ĉi tiu nova ripeto estas funkciigita de genera AI, permesante al ĝi okupiĝi pri
-pli naturaj kaj konversaciaj interagoj. Male al ĝia antaŭulo, Alexa+ povas elekti el diversaj
-AI-modeloj por plenumi uzantpetojn, igante ĝin pli adaptebla kaj respondema. La asistanto estas
-dizajnita por kompreni kuntekston kaj signifon, provizante senjuntajn interagojn sen la bezono de
-precizaj komandoj. Ĉi tio faras Alexa+ ne nur pli inteligenta sed ankaŭ pli alirebla, ĉar ĝi povas
-ĝustigi siajn respondojn laŭ la tono kaj medio de la uzanto.
+Amazon lastatempe prezentis Alexa+, ĝisdatigitan version de sia populara voĉa asistanto, ĉe gazetara evento en Novjorko. Ĉi tiu nova ripeto estas funkciigita de genera AI, permesante al ĝi okupiĝi pri pli naturaj kaj konversaciaj interagoj. Male al ĝia antaŭulo, Alexa+ povas elekti el diversaj AI-modeloj por plenumi uzantpetojn, igante ĝin pli adaptebla kaj respondema. La asistanto estas dizajnita por kompreni kuntekston kaj signifon, provizante senjuntajn interagojn sen la bezono de precizaj komandoj. Ĉi tio faras Alexa+ ne nur pli inteligenta sed ankaŭ pli alirebla, ĉar ĝi povas ĝustigi siajn respondojn laŭ la tono kaj medio de la uzanto.
 
-Alexa+ estas integrita kun la inteligenta hejma ekosistemo de Amazon, plibonigante ĝian funkciecon
-preter simplaj voĉkomandoj. Ĝi povas administri taskojn kiel rezervi vespermanĝajn rezervojn, krei
-personecigitajn rutinojn kaj eĉ resumi bildojn de sekurecaj fotiloj. Aldone, Alexa+ povas legi kaj
-rememori informojn el dokumentoj, igante ĝin valora ilo por produktiveco. Kun funkcioj tajloritaj
-por infanoj, kiel "Rakontoj kun Alexa" kaj "Esploru kun Alexa", la asistanto celas inspiri kreemon
-kaj scivolemon. Disponebla kontraŭ $ 19.99 monate, aŭ senpage por Prime-membroj, Alexa+ baldaŭ
-aperiĝos en Usono, promesante igi la ĉiutagan vivon pli simpla kaj pli konektita.
+Alexa+ estas integrita kun la inteligenta hejma ekosistemo de Amazon, plibonigante ĝian funkciecon preter simplaj voĉkomandoj. Ĝi povas administri taskojn kiel rezervi vespermanĝajn rezervojn, krei personecigitajn rutinojn kaj eĉ resumi bildojn de sekurecaj fotiloj. Aldone, Alexa+ povas legi kaj rememori informojn el dokumentoj, igante ĝin valora ilo por produktiveco. Kun funkcioj tajloritaj por infanoj, kiel "Rakontoj kun Alexa" kaj "Esploru kun Alexa", la asistanto celas inspiri kreemon kaj scivolemon. Disponebla kontraŭ $ 19.99 monate, aŭ senpage por Prime-membroj, Alexa+ baldaŭ aperiĝos en Usono, promesante igi la ĉiutagan vivon pli simpla kaj pli konektita.
 
 ### La Mistero de la SafetyCore App sur Android-Telefonoj
 
-Lastatempe multaj uzantoj de Android rimarkis novan apon nomatan "SafetyCore" aperanta sur siaj
-aparatoj sen antaŭa sciigo. Ĉi tiu programo, evoluigita de Google, estas desegnita por plibonigi
-sekurecajn funkciojn en Android-telefonoj. Ĝi faras lokajn skanaĵojn de bildoj por detekti senteman
-enhavon, kiel nudecon, kaj disponigas avertojn aŭ filtrilojn por protekti uzantojn, precipe
-neplenaĝulojn. Malgraŭ ĝiaj bonaj intencoj, la programo estigis polemikon ĉar ĝi estis instalita
-aŭtomate kaj sen eksplicita uzantkonsento. Ĉi tiu manko de travidebleco kaŭzis zorgojn pri privateco
-kaj uzantaŭtonomio.
+Lastatempe multaj uzantoj de Android rimarkis novan apon nomatan "SafetyCore" aperanta sur siaj aparatoj sen antaŭa sciigo. Ĉi tiu programo, evoluigita de Google, estas desegnita por plibonigi sekurecajn funkciojn en Android-telefonoj. Ĝi faras lokajn skanaĵojn de bildoj por detekti senteman enhavon, kiel nudecon, kaj disponigas avertojn aŭ filtrilojn por protekti uzantojn, precipe neplenaĝulojn. Malgraŭ ĝiaj bonaj intencoj, la programo estigis polemikon ĉar ĝi estis instalita aŭtomate kaj sen eksplicita uzantkonsento. Ĉi tiu manko de travidebleco kaŭzis zorgojn pri privateco kaj uzantaŭtonomio.
 
-La reago de la komunumo al SafetyCore estis miksita. Iuj uzantoj aprezas la aldonitan protekton,
-fidante la certigon de Google, ke ĉiuj skanadoj estas faritaj loke sur la aparato sen alŝuti bildojn
-al servilo. Tamen aliaj estas maltrankvilaj pri la kaŝita instalado de la programo kaj ĝia profunda
-aliro al sistemaj procezoj. Diskutoj sur platformoj kiel Reddit kaj Mastodon malkaŝas disiĝon inter
-tiuj, kiuj vidas SafetyCore kiel necesan sekurecan mezuron kaj tiuj, kiuj rigardas ĝin kiel invadon
-de privateco. Kiel rezulto, uzantoj esploras manierojn administri aŭ forigi la apon, serĉante pli da
-kontrolo super siaj aparatoj kaj la datumoj kiujn ili enhavas.
+La reago de la komunumo al SafetyCore estis miksita. Iuj uzantoj aprezas la aldonitan protekton, fidante la certigon de Google, ke ĉiuj skanadoj estas faritaj loke sur la aparato sen alŝuti bildojn al servilo. Tamen aliaj estas maltrankvilaj pri la kaŝita instalado de la programo kaj ĝia profunda aliro al sistemaj procezoj. Diskutoj sur platformoj kiel Reddit kaj Mastodon malkaŝas disiĝon inter tiuj, kiuj vidas SafetyCore kiel necesan sekurecan mezuron kaj tiuj, kiuj rigardas ĝin kiel invadon de privateco. Kiel rezulto, uzantoj esploras manierojn administri aŭ forigi la apon, serĉante pli da kontrolo super siaj aparatoj kaj la datumoj kiujn ili enhavas.
 
 ### ElevenLabs AI: Transformi Tekston en Aŭdlibrojn en Minutoj
 
-ElevenLabs, firmao bazita en Novjorko, revolucias la aŭdlibro-industrion per sia noviga
-AI-teknologio. Proponante platformon, kiu permesas al aŭtoroj konverti siajn skribitajn verkojn en
-aŭdlibrojn senkoste, ElevenLabs faciligas ol iam ajn rakontojn atingi tutmondan publikon. Aŭtoroj
-povas simple alŝuti sian tekston, elekti el vasta biblioteko de AI-generitaj voĉoj kaj havi sian
-aŭdlibron preta en minutoj. Ĉi tiu servo ne nur ŝparas tempon sed ankaŭ reduktas la kostojn
-asociitajn kun tradicia produktado de aŭdlibroj. Kun la kapablo distribui ĉi tiujn aŭdlibrojn
-tutmonde per la app ElevenReader, ElevenLabs malfermas novajn pordojn por sendependaj aŭtoroj kaj
-eldonistoj, igante rakontadon pli alirebla kaj diversa ol iam ajn antaŭe.
+ElevenLabs, firmao bazita en Novjorko, revolucias la aŭdlibro-industrion per sia noviga AI-teknologio. Proponante platformon, kiu permesas al aŭtoroj konverti siajn skribitajn verkojn en aŭdlibrojn senkoste, ElevenLabs faciligas ol iam ajn rakontojn atingi tutmondan publikon. Aŭtoroj povas simple alŝuti sian tekston, elekti el vasta biblioteko de AI-generitaj voĉoj kaj havi sian aŭdlibron preta en minutoj. Ĉi tiu servo ne nur ŝparas tempon sed ankaŭ reduktas la kostojn asociitajn kun tradicia produktado de aŭdlibroj. Kun la kapablo distribui ĉi tiujn aŭdlibrojn tutmonde per la app ElevenReader, ElevenLabs malfermas novajn pordojn por sendependaj aŭtoroj kaj eldonistoj, igante rakontadon pli alirebla kaj diversa ol iam ajn antaŭe.
 
 ### La Teksita Urbo de Toyota: Ekrigardo en la Estontecon de Urba Vivo
 
-Toyota finis la unuan fazon de konstruado por sia ambicia Woven City-projekto, futureca urba evoluo
-situanta ĉe la bazo de Fuĵi-monto, Japanio. Ĉi tiu noviga urbo estas desegnita kiel vivanta
-laboratorio, kie loĝantoj, konataj kiel "Teksistoj", kaj kompanioj, nomataj "Inventintoj",
-kunlaboras por esplori novajn teknologiojn kaj daŭrigeblajn vivajn praktikojn. La grandurbo planas
-redifini moviĝeblon integrante la movadon de homoj, varoj, informoj, kaj energio en senjunta kaj
-ekologie amika maniero. Kun ĝia hom-centra dezajno, Woven City estas metita gastigi proksimume 360
-loĝantojn komence, disetendiĝante al 2,000 dum la projekto progresas. La urbo servos kiel testejo
-por avangardaj novigoj, inkluzive de aŭtonomaj veturiloj, inteligentaj hejmoj kaj altnivelaj
-energiaj solvoj, ĉiuj kontribuantaj al pli ligita kaj daŭrigebla estonteco.
+Toyota finis la unuan fazon de konstruado por sia ambicia Woven City-projekto, futureca urba evoluo situanta ĉe la bazo de Fuĵi-monto, Japanio. Ĉi tiu noviga urbo estas desegnita kiel vivanta laboratorio, kie loĝantoj, konataj kiel "Teksistoj", kaj kompanioj, nomataj "Inventintoj", kunlaboras por esplori novajn teknologiojn kaj daŭrigeblajn vivajn praktikojn. La grandurbo planas redifini moviĝeblon integrante la movadon de homoj, varoj, informoj, kaj energio en senjunta kaj ekologie amika maniero. Kun ĝia hom-centra dezajno, Woven City estas metita gastigi proksimume 360 loĝantojn komence, disetendiĝante al 2,000 dum la projekto progresas. La urbo servos kiel testejo por avangardaj novigoj, inkluzive de aŭtonomaj veturiloj, inteligentaj hejmoj kaj altnivelaj energiaj solvoj, ĉiuj kontribuantaj al pli ligita kaj daŭrigebla estonteco.
 
 ## Scienco
 
 ### Eŭropo Prezentas Plej Modernan AI Veteran Prognozan Sistemon
 
-Eŭropo lanĉis novan veterprognozsistemon funkciigitan de AI nomatan Artefarita Inteligenta Prognoza
-Sistemo (AIFS). Disvolvita de la Eŭropa Centro por Mezdistancaj Veterprognozoj (ECMWF), ĉi tiu
-altnivela modelo estas dizajnita por antaŭdiri veteron pli precize kaj efike ol tradiciaj metodoj.
-Male al pli malnovaj modeloj kiuj dependas de solvado de kompleksaj fizikekvacioj, AIFS uzas
-artefaritan inteligentecon por lerni de vastaj kvantoj da veterdatenoj, permesante al ĝi identigi
-ŝablonojn kaj fari prognozojn kun pli granda precizeco. Ĉi tiu nova sistemo ne nur estas pli rapida,
-sed ankaŭ konsumas signife malpli da energio, igante ĝin ekologia opcio. La enkonduko de AIFS markas
-signifan paŝon antaŭen en veterprognozo, promesante helpi registarojn kaj individuojn pli bone
-prepariĝi por vetereventoj, de ĉiutagaj prognozoj ĝis ekstremaj vetercirkonstancoj.
+Eŭropo lanĉis novan veterprognozsistemon funkciigitan de AI nomatan Artefarita Inteligenta Prognoza Sistemo (AIFS). Disvolvita de la Eŭropa Centro por Mezdistancaj Veterprognozoj (ECMWF), ĉi tiu altnivela modelo estas dizajnita por antaŭdiri veteron pli precize kaj efike ol tradiciaj metodoj. Male al pli malnovaj modeloj kiuj dependas de solvado de kompleksaj fizikekvacioj, AIFS uzas artefaritan inteligentecon por lerni de vastaj kvantoj da veterdatenoj, permesante al ĝi identigi ŝablonojn kaj fari prognozojn kun pli granda precizeco. Ĉi tiu nova sistemo ne nur estas pli rapida, sed ankaŭ konsumas signife malpli da energio, igante ĝin ekologia opcio. La enkonduko de AIFS markas signifan paŝon antaŭen en veterprognozo, promesante helpi registarojn kaj individuojn pli bone prepariĝi por vetereventoj, de ĉiutagaj prognozoj ĝis ekstremaj vetercirkonstancoj.
 
 ### Marso: La Sekreta Pasinteco de la Ruĝa Planedo Malkaŝita
 
-La lastatempa studo de NASA verŝis novan lumon pri kial Marso estas konata kiel la "Ruĝa Planedo"
-kaj kion tio signifas por sia historio. La ruĝa koloro de Marso venas de feraj mineraloj en ĝia
-grundo, kiuj oksidiĝis aŭ rustiĝis kun la tempo. Tiu eltrovaĵo subtenas la ideon ke Marso iam havis
-multe pli dikan atmosferon kaj estis pli varma kaj pli malseka, igante ĝin eble loĝebla antaŭ
-miliardoj da jaroj. Sciencistoj opinias, ke la ĉeesto de akvo kaj pli dika atmosfero povus esti
-subteninta vivon, almenaŭ en mikroba formo. Ĉi tiu nova kompreno de la pasintaj kondiĉoj de Marso
-estas decida ĉar ĝi sugestas, ke la planedo eble estis pli simila al la Tero en sia frua historio,
-ofertante sciojn pri la ebleco de vivo preter nia planedo. Dum NASA daŭre esploras Marson kun misioj
-kiel la esplorveturilo Perseverance, la espero estas malkovri pli pri la interesa pasinteco de la
-planedo kaj ĝia potencialo esti subteninta vivon.
+La lastatempa studo de NASA verŝis novan lumon pri kial Marso estas konata kiel la "Ruĝa Planedo" kaj kion tio signifas por sia historio. La ruĝa koloro de Marso venas de feraj mineraloj en ĝia grundo, kiuj oksidiĝis aŭ rustiĝis kun la tempo. Tiu eltrovaĵo subtenas la ideon ke Marso iam havis multe pli dikan atmosferon kaj estis pli varma kaj pli malseka, igante ĝin eble loĝebla antaŭ miliardoj da jaroj. Sciencistoj opinias, ke la ĉeesto de akvo kaj pli dika atmosfero povus esti subteninta vivon, almenaŭ en mikroba formo. Ĉi tiu nova kompreno de la pasintaj kondiĉoj de Marso estas decida ĉar ĝi sugestas, ke la planedo eble estis pli simila al la Tero en sia frua historio, ofertante sciojn pri la ebleco de vivo preter nia planedo. Dum NASA daŭre esploras Marson kun misioj kiel la esplorveturilo Perseverance, la espero estas malkovri pli pri la interesa pasinteco de la planedo kaj ĝia potencialo esti subteninta vivon.
 
 ## Sano
 
 ### FDA Prokrastas Novan Regulon pri "Sana" Manĝaĵo-Etikedado
 
-La FDA decidis prokrasti la efektivigon de sia nova regulo difinante kiajn manĝaĵojn povas esti
-etikeditaj kiel "sanaj". Origine preta efiki la 25-an de februaro 2025, la regulo nun estos
-plenumita ekde la 28-an de aprilo 2025. Ĉi tiu prokrasto sekvas memorandon de prezidanto Donald
-Trump, kiu postulis revizio de novaj regularoj. La ĝisdatigita regulo celas certigi, ke manĝaĵoj
-etikeditaj kiel "sanaj" plenumas specifajn nutrajn kriteriojn, inkluzive de limoj por aldonitaj
-sukeroj, saturitaj grasoj kaj natrio, dum ili postulas certan kvanton da ŝlosilaj manĝgrupoj kiel
-fruktoj kaj legomoj. Kvankam la prokrasto povus ŝajni grava, spertuloj opinias, ke ĝi ne influos la
-longperspektivajn avantaĝojn de la regulo, kiu estas atendita plibonigi la konsuman komprenon pri
-sana manĝado kaj kuraĝigi pli bonajn manĝelektojn.
+La FDA decidis prokrasti la efektivigon de sia nova regulo difinante kiajn manĝaĵojn povas esti etikeditaj kiel "sanaj". Origine preta efiki la 25-an de februaro 2025, la regulo nun estos plenumita ekde la 28-an de aprilo 2025. Ĉi tiu prokrasto sekvas memorandon de prezidanto Donald Trump, kiu postulis revizio de novaj regularoj. La ĝisdatigita regulo celas certigi, ke manĝaĵoj etikeditaj kiel "sanaj" plenumas specifajn nutrajn kriteriojn, inkluzive de limoj por aldonitaj sukeroj, saturitaj grasoj kaj natrio, dum ili postulas certan kvanton da ŝlosilaj manĝgrupoj kiel fruktoj kaj legomoj. Kvankam la prokrasto povus ŝajni grava, spertuloj opinias, ke ĝi ne influos la longperspektivajn avantaĝojn de la regulo, kiu estas atendita plibonigi la konsuman komprenon pri sana manĝado kaj kuraĝigi pli bonajn manĝelektojn.
 
 ### Listeria Ekapero de Frozen Shakes Asertoj 12 Vivoj
 
-Grava ekapero de Listeria infektoj estis ligita al frostaj suplementaj skuoj, rezultigante 12
-mortojn tra 21 ŝtatoj. La skuoj, produktitaj fare de Prairie Farms Dairy Inc. kaj distribuitaj sub
-la Lyons ReadyCare kaj Sysco Imperial-markoj, estis ĉefe liveritaj al hospitaloj kaj
-longperspektivaj flegejoj. La FDA kaj CDC esploras la ekaperon, kiu influis 38 homojn, kun 37
-postulante enhospitaligon. La skuoj estis revokitaj, kaj aŭtoritatoj instigas homojn ne konsumi
-ilin. Listeria povas kaŭzi severan malsanon, precipe en pli maljunaj plenkreskuloj, gravedaj virinoj
-kaj tiuj kun malfortigitaj imunsistemoj. Simptomoj inkluzivas febron, muskolajn dolorojn kaj
-gastrointestinajn problemojn. La enketo daŭras ĉar sanoficialuloj laboras por malhelpi pliajn
-kazojn.
+Grava ekapero de Listeria infektoj estis ligita al frostaj suplementaj skuoj, rezultigante 12 mortojn tra 21 ŝtatoj. La skuoj, produktitaj fare de Prairie Farms Dairy Inc. kaj distribuitaj sub la Lyons ReadyCare kaj Sysco Imperial-markoj, estis ĉefe liveritaj al hospitaloj kaj longperspektivaj flegejoj. La FDA kaj CDC esploras la ekaperon, kiu influis 38 homojn, kun 37 postulante enhospitaligon. La skuoj estis revokitaj, kaj aŭtoritatoj instigas homojn ne konsumi ilin. Listeria povas kaŭzi severan malsanon, precipe en pli maljunaj plenkreskuloj, gravedaj virinoj kaj tiuj kun malfortigitaj imunsistemoj. Simptomoj inkluzivas febron, muskolajn dolorojn kaj gastrointestinajn problemojn. La enketo daŭras ĉar sanoficialuloj laboras por malhelpi pliajn kazojn.
 
 ## Distro
 
 ### Ne Zha 2: La Vigla Filmo Kiu Konkeris la Giĉeton
 
-La ĉina animacia filmo "Ne Zha 2" konfuzis la mondon, rompante biletvendejajn rekordojn kaj
-fariĝante la plej alt-atinganta animacia filmo de ĉiuj tempoj. Eldonita dum la Luna Novjaro, la
-filmo allogis spektantarojn per sia miksaĵo de ĉina mitologio kaj modernaj animaciaj teknikoj. La
-rakonto sekvas Ne Zha, mitan infanheroon, kiu komencas ekscitan aventuron plenigitan kun magio kaj
-defioj. La sukceso de la filmo ricevas al sia kultura aŭtenteco, alloga intrigo, kaj impresaj
-bildoj, kiuj resonancis kun kaj hejmaj kaj internaciaj spektantaroj. Kun pli ol 1.9 miliardoj USD en
-enspezoj nur el Ĉinio, "Ne Zha 2" starigis novan referencon por animaciaj filmoj tutmonde, montrante
-la kreskantan influon de ĉina kinejo sur la mondscenejo.
+La ĉina animacia filmo "Ne Zha 2" konfuzis la mondon, rompante biletvendejajn rekordojn kaj fariĝante la plej alt-atinganta animacia filmo de ĉiuj tempoj. Eldonita dum la Luna Novjaro, la filmo allogis spektantarojn per sia miksaĵo de ĉina mitologio kaj modernaj animaciaj teknikoj. La rakonto sekvas Ne Zha, mitan infanheroon, kiu komencas ekscitan aventuron plenigitan kun magio kaj defioj. La sukceso de la filmo ricevas al sia kultura aŭtenteco, alloga intrigo, kaj impresaj bildoj, kiuj resonancis kun kaj hejmaj kaj internaciaj spektantaroj. Kun pli ol 1.9 miliardoj USD en enspezoj nur el Ĉinio, "Ne Zha 2" starigis novan referencon por animaciaj filmoj tutmonde, montrante la kreskantan influon de ĉina kinejo sur la mondscenejo.
 
 ### FragPunk: La Nova Ondo de FPS el Ĉinio
 
-FragPunk, freŝa preno de la unua-persona pafada ĝenro, faras ondojn per sia unika punk-inspira
-ludado. Disvolvita de la juna kaj energia teamo ĉe Bad Guitar Studio en Ĉinio, ĉi tiu ludo estas
-metita defii la normojn de tradiciaj FPS-ludoj. FragPunk lanĉas dinamikan kartsistemon kiu ŝanĝas la
-regulojn de engaĝiĝo ĉiun rondon, certigante ke neniuj du matĉoj estu samaj. Ludantoj povas sperti
-miksaĵon de strategia kaj kaosa amuzo, kun kartoj kiuj povas ŝveligi malamikajn kapojn aŭ alvoki
-protektajn testudojn. La ludo ankaŭ havas diversajn karakterojn, ĉiu kun unikaj kapabloj, aldonante
-profundon kaj reludeblecon. Kun siaj viglaj bildoj kaj novigaj mekanikoj, FragPunk estas preta
-allogi ambaŭ hazardajn kaj ĝisostajn FPS-fanojn. Dum la ludo prepariĝas por sia oficiala lanĉo, ĝi
-promesas liveri punk-infuzitan, adrenalin-pumpas sperton, kiu fleksas la regulojn de konvenciaj
-pafaj ludoj.
+FragPunk, freŝa preno de la unua-persona pafada ĝenro, faras ondojn per sia unika punk-inspira ludado. Disvolvita de la juna kaj energia teamo ĉe Bad Guitar Studio en Ĉinio, ĉi tiu ludo estas metita defii la normojn de tradiciaj FPS-ludoj. FragPunk lanĉas dinamikan kartsistemon kiu ŝanĝas la regulojn de engaĝiĝo ĉiun rondon, certigante ke neniuj du matĉoj estu samaj. Ludantoj povas sperti miksaĵon de strategia kaj kaosa amuzo, kun kartoj kiuj povas ŝveligi malamikajn kapojn aŭ alvoki protektajn testudojn. La ludo ankaŭ havas diversajn karakterojn, ĉiu kun unikaj kapabloj, aldonante profundon kaj reludeblecon. Kun siaj viglaj bildoj kaj novigaj mekanikoj, FragPunk estas preta allogi ambaŭ hazardajn kaj ĝisostajn FPS-fanojn. Dum la ludo prepariĝas por sia oficiala lanĉo, ĝi promesas liveri punk-infuzitan, adrenalin-pumpas sperton, kiu fleksas la regulojn de konvenciaj pafaj ludoj.
 
 ## Sportoj
 
 ### La Pliiĝo de Elitaj Quarterbacks en la 2024-datita NFL-Sezono
 
-La NFL-sezono (2024) estis ekscita ekspozicio de ricevisto-talento, kun 59 malsamaj ricevistoj
-komencante almenaŭ unu matĉon. Inter tiuj, Lamar Jackson de la Baltimoro-Korvoj kaj Jalen Hurts de
-la Filadelfia Eagles elstaris kiel elitaj prezentistoj. Jackson, konata pro sia nekredebla
-miksadkapablo, liveris karier-plej bonan sezonon kun 45 tertuŝoj kaj nur kvin interkaptoj, malgraŭ
-malfacila finalperdo. Lia duobla-minaca kapablo igis lin enorma forto sur la kampo, gvidante la
-delikton de la Korvoj kun precizeco kaj facilmoveco. Dume, Jalen Hurts kondukis la Aglojn al domina
-Super Bowl-kuro, balancante konservativan regulan sezonon kun eksplodemaj ludoj kiam ĝi plej gravis.
-Lia kapablo kontroli la ludon kaj liveri en altpremaj situacioj plifirmigis lian statuson kiel unu
-el la ĉefaj ricevistoj en la ligo.
+La NFL-sezono (2024) estis ekscita ekspozicio de ricevisto-talento, kun 59 malsamaj ricevistoj komencante almenaŭ unu matĉon. Inter tiuj, Lamar Jackson de la Baltimoro-Korvoj kaj Jalen Hurts de la Filadelfia Eagles elstaris kiel elitaj prezentistoj. Jackson, konata pro sia nekredebla miksadkapablo, liveris karier-plej bonan sezonon kun 45 tertuŝoj kaj nur kvin interkaptoj, malgraŭ malfacila finalperdo. Lia duobla-minaca kapablo igis lin enorma forto sur la kampo, gvidante la delikton de la Korvoj kun precizeco kaj facilmoveco. Dume, Jalen Hurts kondukis la Aglojn al domina Super Bowl-kuro, balancante konservativan regulan sezonon kun eksplodemaj ludoj kiam ĝi plej gravis. Lia kapablo kontroli la ludon kaj liveri en altpremaj situacioj plifirmigis lian statuson kiel unu el la ĉefaj ricevistoj en la ligo.
 
-La sezono ankaŭ elstarigis la aperon de novaj inteligentoj kaj la rezistecon de spertaj ludantoj.
-Jayden Daniels, novulo por la Washington Commanders, impresis kun sia dinamika ludo, kondukante sian
-teamon al la NFC-titolludo kaj elmontrante eblajn MVP-kvalitojn. Joe Burrow de la Cincinnati
-Bengals, malgraŭ ne farado de la finaloj, montris trankvilon kaj kapablon, vicigante sekundon en
-bazĵetoj. La sezono estis testamento al la profundo de ricevisttalento en la NFL, kie ĉiu ludanto
-alportas unikajn fortojn al siaj teamoj. Dum la ligo daŭre evoluas, la prezentoj de ĉi tiuj
-ricevistoj starigas altan normon por estontaj sezonoj, promesante ekscitajn evoluojn en la mondo de
-profesia piedpilko.
+La sezono ankaŭ elstarigis la aperon de novaj inteligentoj kaj la rezistecon de spertaj ludantoj. Jayden Daniels, novulo por la Washington Commanders, impresis kun sia dinamika ludo, kondukante sian teamon al la NFC-titolludo kaj elmontrante eblajn MVP-kvalitojn. Joe Burrow de la Cincinnati Bengals, malgraŭ ne farado de la finaloj, montris trankvilon kaj kapablon, vicigante sekundon en bazĵetoj. La sezono estis testamento al la profundo de ricevisttalento en la NFL, kie ĉiu ludanto alportas unikajn fortojn al siaj teamoj. Dum la ligo daŭre evoluas, la prezentoj de ĉi tiuj ricevistoj starigas altan normon por estontaj sezonoj, promesante ekscitajn evoluojn en la mondo de profesia piedpilko.
 
 ### Diana Taurasi: Legenda Kariero Finiĝas
 
-Diana Taurasi, la ĉiama plej elstara poentinto en la WNBA, anoncis sian emeritiĝon post glora
-20-jara kariero. Konata pro ŝia nekredebla poentadkapablo kaj gvidado sur la tribunalo, Taurasi
-estis bazŝtono de la Phoenix Mercury ĉar ŝi estis redaktita kiel la unua totala elekto en 2004. Tra
-la jaroj, ŝi kondukis la teamon al tri WNBA-ĉampionecoj kaj estis nomita la Plej Valora Ludanto de
-la ligo. Ŝia efiko al la ludo etendiĝas preter ŝiaj poentrekordoj; ŝi estis rolmodelo kaj inspiro
-por multaj junaj atletoj, inkluzive de la novsteluloj de la ligo.
+Diana Taurasi, la ĉiama plej elstara poentinto en la WNBA, anoncis sian emeritiĝon post glora 20-jara kariero. Konata pro ŝia nekredebla poentadkapablo kaj gvidado sur la tribunalo, Taurasi estis bazŝtono de la Phoenix Mercury ĉar ŝi estis redaktita kiel la unua totala elekto en 2004. Tra la jaroj, ŝi kondukis la teamon al tri WNBA-ĉampionecoj kaj estis nomita la Plej Valora Ludanto de la ligo. Ŝia efiko al la ludo etendiĝas preter ŝiaj poentrekordoj; ŝi estis rolmodelo kaj inspiro por multaj junaj atletoj, inkluzive de la novsteluloj de la ligo.
 
-Dum ŝia kariero, Taurasi atingis multajn laŭdojn, inkluzive de ses olimpikaj oraj medaloj, igante
-ŝin la plej pimpa basketbaloludanto en olimpika historio. Ŝia dediĉo kaj pasio por la ludo lasis
-daŭrantan heredaĵon en virina basketbalo. Dum ŝi paŝas for de la tribunalo, Taurasi pripensas sian
-vojaĝon kun dankemo, agnoskante la subtenon de siaj samteamanoj, trejnistoj kaj adorantoj. Ŝia
-emeritiĝo markas la finon de epoko, sed ŝia influo al la sporto daŭre inspiros estontajn generaciojn
-de ludantoj.
+Dum ŝia kariero, Taurasi atingis multajn laŭdojn, inkluzive de ses olimpikaj oraj medaloj, igante ŝin la plej pimpa basketbaloludanto en olimpika historio. Ŝia dediĉo kaj pasio por la ludo lasis daŭrantan heredaĵon en virina basketbalo. Dum ŝi paŝas for de la tribunalo, Taurasi pripensas sian vojaĝon kun dankemo, agnoskante la subtenon de siaj samteamanoj, trejnistoj kaj adorantoj. Ŝia emeritiĝo markas la finon de epoko, sed ŝia influo al la sporto daŭre inspiros estontajn generaciojn de ludantoj.

@@ -1,22 +1,8 @@
-## Prompts
-
-### News stories
-
-Write a title and a 2-3 paragraph story about this topic from the news using simple English:
-
-### Special reports
-
-I am writing a special report on X in the past year to cover news topics. Write a summary of the following in simple English to give background and explanation for related, ongoing news topics:
-
-### Summaries
-
-Summarize and explain this text using simple English in 2-3 paragraphs:
-
-## Headings
-
-```
 ## Politics & Government
 Covers government activities, elections, policy decisions, political parties, court rulings on policy, and international relations. Stories might include updates on legislation, political scandals, or diplomatic events.
+
+* Trump-Zelensky summit explodes: "He can come back when he is ready for peace"
+* Trump will sign order making English official language of the U.S. for first time
 
 ## World
 Focuses on events happening globally, outside the reader’s home country. This includes international conflicts, natural disasters, global health crises, or significant cultural events abroad.
@@ -36,6 +22,8 @@ This subcategory zeroes in on discoveries and advancements in the natural and ph
 ## Technology
 This focuses on human-made innovations and their applications. It covers developments in gadgets, software, artificial intelligence, robotics, and infrastructure.
 
+* Microsoft is killing Skype: Why the app couldn't keep up
+
 ## Entertainment
 Highlights celebrity news, movies, music, TV shows, computer games, and cultural events. Think film premieres, award shows, or the latest streaming platform hits.
 
@@ -44,19 +32,4 @@ Reports on athletic events, scores, player trades, and sports-related controvers
 
 ## Lifestyle & Weather
 Explores fashion, travel, weather, food, home design, and human interest stories. This category often includes trends, personal profiles, or tips for daily living.
-```
 
-## Critera
-
-Topics should be:
-
-- Past, not future, events, no more than 1 week old
-- Should be action, not just talk or opinions
-- Personally relevant or interesting
-
-## Length
-
-In each section:
-
-- 1-2 articles of normal length (2-3 paragraphs)
-- 0-2 articles of short length (1 paragraph)
