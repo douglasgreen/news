@@ -2,7 +2,7 @@
 
 ### News stories
 
-Write a title and a 2-3 paragraph story about this topic from the news using simple English:
+Write a title and a 1 paragraph story about this topic from the news using simple English:
 
 ### Special reports
 
