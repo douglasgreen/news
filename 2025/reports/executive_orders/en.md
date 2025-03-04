@@ -372,7 +372,7 @@ The nominations are part of the constitutional process where the Senate provides
 
 ## Executive Grant of Clemency for Andrew Zabavsky (Presidential Actions, January 22, 2025)
 
-On January 22, 2025, former President Donald J. Trump granted a full and unconditional pardon to Andrew Zabavsky. This pardon was issued for Zabavsky's convictions in the United States District Court for the District of Columbia. He was previously sentenced to 48 months in prison for each count of violating sections 371 and 1512 of Title 18 of the United States Code, with the sentences to run concurrently. Additionally, he was sentenced to three years of supervised release and a $200 special assessment.
+On January 22, 2025, President Donald J. Trump granted a full and unconditional pardon to Andrew Zabavsky. This pardon was issued for Zabavsky's convictions in the United States District Court for the District of Columbia. He was previously sentenced to 48 months in prison for each count of violating sections 371 and 1512 of Title 18 of the United States Code, with the sentences to run concurrently. Additionally, he was sentenced to three years of supervised release and a $200 special assessment.
 
 The pardon was executed under the President's constitutional powers, specifically Article II, Section 2, Clause 1, which allows the President to grant clemency. The Pardon Attorney was designated to act on behalf of the President to formalize this clemency grant. This action effectively forgives Zabavsky's crimes and removes any current or future punishments related to these convictions.
 

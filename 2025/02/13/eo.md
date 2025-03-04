@@ -56,7 +56,7 @@ Guberniestro Greg Abbott bonvenigis la decidon de la NYSE, elstarigante la pozic
 
 ## La X de Musk aranĝas Trump-proceson por $10 Milionoj
 
-La platformo de socia amaskomunikilaro de Elon Musk, X, konsentis pagi 10 milionojn da dolaroj por solvi proceson prezentitan de eksprezidanto Donald Trump. La proceso estis komencita post kiam Trump estis malpermesita de la platformo, tiam konata kiel Twitter, post la atako de la Kapitolo de januaro 6, 2021. Ĉi tiu kompromiso markas la duan fojon, kiam socia amaskomunikila kompanio atingis financan interkonsenton kun Trump pri similaj aferoj, kie Meta pagis 25 milionojn USD pli frue.
+La platformo de socia amaskomunikilaro de Elon Musk, X, konsentis pagi 10 milionojn da dolaroj por solvi proceson prezentitan de prezidanto Donald Trump. La proceso estis komencita post kiam Trump estis malpermesita de la platformo, tiam konata kiel Twitter, post la atako de la Kapitolo de januaro 6, 2021. Ĉi tiu kompromiso markas la duan fojon, kiam socia amaskomunikila kompanio atingis financan interkonsenton kun Trump pri similaj aferoj, kie Meta pagis 25 milionojn USD pli frue.
 
 La proceso estis origine arkivita kontraŭ X sub sia antaŭa ĉefoficisto, Jack Dorsey. Post kiam Musk akiris la kompanion, li reinstalis la konton de Trump kaj disvolvis rilaton kun la antaŭa prezidanto. Malgraŭ ĉi tiuj evoluoj, la jura teamo de Trump decidis daŭrigi kun la proceso, kondukante al la lastatempa kompromiso. Ĉi tiu interkonsento elstarigas la daŭrajn leĝajn kaj politikajn defiojn alfrontatajn de sociaj amaskomunikiloj platformoj en administrado de altprofilaj kontoj kaj enhavmoderigo.
 

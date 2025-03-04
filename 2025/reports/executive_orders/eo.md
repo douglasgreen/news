@@ -372,7 +372,7 @@ La nomumoj estas parto de la konstitucia procezo kie la Senato disponigas konsil
 
 ## Plenuma Stipendio de Clemency por Andrew Zabavsky (Prezidantaj Agoj, la 22-an de januaro 2025)
 
-La 22-an de januaro 2025, eksprezidanto Donald J. Trump donis plenan kaj senkondiĉan pardonon al Andrew Zabavsky. Tiu pardono estis eldonita por la konvinkiĝoj de Zabavsky en la United States District Court for the District of Columbia (Unuiĝinta States District Court por la Distrikto de Columbia). Li antaŭe estis kondamnita al 48 monatoj en malliberejo por ĉiu kalkulo de malobservado de sekcioj 371 kaj 1512 el Titolo 18 el la Usono-Kodo, kun la frazoj por kuri samtempe. Plie, li estis kondamnita al tri jaroj da kontrolita liberigo kaj speciala takso de \$200.
+La 22-an de januaro 2025, prezidanto Donald J. Trump donis plenan kaj senkondiĉan pardonon al Andrew Zabavsky. Tiu pardono estis eldonita por la konvinkiĝoj de Zabavsky en la United States District Court for the District of Columbia (Unuiĝinta States District Court por la Distrikto de Columbia). Li antaŭe estis kondamnita al 48 monatoj en malliberejo por ĉiu kalkulo de malobservado de sekcioj 371 kaj 1512 el Titolo 18 el la Usono-Kodo, kun la frazoj por kuri samtempe. Plie, li estis kondamnita al tri jaroj da kontrolita liberigo kaj speciala takso de \$200.
 
 La pardono estis efektivigita sub la konstituciaj potencoj de la prezidanto, specife Article II, Section 2, Clause 1, kiu permesas al la prezidanto doni mildecon. La Pardono-Advokato estis nomumita por agi nome de la Prezidanto por formaligi ĉi tiun mildecan stipendion. Tiu ago efike pardonas la krimojn de Zabavsky kaj forigas iujn ajn nunajn aŭ estontajn punojn ligitajn al tiuj konvinkiĝoj.
 

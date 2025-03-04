@@ -8,7 +8,7 @@ Acosta rivelis sian decidon post malkreskado de la oferto de CNN movi sian spekt
 
 ### 2. **Fina Sur-Aera Mesaĝo**
 
-En sia emocia subskribo, Acosta instigis spektantojn _"Ne cedu al la mensogoj. Ne cedu al la timo. Tenu vin al la vero kaj esperu"_---rimarko vaste interpretita kiel kritiko. de eksprezidanto Donald Trump, kiun li komparis kun "tirano". Li ankaŭ pripensis sian karieran kulminaĵon: pridemandi la kuban gvidanton Raúl Castro en 2016 kiel la filo de kuba rifuĝinto, emfazante ke _"neniam estas bona tempo kliniĝi antaŭ tirano"_.
+En sia emocia subskribo, Acosta instigis spektantojn _"Ne cedu al la mensogoj. Ne cedu al la timo. Tenu vin al la vero kaj esperu"_---rimarko vaste interpretita kiel kritiko. de prezidanto Donald Trump, kiun li komparis kun "tirano". Li ankaŭ pripensis sian karieran kulminaĵon: pridemandi la kuban gvidanton Raúl Castro en 2016 kiel la filo de kuba rifuĝinto, emfazante ke _"neniam estas bona tempo kliniĝi antaŭ tirano"_.
 
 ### 3. **Kialo de Foriro**
 

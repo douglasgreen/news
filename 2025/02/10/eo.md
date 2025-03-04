@@ -128,7 +128,7 @@ La teamo de Musk ekzamenos diversajn armeajn programojn kaj kapablojn, identigan
 
 ## La Pozitiva Komenco de Trump: Nova Ĉapitro en Usona Politiko
 
-En la plej nova enketo de CBS News, eksprezidanto Donald Trump ricevis pozitivan aprob-takson dum li komencas sian novan oficperiodon. Multaj usonanoj estas optimismaj pri lia reveno, kun atendoj pri pli forta ekonomio kaj pli malaltaj prezoj. La planoj de Trump pri deportado akiris popularecon, kvankam iuj civitanoj sentas, ke ne sufiĉas fokuso por redukti kostojn. Ĉi tiu sento reflektas nacion avidan je ekonomia plibonigo kaj stabileco.
+En la plej nova enketo de CBS News, prezidanto Donald Trump ricevis pozitivan aprob-takson dum li komencas sian novan oficperiodon. Multaj usonanoj estas optimismaj pri lia reveno, kun atendoj pri pli forta ekonomio kaj pli malaltaj prezoj. La planoj de Trump pri deportado akiris popularecon, kvankam iuj civitanoj sentas, ke ne sufiĉas fokuso por redukti kostojn. Ĉi tiu sento reflektas nacion avidan je ekonomia plibonigo kaj stabileco.
 
 Malgraŭ la optimismo, estas zorgoj inter demokratoj, kiuj sentas maltrankvilon pri la politikoj de Trump kaj ilia ebla efiko al rajtoj kaj liberecoj. La balotenketo indikas ke dum multaj demokratoj estas maltrankvilaj, malpli ol duono estas instigitaj aktive kontraŭbatali lin. Ĉi tiu divido elstarigas la daŭran politikan streĉiĝon en la lando, ĉar civitanoj navigas siajn esperojn kaj timojn pri la estonteco sub la gvidado de Trump.
 

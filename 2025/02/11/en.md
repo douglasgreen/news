@@ -16,7 +16,7 @@ Internationally, the situation has drawn attention from various countries and or
 
 ## Trump's Controversial Gaza Plan Sparks Global Outcry
 
-Donald Trump, the former President of the United States, recently announced a controversial plan regarding the Gaza Strip. In an interview, he stated that Palestinians would not have the right to return to Gaza under his proposed plan. Instead, he suggested that they would be resettled in neighboring countries like Egypt and Jordan. Trump's plan involves the U.S. taking control of Gaza and transforming it into a real estate development, which he described as a "beautiful piece of land".
+Donald Trump, the President of the United States, recently announced a controversial plan regarding the Gaza Strip. In an interview, he stated that Palestinians would not have the right to return to Gaza under his proposed plan. Instead, he suggested that they would be resettled in neighboring countries like Egypt and Jordan. Trump's plan involves the U.S. taking control of Gaza and transforming it into a real estate development, which he described as a "beautiful piece of land".
 
 The announcement has sparked widespread condemnation from various international communities and organizations. Many see this plan as a violation of international law, which prohibits the forced displacement of people from their land. The United Nations and several Arab states have voiced their strong opposition, emphasizing that such actions could be considered ethnic cleansing. Trump's proposal has also been criticized for ignoring the complex historical and political realities of the region, as well as the rights of Palestinians to self-determination.
 

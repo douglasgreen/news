@@ -128,7 +128,7 @@ Musk's team will scrutinize various military programs and capabilities, identify
 
 ## Trump's Positive Start: A New Chapter in American Politics
 
-In the latest CBS News poll, former President Donald Trump has received a positive approval rating as he begins his new term in office. Many Americans are optimistic about his return, with expectations for a stronger economy and lower prices. Trump's plans for deportation have gained popularity, although some citizens feel there is not enough focus on reducing costs. This sentiment reflects a nation eager for economic improvement and stability.
+In the latest CBS News poll, President Donald Trump has received a positive approval rating as he begins his new term in office. Many Americans are optimistic about his return, with expectations for a stronger economy and lower prices. Trump's plans for deportation have gained popularity, although some citizens feel there is not enough focus on reducing costs. This sentiment reflects a nation eager for economic improvement and stability.
 
 Despite the optimism, there are concerns among Democrats who feel anxious about Trump's policies and their potential impact on rights and freedoms. The poll indicates that while many Democrats are worried, fewer than half are motivated to actively oppose him. This division highlights the ongoing political tension in the country, as citizens navigate their hopes and fears for the future under Trump's leadership.
 

@@ -56,9 +56,9 @@ Governor Greg Abbott has welcomed the NYSE's decision, highlighting Texas's posi
 
 ## Musk's X Settles Trump Lawsuit for $10 Million
 
-Elon Musk's social media platform, X, has agreed to pay $10 million to settle a lawsuit filed by former President Donald Trump. The lawsuit was initiated after Trump was banned from the platform, then known as Twitter, following the January 6, 2021, Capitol attack. This settlement marks the second time a social media company has reached a financial agreement with Trump over similar issues, with Meta having paid $25 million earlier.
+Elon Musk's social media platform, X, has agreed to pay $10 million to settle a lawsuit filed by President Donald Trump. The lawsuit was initiated after Trump was banned from the platform, then known as Twitter, following the January 6, 2021, Capitol attack. This settlement marks the second time a social media company has reached a financial agreement with Trump over similar issues, with Meta having paid $25 million earlier.
 
-The lawsuit was originally filed against X under its previous CEO, Jack Dorsey. After Musk acquired the company, he reinstated Trump's account and developed a relationship with the former president. Despite these developments, Trump's legal team decided to proceed with the lawsuit, leading to the recent settlement. This agreement highlights the ongoing legal and political challenges faced by social media platforms in managing high-profile accounts and content moderation.
+The lawsuit was originally filed against X under its previous CEO, Jack Dorsey. After Musk acquired the company, he reinstated Trump's account and developed a relationship with the President. Despite these developments, Trump's legal team decided to proceed with the lawsuit, leading to the recent settlement. This agreement highlights the ongoing legal and political challenges faced by social media platforms in managing high-profile accounts and content moderation.
 
 In addition to the settlement with X, Trump's legal team is reportedly pursuing similar actions against other platforms like Google, which banned him from YouTube after the Capitol events. These legal battles underscore the complex intersection of politics, social media, and free speech in the digital age.
 

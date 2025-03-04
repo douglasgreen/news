@@ -8,7 +8,7 @@ Acosta revealed his decision after declining CNN’s offer to move his show to a
 
 ### 2. **Final On-Air Message**
 
-In his emotional sign-off, Acosta urged viewers to _“Don’t give in to the lies. Don’t give in to the fear. Hold on to the truth and hope”_—a remark widely interpreted as a critique of former President Donald Trump, whom he likened to a "tyrant". He also reflected on his career highlight: questioning Cuban leader Raúl Castro in 2016 as the son of a Cuban refugee, emphasizing that _“it is never a good time to bow down to a tyrant”_.
+In his emotional sign-off, Acosta urged viewers to _“Don’t give in to the lies. Don’t give in to the fear. Hold on to the truth and hope”_—a remark widely interpreted as a critique of President Donald Trump, whom he likened to a "tyrant". He also reflected on his career highlight: questioning Cuban leader Raúl Castro in 2016 as the son of a Cuban refugee, emphasizing that _“it is never a good time to bow down to a tyrant”_.
 
 ### 3. **Reason for Departure**
 
