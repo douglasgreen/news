@@ -72,11 +72,11 @@ if [ ${#files[@]} -eq 0 ]; then
 fi
 
 # Process the first file (overwrite output)
-translate gpt-4o-mini "$LANGUAGE" "${files[0]}" > "$OUTPUT_FILE"
+translate gpt-4o "$LANGUAGE" "${files[0]}" > "$OUTPUT_FILE"
 
 # Process remaining files (append to output)
 for ((i=1; i<${#files[@]}; i++)); do
-    translate gpt-4o-mini "$LANGUAGE" "${files[$i]}" >> "$OUTPUT_FILE"
+    translate gpt-4o "$LANGUAGE" "${files[$i]}" >> "$OUTPUT_FILE"
 done
 
 echo "Translation to $LANGUAGE completed. Results saved in $OUTPUT_FILE"
