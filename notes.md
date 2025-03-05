@@ -39,6 +39,9 @@ This focuses on human-made innovations and their applications. It covers develop
 ## Entertainment
 Highlights celebrity news, movies, music, TV shows, computer games, and cultural events. Think film premieres, award shows, or the latest streaming platform hits.
 
+## Arts & Culture
+Covers areas of art and architecture not covered by entertainment or lifestyle.
+
 ## Sports & Games
 Reports on athletic events, scores, player trades, and sports-related controversies. Covers everything from local games to major leagues like the NFL, NBA, or FIFA tournaments. Also includes competitive games like chess.
 
