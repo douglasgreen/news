@@ -8,11 +8,19 @@ Thousands of employees at the U.S. Department of Agriculture (USDA) are getting 
 
 The U.S. State Department has announced new visa restrictions targeting foreign officials who are believed to facilitate illegal immigration into the United States. This policy aims to hold accountable those officials, including immigration and customs officers, who fail to enforce immigration laws or create policies that allow illegal migration. The restrictions will apply to officials from countries along migratory routes to the U.S., particularly those who knowingly assist or fail to prevent illegal entry into the country. The move is part of a broader effort to secure U.S. borders and ensure national security by preventing illegal immigration. The policy also extends to certain family members of these officials, emphasizing the U.S. commitment to enforcing immigration laws and protecting its borders.
 
+### Al Green Censured for Disrupting Trump's Speech
+
+During a joint session of Congress, Democratic Representative Al Green was censured for interrupting President Donald Trump's address. Green, a long-serving congressman from Texas, stood up and shouted at Trump, accusing him of lacking a mandate, which led to his removal from the chamber. The House voted 224 to 198 in favor of the censure, with ten Democrats siding with Republicans. This formal reprimand, though not removing Green from office, marked a significant moment in congressional history. Green, unrepentant, defended his actions as a stand against what he described as Trump's incivility and plans to cut Medicaid, a vital program for many of his constituents. Despite the censure, Green vowed to continue speaking out against injustices, highlighting the ongoing tensions and partisan divides within Congress.
+
 ## World
 
 ### Accidental Bombing in South Korea Injures Civilians During Military Drill
 
 During a joint military exercise with the United States, a South Korean fighter jet accidentally dropped eight bombs on a civilian area in Pocheon, a city near the border with North Korea. The incident occurred when the bombs were released outside the designated firing range, injuring 15 people, including two foreign nationals. The bombs damaged several homes, a church, and a greenhouse, causing chaos and fear among the residents. The South Korean Air Force has apologized for the accident and is investigating the cause, promising compensation for the damages. The military has temporarily suspended live-fire drills to prevent further incidents. Local residents have long expressed concerns about the risks posed by military exercises in the area, and this accident has intensified calls for improved safety measures.
+
+### Women's Rights Face Setbacks in a Quarter of the World
+
+A recent UN report has revealed that women's rights are declining in 25% of countries worldwide. This alarming trend is attributed to various factors, including climate change, democratic backsliding, and the spread of harmful stereotypes through digital technology. Despite progress in areas like education and maternal health, many women still face significant challenges. The report highlights that nearly a quarter of governments have reported a backlash against gender equality, undermining efforts to implement the Beijing Platform for Action. This situation calls for urgent global action to protect and promote women's rights, ensuring that all women and girls can enjoy equal opportunities and live free from violence and discrimination.
 
 ## Business & Economy
 
@@ -28,7 +36,15 @@ In a significant move, some shoppers have initiated a 40-day boycott against Tar
 
 Jaguar has unveiled its first concept car, the Type 00, following a controversial rebranding effort. This new electric vehicle has sparked mixed reactions, with some praising its innovative design and others criticizing it as impractical. The Type 00, revealed at Miami Art Week, features a long bonnet, large wheels, and a unique design that pays homage to Jaguar's past while embracing a futuristic aesthetic. The car is part of Jaguar's strategy to reposition itself as a luxury brand and move away from mass production. Despite the divided opinions, Jaguar's leadership believes the bold move is necessary to attract a new audience and secure the brand's future. The Type 00 is not intended for production but serves as a vision for Jaguar's upcoming electric models, set to launch in 2026.
 
+### Market Turmoil: Stocks Plunge Amid Tariff Uncertainty
+
+The stock market faced a turbulent day as major indices fell sharply due to ongoing uncertainty surrounding President Trump's trade policies. The Dow Jones Industrial Average dropped by 428 points, while the Nasdaq entered correction territory, down 10% from its December high. Investors were rattled by mixed signals from the White House regarding tariffs on goods from Mexico and Canada. Despite a temporary delay in tariffs, the market remained volatile, with tech stocks leading the decline. Companies like Marvell Technology and Nvidia saw significant drops, contributing to the overall market downturn. The uncertainty over tariffs and their potential impact on inflation and economic growth left investors anxious, highlighting the fragile state of the market.
+
 ## Crime & Justice
+
+### US Charges 12 Chinese Hackers for Breaching Treasury Department
+
+In a significant move, the United States has charged 12 Chinese nationals, including hackers and government officials, for their involvement in a major cybercrime campaign. These individuals are accused of hacking into various U.S. government agencies, including the Treasury Department, and stealing sensitive data. The hackers allegedly worked for a private company called I-Soon, which was paid by the Chinese government to target dissidents and other entities of interest. This operation is part of a broader hacking-for-hire ecosystem in China, where private contractors are used to conduct cyber espionage on behalf of the state. The charges highlight the ongoing cyber threats posed by state-sponsored hacking groups and the challenges in safeguarding national security. Despite the allegations, China has denied any involvement, calling the accusations baseless. The U.S. continues to strengthen its defenses against such cyber threats to protect its critical infrastructure and national interests.
 
 ### House Speaker's Aide Arrested for DUI After Trump's Speech
 
@@ -42,9 +58,21 @@ In a surprising move, President Trump has decided to shut down the U.S. State De
 
 ## Science & Nature
 
+## Athena's Uncertain Moon Landing: A New Chapter in Space Exploration
+
+A private spacecraft named Athena, built by Intuitive Machines, has successfully reached the moon's surface, but its exact status remains unclear. The lander, which aimed to touch down near the lunar south pole, is communicating with Earth and generating power, yet it may not be upright. This mission is significant as it marks the second U.S. private company to land on the moon this week, following Firefly Aerospace's successful landing. Athena's mission includes searching for water and testing new technologies, such as a rover and a drill designed to explore lunar soil. Despite the uncertainty, the mission represents a step forward in private space exploration and the potential for future human presence on the moon.
+
 ## The Molecular Dance: Nature's Nonrepeating Patterns
 
 In a fascinating twist of science, chemists have discovered a molecule that naturally forms nonrepeating patterns, echoing the mathematical marvel of the einstein tile. This molecule, when placed on a silver surface, arranges itself into unique triangular spirals that never repeat, much like the elusive einstein tile that can cover a plane without a repeating pattern. The secret lies in the molecule's ability to switch between mirror-image shapes and form weak bonds, allowing it to explore countless configurations. This discovery not only bridges the gap between chemistry and mathematics but also hints at new materials with extraordinary properties, as these nonrepeating patterns could lead to novel physical behaviors. This molecular dance showcases nature's ability to solve complex puzzles, offering a glimpse into the intricate beauty of the world at the molecular level.
+
+### A Hidden Treasure in Our Cells: New Immune System Discovery Offers Hope for Antibiotics
+
+Scientists have made an exciting discovery about the immune system that could lead to the development of new antibiotics. Researchers found that a part of the body known for recycling proteins, called the proteasome, has a hidden ability to produce chemicals that can kill bacteria. This discovery changes how we understand our body's defense against infections and offers a new way to find antibiotics to fight superbugs that resist current drugs. The proteasome, present in every cell, usually breaks down old proteins, but when it detects bacteria, it transforms these proteins into weapons that can destroy the bacteria. This breakthrough, discovered by a team in Israel, has been tested in labs and on mice, showing promising results similar to existing antibiotics. While more testing is needed, this finding provides hope for tackling the growing problem of drug-resistant infections.
+
+### Discovery of Earth's Oldest Impact Crater in Western Australia
+
+In the remote Pilbara region of Western Australia, scientists have discovered what is believed to be the world's oldest-known impact crater, dating back 3.47 billion years. This ancient crater, named the North Pole Crater, was likely formed by a massive meteorite impact that left a significant mark on Earth's early history. The crater, originally about 100 kilometers wide, now features a central raised area known as the North Pole Dome. This discovery provides a unique glimpse into the early conditions of our planet and may offer clues about the origins of life. The presence of shatter cones, which are unique geological formations created by high-pressure impacts, confirms the site's status as an impact crater. This finding opens new avenues for studying Earth's geological past and understanding the role of meteorite impacts in shaping the planet's surface and possibly influencing the emergence of life.
 
 ## Technology
 
