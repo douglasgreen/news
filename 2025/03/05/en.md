@@ -1,5 +1,3 @@
-Write a title and a 1 paragraph story about this topic from the news using simple English:
-
 ## Politics & Government
 
 ### Trump Declares a New Era: 'Woke No Longer

@@ -10,41 +10,77 @@ Summarize and explain this text using simple English in 2-3 paragraphs:
 
 ## Headings
 
-```
 Write a title and a 1 paragraph story about this topic from the news using simple English:
 
-## Politics & Government
-This category covers activities related to government operations, elections, policy decisions, political parties, and court rulings on policy. It includes stories about legislative updates, political scandals, and diplomatic events, primarily involving the US government.
+```
+## Politics & Governance
+   - Politics & Policy
+   - Government Operations
+   - Court Rulings
+   - Elections
+   - International Affairs
+   - Immigration & Migration
 
-## World
-Focuses on significant events occurring globally, outside the reader’s home country. This includes international conflicts, natural disasters, global health crises, and major cultural events abroad. The principal actors are entities or individuals outside the US.
-
-## Business & Economy
-Encompasses financial markets, corporate developments, economic trends, and personal finance. Reports may include stock market updates, company earnings, unemployment rates, and trade policies. The main focus is on money, trade, and economic activities.
+## Economy & Business
+   - Economy & Work
+   - Trade & Commerce
+   - Financial Markets
+   - Consumer Trends
+   - Labor Issues & Employment Rates
+   - Transportation & Infrastructure
+   - Housing & Urban Development
+   - Energy Production
 
 ## Crime & Justice
-Details criminal activities, legal proceedings, law enforcement actions, and judicial rulings. This category includes stories about trials, arrests, and changes in criminal laws, focusing on the justice system and its processes.
+   - Crime & Justice
+   - Arrests, Trials & Verdicts
+   - Terrorism
+   - Legal Affairs
+   - Privacy & Surveillance
 
-## Health
-Covers medical breakthroughs, public health issues, disease outbreaks, healthcare policies, and wellness trends. Examples include vaccine updates, hospital reforms, and mental health awareness initiatives.
+## Technology & Media
+   - Internet & Technology
+   - Technology Innovations
+   - Cybersecurity
+   - News Habits & Media
+   - Social Media Influence
 
 ## Science & Nature
-Focuses on discoveries and advancements in the natural and physical world. Topics include biology, chemistry, physics, astronomy, environmental science, climate change, conservation efforts, wildlife, and natural phenomena.
+   - Science
+   - Environment
+   - Climate Change
+   - Weather Events
+   - Space Exploration
+   - Natural Disasters
+   - Wildlife & Conservation
 
-## Technology
-Covers human-made innovations and their applications, including developments in gadgets, software, artificial intelligence, robotics, and infrastructure. This category highlights technological advancements and their impact on society.
+## Health & Disease
+   - Health & Medicine
+   - Public Health Crises
+   - Health Science
+   - Hospitals & Doctors
 
-## Entertainment
-Highlights news related to celebrities, movies, music, TV shows, non-competitive computer games, and cultural events. It includes film premieres, award shows, and popular streaming platform releases.
+## Society & Culture
+   - Religion
+   - Education
+   - Race & Ethnicity
+   - Age & Generations
+   - Gender & LGBTQ
+   - Family & Relationships
+   - History & Prehistory
 
-## Arts & Culture
-Covers education, art, and architecture, focusing on museums, schools, and universities. This category excludes entertainment and lifestyle topics, emphasizing cultural and educational developments.
+## Arts & Entertainment
+   - Art & Museums
+   - Movies, TV, and Music
+   - Celebrity News
+   - Cultural Events
+   - Fashion & Lifestyle
+   - Recreational Gaming
+   - Travel & Tourism
 
 ## Sports & Games
-Reports on athletic events, scores, player trades, and sports-related controversies. It covers local games to major leagues like the NFL, NBA, and FIFA tournaments, as well as competitive games like chess and eSports.
-
-## Lifestyle & Weather
-Explores fashion, design, travel, weather, food, home design, and human interest stories. This category often includes trends, personal profiles, and practical tips for daily living.
+   - Sports Events
+   - Competitive Gaming
 ```
 
 ## Critera
