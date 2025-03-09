@@ -96,7 +96,7 @@ Millie Bobby Brown, the young actress known for her role in "Stranger Things," r
 
 ### Experts Solve 50-Year-Old Art Theft Mystery
 
-A 17th-century painting by Pieter Brueghel the Younger, stolen from Poland's National Museum in Gdańsk in 1974, has been found in a Dutch museum. The artwork, depicting a peasant woman carrying hot coals and a bucket of water, was discovered by art detective Arthur Brand after extensive research. The painting had been replaced with a photograph during the theft, leading to its long disappearance. Now, Poland has officially requested its return. 
+A 17th-century painting by Pieter Brueghel the Younger, stolen from Poland's National Museum in Gdańsk in 1974, has been found in a Dutch museum. The artwork, depicting a peasant woman carrying hot coals and a bucket of water, was discovered by art detective Arthur Brand after extensive research. The painting had been replaced with a photograph during the theft, leading to its long disappearance. Now, Poland has officially requested its return.
 
 ## Sports & Games
 
@@ -117,4 +117,3 @@ Kraft Heinz, the big food company known for ketchup and mac and cheese, is now m
 ### Big Storm Hits Southwest with Rain, Snow, and Wind
 
 A strong storm is coming to the Southwest and Rockies this week, bringing rain, snow, and big winds. In Southern California, there might be some flooding before the storm moves east. Then, it will hit Arizona and west Texas with gusts that could knock out power, start dust storms, and raise fire risks. The storm will also bring rain and thunderstorms to the South, affecting weekend plans. People in these areas should get ready for wild weather!
-
