@@ -2,7 +2,11 @@
 
 ### Special reports
 
-I am writing a special report on X in the past year to cover news topics. Write a summary of the following in simple English to give background and explanation for related, ongoing news topics:
+Use Deep Research with this inquiry:
+
+I am writing a special report to cover news topics. Write a summary of the following in simple English to give background and explanation:
+
+- topic
 
 ### Summaries
 
