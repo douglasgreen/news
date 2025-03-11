@@ -12,11 +12,23 @@ In the midst of Syria's ongoing conflict, Syrian leader Sharaa has made a heartf
 
 In a significant escalation of tensions, Israel has cut off the electricity supply to Gaza, affecting vital infrastructure, including a desalination plant that provides drinking water to thousands. This move comes amid ongoing negotiations for a ceasefire between Israel and Hamas, with Israel aiming to pressure Hamas into releasing hostages. The electricity cut has been met with strong condemnation from Hamas, which accuses Israel of using "cheap blackmail" tactics. The situation has left Gaza's residents struggling with severe shortages of essential supplies, exacerbating the humanitarian crisis in the region. As international mediators work to revive peace talks, the people of Gaza face increasing hardships, relying on generators for power and aid for survival. The international community watches closely, urging both sides to find a peaceful resolution to prevent further suffering.
 
+### A New Chapter for Syria: Government and Kurdish Forces Unite
+
+In a significant move towards unity, the Syrian government and the Kurdish-led Syrian Democratic Forces (SDF) have reached a historic agreement. This deal aims to integrate the SDF into state institutions, marking a major step in bringing most of Syria under central government control. The agreement includes a ceasefire and plans to merge the SDF with the Syrian army by the end of the year. This development is expected to bring all border crossings, airports, and oil fields in the northeast under government control. Additionally, it promises constitutional rights for the Kurdish population, including the use of their language, which had been restricted for decades. This breakthrough is seen as a hopeful sign for stability and inclusivity in Syria, as it also ensures that all Syrians, regardless of their background, will be part of the political process.
+
 ### Fighter Jets Intercept Planes Near Mar-a-Lago Amid Frequent Airspace Violations
 
 In recent news, Air Force F-16 fighter jets were scrambled to intercept civilian aircraft that violated the restricted airspace near former President Donald Trump's Mar-a-Lago estate in Florida. This incident marks the 20th time such a violation has occurred since Trump's inauguration in January 2025. The North American Aerospace Defense Command (NORAD) reported that the jets deployed flares to alert the pilots, ensuring the aircraft were safely escorted out of the area. Despite these frequent intrusions, officials confirmed that Trump's schedule and security were not impacted. NORAD emphasized the importance of pilots checking Notices to Airmen (NOTAMs) to avoid entering restricted zones, highlighting the need for adherence to Temporary Flight Restrictions (TFR) to maintain national security and flight safety.
 
 ## Economy & Business
+
+### Stock Market Plummets as Recession Fears Loom After Trump's Comments
+
+The stock market experienced a significant downturn today, with the Nasdaq falling by 4% and the Dow dropping nearly 900 points. This decline came after President Donald Trump, in a recent interview, did not dismiss the possibility of a recession. His comments have intensified investor concerns, leading to a widespread sell-off in the market. The uncertainty surrounding Trump's tariff policies and economic strategies has further fueled fears of an economic slowdown. As a result, major tech stocks, including Tesla and Nvidia, saw substantial losses. The market's volatility reflects the growing anxiety among investors about the potential impact of these policies on the U.S. economy.
+
+### Ontario's Bold Move: A 25% Electricity Tax on U.S. Exports Amid Trade Tensions
+
+In a bold response to escalating trade tensions, Ontario has imposed a 25% tax increase on electricity exports to the United States. This decision, announced by Ontario Premier Doug Ford, is a direct reaction to U.S. President Donald Trump's trade war, which has seen tariffs placed on Canadian goods. The new tax affects electricity exports to states like New York, Michigan, and Minnesota, impacting 1.5 million American homes and businesses. Premier Ford expressed regret for the impact on American citizens but emphasized the necessity of the measure to counteract the economic strain caused by the tariffs. He warned that if the trade war escalates further, Ontario might consider cutting off electricity exports entirely. This move is part of a broader strategy by Ontario to protect its economy and workers, with the additional revenue aimed at supporting local families and businesses.
 
 ### China Imposes New Tariffs on U.S. Farm Products Amid Trade Tensions
 
@@ -42,11 +54,19 @@ In a historic and somber event, Brad Sigmon, a 67-year-old convicted murderer, b
 
 ## Technology & Media
 
+### Elon Musk's X Faces Major Outages Amid Cyberattack Claims
+
+Elon Musk's social media platform, X, formerly known as Twitter, experienced significant outages, leaving users worldwide unable to access the site. Musk attributed these disruptions to a "massive cyberattack," suggesting that a large, coordinated group or even a country might be involved. The outages began early in the morning, with reports peaking at over 40,000 users unable to access the platform. Despite initial recovery, the platform faced repeated disruptions throughout the day. Speculation arose about the nature of the attack, with some suggesting it might be a Distributed Denial of Service (DDoS) attack. A group named "Dark Storm Team" claimed responsibility, though this has not been independently verified. Musk's statement on X highlighted the scale and resources involved in the attack, emphasizing the ongoing challenges the platform faces in maintaining service stability.
+
 ### Apple's Siri Upgrade Faces Delays, Impacting Smart Home Plans
 
 Apple has hit a roadblock with its plans to upgrade Siri, which has caused a ripple effect on its smart home hub development. The company had been working on a more personalized version of Siri, promising enhanced capabilities and integration with Apple Intelligence. However, the development is taking longer than expected, leading to the postponement of the smart home hub that relies heavily on these new Siri features. This hub was anticipated to be a significant release, featuring a touchscreen for managing smart home devices and making video calls. Despite the delay, Apple is conducting internal tests with employees to gather feedback. The tech giant now aims to roll out the upgraded Siri and the smart home hub within the next year, as it continues to refine its AI capabilities to compete with Amazon and Google in the smart home market.
 
 ## Science & Nature
+
+### Voyager's Journey: A Race Against Time in the Vast Unknown
+
+NASA's Voyager 1 and Voyager 2 spacecraft, launched in 1977, have been exploring the far reaches of space for nearly five decades. As the most distant human-made objects, they have provided invaluable data about our solar system and beyond. However, their power supply is dwindling, losing about 4 watts each year. To extend their mission, NASA engineers have begun shutting down some of their scientific instruments. Recently, Voyager 1's cosmic ray subsystem and Voyager 2's low-energy charged particle instrument were turned off. This decision aims to conserve energy, allowing the spacecraft to continue their groundbreaking exploration of interstellar space. Despite the challenges, NASA hopes to keep at least one instrument operational on each probe into the 2030s, continuing to gather unique data from regions no other spacecraft has reached. Every day could be their last, but each day also holds the promise of new discoveries in the vast unknown.
 
 ### Megalodon: The Sleek Giant of the Ancient Seas
 
@@ -54,13 +74,25 @@ Scientists have recently discovered that the megalodon, a giant prehistoric shar
 
 ## Health & Disease
 
+### Supreme Court to Review Colorado's Ban on Conversion Therapy
+
+The U.S. Supreme Court has agreed to hear a case challenging Colorado's ban on conversion therapy, a controversial practice aimed at changing an individual's sexual orientation or gender identity. The case was brought by Kaley Chiles, a licensed counselor and practicing Christian, who argues that the ban infringes on her First Amendment rights to free speech and religious expression. Chiles claims that some of her clients seek her guidance to reconcile their faith with their sexual orientation or gender identity. Colorado officials, however, maintain that the law regulates harmful professional conduct rather than speech, aiming to protect minors from practices deemed unsafe and ineffective by medical professionals. The Supreme Court's decision to hear this case could have significant implications, as more than 20 states have enacted similar bans. The case is set to be argued in the court's next term, beginning in October, with a decision expected by June 2026.
+
 ## Society & Culture
+
+### Pope Francis on the Mend: A Journey of Hope and Recovery
+
+Pope Francis, who has been in the hospital battling bilateral pneumonia, is showing signs of improvement. The Vatican reports that his condition is stable, and he is responding well to treatment. Despite the seriousness of his illness, the Pope remains active in his duties, participating in spiritual exercises via video link from his hospital room. His resilience and dedication have inspired many, as he continues to lead the Catholic Church even from his hospital bed. The Pope has expressed gratitude to the healthcare workers caring for him and has been praying for others who are suffering. His gradual recovery brings hope to Catholics worldwide, who have been praying for his health and well-being.
 
 ## Arts & Entertainment
 
 ### Ne Zha 2: A Chinese Animated Marvel Reaches New Heights
 
 In an unprecedented achievement, the Chinese animated film "Ne Zha 2" has soared past the $2 billion mark at the global box office, becoming the highest-grossing animated movie of all time. Released during the Chinese New Year, the film captivated audiences with its stunning visuals and engaging storyline, quickly climbing to the sixth position in all-time Imax rankings. Directed by Jiaozi, "Ne Zha 2" has not only set new records in China but also demonstrated the growing power of the Chinese film industry on the global stage. This success highlights a shift in the cinematic landscape, where domestic productions are increasingly competing with Hollywood blockbusters, showcasing the rich cultural narratives and creative prowess of Chinese filmmakers.
+
+### Hollywood Shines Bright in Austin at SXSW 2025
+
+The South by Southwest (SXSW) 2025 festival in Austin, Texas, has become a star-studded event, drawing some of Hollywood's biggest names. Celebrities like Blake Lively, Anna Kendrick, and Pedro Pascal graced the red carpets, while others like Jenna Ortega and Ben Affleck were spotted at various premieres. The festival kicked off with the much-anticipated premiere of "Another Simple Favor," featuring a star-studded cast. Attendees were thrilled to see stars mingling with fans, creating a unique atmosphere where the lines between celebrity and audience blurred. From film premieres to live podcast recordings, SXSW 2025 has turned Austin into a hub of entertainment and excitement, showcasing the latest in film and television while offering fans a chance to see their favorite stars up close.
 
 ## Sports & Games
 
