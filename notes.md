@@ -94,6 +94,7 @@ Topics should be:
 - Past, not future, events, no more than 1 week old
 - Should be action, not just talk or opinions
 - Personally relevant or interesting
+- Popularity: more than 5K ratings (movies, TV, games)
 
 ## Length
 
