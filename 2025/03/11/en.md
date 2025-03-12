@@ -1,5 +1,9 @@
 ## Politics & Governance
 
+### Education Department Faces Major Workforce Reduction Amid Government Restructuring
+
+The U.S. Department of Education is set to undergo a significant transformation as it plans to cut nearly half of its workforce. This decision is part of President Donald Trump's broader initiative to reduce the size of the federal government. The layoffs will affect approximately 1,300 employees, who will receive termination notices and severance packages. Education Secretary Linda McMahon stated that these changes aim to enhance efficiency and accountability, ensuring that resources are focused on students, parents, and teachers. The move has sparked concern among employees and unions, who fear the impact on the department's ability to fulfill its responsibilities, including managing federal student loans and enforcing civil rights in education.
+
 ### Tulsi Gabbard Revokes Security Clearances Amid Political Tensions
 
 In a significant move, Director of National Intelligence Tulsi Gabbard announced the revocation of security clearances for several former Biden administration officials and the 51 intelligence officials who had signed a letter labeling the Hunter Biden laptop story as Russian disinformation. This decision, following an executive order from President Donald Trump, also includes barring former President Joe Biden from receiving the President’s Daily Brief. The action is part of a broader effort by Trump to address what he perceives as the misuse of intelligence community authority to influence political processes. Critics argue that this move could hinder the current administration's ability to consult with experienced former officials on global threats, while supporters see it as a necessary step to maintain the integrity of intelligence operations.

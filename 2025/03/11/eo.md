@@ -1,5 +1,9 @@
 ## Politiko kaj Regado
 
+### Edukdepartemento Alfrontas Gravan Laborfortan Redukton Meze de Registara Restrukturado
+
+La Usona Departemento pri Edukado estas preta travivi gravan transformon ĉar ĝi planas tranĉi preskaŭ duonon de sia laborantaro. Ĉi tiu decido estas parto de la pli larĝa iniciato de prezidanto Donald Trump redukti la grandecon de la federacia registaro. La maldungoj influos proksimume 1,300 dungitojn, kiuj ricevos finajn avizojn kaj maldungajn pakojn. Eduksekretario Linda McMahon deklaris ke tiuj ŝanĝoj celas plifortigi efikecon kaj respondigeblecon, certigante ke resursoj estas temigis studentojn, gepatrojn, kaj instruistojn. La movo vekis maltrankvilon inter dungitoj kaj sindikatoj, kiuj timas la efikon al la kapablo de la departemento plenumi ĝiajn respondecojn, inkluzive de administrado de federaciaj studentaj pruntoj kaj devigado de civitanrajtoj en edukado.
+
 ### Tulsi Gabbard Revokas Sekurecajn Permesilojn Meze de Politikaj Streĉoj
 
 En signifa movo, la Direktoro de Nacia Inteligenteco Tulsi Gabbard anoncis la revokon de sekurecaj permesiloj por pluraj eksaj oficialuloj de la Biden-administracio kaj la 51 inteligentecaj oficialuloj kiuj subskribis leteron etikedantan la rakonton pri la tekokomputilo de Hunter Biden kiel rusa misinformado. Ĉi tiu decido, sekvante plenuman ordonon de Prezidanto Donald Trump, ankaŭ inkluzivas malpermeson al eksa Prezidanto Joe Biden ricevi la Ĉiutagan Raporton de la Prezidanto. La ago estas parto de pli vasta klopodo de Trump por trakti tion, kion li perceptas kiel misuzon de la aŭtoritato de la inteligenteca komunumo por influi politikajn procezojn. Kritikantoj argumentas, ke ĉi tiu movo povus malhelpi la kapablon de la nuna administracio konsulti kun spertaj eksaj oficialuloj pri tutmondaj minacoj, dum subtenantoj vidas ĝin kiel necesan paŝon por konservi la integrecon de inteligentecaj operacioj.
@@ -19,6 +23,7 @@ En signifa movo al paco, Usono kaj Ukrainio kune alvokis 30-tagan batalhalton ku
 ### Ĉinio, Irano, kaj Rusio Unuiĝas por Marameaj Ekzercoj Meze de Kreskantaj Streĉoj
 
 En la Golfo de Omano, proksime al la grava Markolo de Hormuz, Ĉinio, Irano, kaj Rusio kuniĝis por komunaj marameaj ekzercoj nomitaj "Maramea Sekureca Zono 2025." Ĉi tiu ekzerco estas signifa montrado de forto en regiono jam streĉita pro la ekspansia nuklea programo de Irano kaj minacoj de jemena Houthi-ribeluloj. La ekzercoj, kiuj okazas ĉiujare dum kvin jaroj, celas plibonigi maramean sekurecon kaj kunlaboron inter la tri nacioj. Observantoj el diversaj landoj, inkluzive Azerbajĝano kaj Sud-Afriko, ĉeestis la eventon, reliefigante ĝian internacian signifon. La ekzercoj inkluzivis vivpafadajn trejnadojn kaj operaciojn por kontraŭbatali piratadon kaj terorismon, montrante la militajn kapablojn de la partoprenantaj landoj. Ĉi tiu kunlaboro substrekiĝas per la strategiaj interesoj de Ĉinio kaj Rusio en Mezoriento, precipe iliaj rilatoj kun Irano, meze de daŭraj geopolitikaj streĉoj.
+
 ## Ekonomio & Komerco
 
 ### Nova Partnereco de OpenAI: $12 Miliardoj Kun CoreWeave
@@ -42,6 +47,7 @@ La Nacia Estraro pri Transporta Sekureco (NTSB) postulis tujajn ŝanĝojn ĉe Na
 ### Teroro sur la Reloj: Militantuloj Ŝtelas Trajnon en Pakistano
 
 En ŝoka okazaĵo en sudokcidenta Pakistano, separismaj militantuloj ŝtelis pasaĝeran trajnon kun pli ol 400 homoj. La atako okazis en la fora, monta regiono Baluĉistano, kie la Baluĉa Liberiga Armeo (BLA) prenis respondecon. La militantuloj haltigis la trajnon eksplodigante la reloj kaj malfermis fajron, rezultigante la morton de la trajna kondukisto kaj pluraj sekurecaj personoj. Ili kaptis multajn pasaĝerojn kiel ostaĝojn, inkluzive militistojn, kaj eldonis 48-horan ultimaton postulante kaptitinterŝanĝon kun la pakistana registaro. Dum kelkaj ostaĝoj estis savitaj, la situacio restas streĉa dum sekurecaj fortoj daŭrigas siajn klopodojn liberigi la restantajn kaptitojn. La atako reliefigas la daŭrantan ribelon en Baluĉistano, kie separismaj grupoj longe batalis kontraŭ tio kion ili perceptas kiel ekspluatadon fare de la pakistana ŝtato.
+
 ### Iama Filipina Prezidanto Duterte Arestita laŭ ICC-Mandato
 
 Iama Filipina Prezidanto Rodrigo Duterte estis arestita ĉe la Internacia Flughaveno de Manilo post reveno el Honkongo. La aresto estis farita laŭ mandato de la Internacia Krima Kortumo (ICC), kiu akuzas lin pri krimoj kontraŭ la homaro dum lia prezidanteco de 2016 ĝis 2022. La kontestata "milito kontraŭ drogoj" de Duterte kondukis al miloj da mortoj, kun akuzoj pri eksterjuĝaj mortigoj. Homrajtaj grupoj delonge postulis respondecon, kaj lia aresto estas vidata kiel signifa paŝo al justeco. Malgraŭ la retiro de Filipinoj el la ICC en 2019, la kortumo retenas jurisdikcion super krimoj faritaj dum la lando estis membro. Duterte, kiu neis malbonfaradon, pridubis la laŭleĝecon de sia aresto, sed la nuna registaro montris volon kunlabori kun la ICC.
@@ -63,6 +69,7 @@ iRobot ĵus lanĉis ekscitan novan serion de Roomba polvosuĉiloj, enkondukante 
 ### Meta kaj Coperni Lanĉas Ekskluzivajn Ray-Ban Inteligentajn Okulvitrojn
 
 Meta kunlaboris kun moda marko Coperni por eldoni limigitan eldonon de siaj Ray-Ban inteligentaj okulvitroj. Ĉi tiuj stilaj okulvitroj estis prezentitaj dum Pariza Moda Semajno kaj havas la klasikan Ray-Ban Wayfarer-dezajnon kun moderna tuŝo. La kadroj estas travidebla nigra kun grizaj spegulitaj lensoj, kaj ili fiere montras la logoon de Coperni. Nur 3,600 paroj estas disponeblaj, igante ilin nepraĵo por modentuziasmuloj. Prezigitaj je $549, ĉi tiuj okulvitroj ofertas la samajn inteligentajn funkciojn kiel la normaj Meta Ray-Bans, inkluzive 12-megapikselan fotilon, 32GB stokadon, kaj Meta AI-kapablojn. Ili estas perfektaj por kapti fotojn, registri filmetojn, kaj eĉ fari videovokojn. Kun sia eleganta dezajno kaj progresinta teknologio, ĉi tiuj okulvitroj estas kombinaĵo de modo kaj funkcio, allogante tiujn kiuj aprezas ambaŭ stilon kaj novigon.
+
 ### Chromecast Paneo: Frustra Atendo por Uzantoj
 
 Dum la lastaj tagoj, uzantoj de la dua-generaciaj Chromecast kaj Chromecast Audio-aparatoj de Google ne povis flui enhavon al siaj televidiloj. Ĉi tiu problemo aperis ĉar esenca sekureca atestilo eksvalidiĝis, lasante la aparatojn nekapablaj aŭtentikigi kaj konekti ĝuste. Multaj uzantoj, frustritaj pro la neebleco uzi siajn aparatojn, provis fabrikan restarigon, kiu bedaŭrinde ne solvis la problemon kaj eble komplikis estontajn riparojn. Google agnoskis la problemon kaj laboras pri solvo, konsilante uzantojn ne restarigi siajn aparatojn. Dum kelkaj trovis provizorajn solvojn, kiel ŝanĝi la daton de sia telefono, ĉi tiuj ne estas garantiitaj funkcii por ĉiuj. La sindevontigo de Google solvi la problemon ofertas esperon, sed nuntempe, uzantoj devas pacience atendi oficialan riparon.
@@ -90,6 +97,7 @@ Post 132 jaroj kaŝita sub la akvoj de Lago Supra, la ŝiprompo de la Western Re
 ### Disney's Magia Robota Aventuro
 
 Disney faris grandan paŝon en la estontecon enkondukante robotojn en siaj temoparkoj. Ĉi tiuj ne estas nur ajnaj robotoj; ili estas vivsimilaj kaj povas marŝi, paroli, kaj eĉ montri emociojn. Imagu renkonti Groot el la "Venĝantoj" filmoj, ne sur ekrano, sed en reala vivo, promenante kaj interagante kun vizitantoj. La teamo Imagineering de Disney laboris forte por fari ĉi tiujn robotojn pli kredindaj kaj allogaj. Ĉi tiu nova epoko de animatroniko celas krei magiajn spertojn kiuj sentiĝas realaj, igante ĉiun viziton al Disney-parkoj eĉ pli neforgesebla.
+
 ### Kun Amo, Meghan: Rigardo en la Mondon de Gastamo de la Dukino
 
 En la nova Netflix-serio "Kun Amo, Meghan," Meghan Markle, la Dukino de Sussex, invitas spektantojn en mondon de varmo kaj gastamo, metita kontraŭ la mirinda fono de Montecito. La spektaklo ofertas miksaĵon de kuirado, ĝardenado, kaj gastigado, dum Meghan dividas sian pasion por krei belajn kaj bonvenigajn spacojn. Ĉiu epizodo prezentas Meghan preparantan manĝojn kaj gastigantan amikojn, ĉio dum ŝi donas simplajn sed elegantajn konsiletojn por altigi ĉiutagajn momentojn. Malgraŭ la idilia scenaro kaj la sincera entuziasmo de Meghan, la serio luktas por konektiĝi sur persona nivelo, ofte sentante pli kiel kuracita vivstila ekspozicio ol intima rigardo en ŝian vivon. Tamen, "Kun Amo, Meghan" provizas ĉarman eskapon, elstarigante la amon de la Dukino por manĝaĵo, amikoj, kaj familio, kaj ŝian deziron dividi ĝojon kun aliaj.
