@@ -1,5 +1,3 @@
-Write a title and a 1 paragraph story about this topic from the news using simple English:
-
 ## Politics & Governance
 
 ### EU Strikes Back with $28 Billion Tariffs on U.S. Goods
@@ -18,6 +16,14 @@ In a dramatic turn of events, House Republicans successfully passed a stopgap fu
 
 In Kentucky, a political storm is brewing as Representative Thomas Massie stands firm against a government funding bill backed by former President Donald Trump. Massie, known for his independent streak, has refused to support the bill, arguing it doesn't address necessary budget cuts. This has led Trump to call for Massie's removal from office, comparing him to Liz Cheney, another Republican who faced backlash for opposing Trump. Despite Trump's criticism, Massie has garnered support from various Republican and Libertarian figures who admire his principled stance and thorough approach to legislation. The situation highlights the tension within the Republican Party, as Trump's influence is challenged by lawmakers like Massie who prioritize fiscal responsibility over party allegiance. As the government faces a potential shutdown, all eyes are on Kentucky to see how this political drama unfolds.
 
+### Trump’s ICE Says Biden Hid the Truth About Arrests
+
+In March 2025, Immigration and Customs Enforcement (ICE) under President Trump announced that they made more arrests of illegal immigrants in just a few weeks than the Biden administration did in all of 2024. ICE leaders accused Biden’s team of “cooking the books,” meaning they lied about the numbers by counting people who were caught and let go as real arrests. Trump’s ICE says they are now doing things right, arresting over 32,000 people since January 20, including many criminals and gang members. They promise to keep pushing hard to deport people who broke immigration laws, saying Biden’s way was weak and dishonest.
+
+### EPA Plans to Reduce Climate and Pollution Regulations for Cars and Power Plants
+
+The Environmental Protection Agency (EPA) is planning to reduce climate and pollution regulations for cars and power plants, focusing on cutting emissions from coal-fired and new natural gas plants. The new rules require significant reductions in carbon emissions, mercury, and other pollutants, using technologies like carbon capture. These regulations aim to align with industry trends towards cleaner energy and provide regulatory certainty. Despite criticism over costs, the EPA believes these measures are crucial for protecting public health and the environment, supported by incentives to make them more affordable.
+
 ## Economy & Business
 
 ### Inflation Eases to 2.8% in February, Offering a Glimmer of Hope
@@ -32,9 +38,9 @@ In a surprising move, President Donald Trump purchased a Tesla Model S at the Wh
 
 Southwest Airlines, known for its "bags fly free" policy, is making a significant change for the first time in its 54-year history. Starting May 28, only elite members and those booking top-tier fares will enjoy free checked bags. This shift comes as Southwest aims to boost profitability amid financial pressures and changing customer preferences. The airline will now charge most passengers for checked bags, aligning with industry norms. This decision has sparked concerns about customer loyalty, as many travelers chose Southwest for its generous baggage policy. The move reflects broader changes at Southwest, including the introduction of assigned seating and a new basic economy fare, as the airline adapts to a competitive market.
 
-### Texas Man's Mid-Air Outburst Leads to Arrest on Flight to Washington, D.C.
+### Intel Welcomes Lip-Bu Tan as New CEO Amid Strategic Shifts
 
-A Texas man named Asterius Rulamka was arrested by the FBI after causing a disturbance on an American Airlines flight from Wichita to Washington, D.C. The incident occurred just before the plane landed, when Rulamka left his seat and began yelling at a flight attendant. He threatened the attendant and later attacked a passenger who was recording the scene. The passenger suffered bruising and a bloodshot eye from the assault. Rulamka also attempted to strike another passenger but missed. It took several passengers and flight attendants to restrain him until the plane landed. Upon arrival, Rulamka told authorities he was traveling to D.C. to speak with President Trump because he was "mad." He now faces federal assault charges and is awaiting a court hearing.
+Intel has announced Lip-Bu Tan as its new CEO, following the departure of Pat Gelsinger three months ago. Tan, who previously led Cadence Design Systems and served on Intel's board, is expected to bring fresh insights and leadership to the company. His appointment comes at a critical time as Intel navigates through strategic changes and aims to strengthen its position in the semiconductor industry. With his extensive experience in chip design and a deep understanding of Intel's operations, Tan is poised to guide the company towards innovation and growth. The board's decision reflects a commitment to revitalizing Intel's strategies and addressing the challenges faced under the previous leadership.
 
 ## Crime & Justice
 
@@ -53,6 +59,10 @@ A jury in Franklin County, Ohio, has ordered former NFL player Le'Veon Bell to p
 ### Developer's Revenge: The Code That Crashed a Company
 
 Davis Lu, a 55-year-old software developer, was sentenced to up to 10 years in prison for creating and deploying malicious code that severely disrupted his former employer's operations. After working for Eaton Corp. for 11 years, Lu became unhappy when his role was reduced during a company restructuring in 2018. In retaliation, he wrote harmful code that deleted important files, blocked logins, and caused system failures. The most damaging part of his sabotage was a "kill switch" that activated when he was fired in 2019, leading to significant disruptions and financial losses for the company. Although Lu admitted to writing some of the code, he plans to appeal the court's decision.
+
+### Texas Man's Mid-Air Outburst Leads to Arrest on Flight to Washington, D.C.
+
+A Texas man named Asterius Rulamka was arrested by the FBI after causing a disturbance on an American Airlines flight from Wichita to Washington, D.C. The incident occurred just before the plane landed, when Rulamka left his seat and began yelling at a flight attendant. He threatened the attendant and later attacked a passenger who was recording the scene. The passenger suffered bruising and a bloodshot eye from the assault. Rulamka also attempted to strike another passenger but missed. It took several passengers and flight attendants to restrain him until the plane landed. Upon arrival, Rulamka told authorities he was traveling to D.C. to speak with President Trump because he was "mad." He now faces federal assault charges and is awaiting a court hearing.
 
 ## Technology & Media
 
@@ -73,6 +83,10 @@ NASA has successfully launched two groundbreaking missions, SPHEREx and PUNCH, t
 ### Uranus: The Mysterious Heat of the Ice Giant
 
 Uranus, the seventh planet from the Sun, has always intrigued scientists with its unique characteristics. Recently, researchers discovered that Uranus emits more heat than previously thought. This finding is surprising because Uranus is known for its low internal heat compared to other giant planets like Jupiter and Saturn. Unlike its neighbors, which radiate almost twice as much energy as they receive from the Sun, Uranus was believed to emit very little excess heat. However, new observations suggest that Uranus might have hidden sources of heat, possibly due to its complex interior structure or unknown atmospheric processes. This discovery challenges our understanding of the ice giant and opens up new questions about its formation and evolution in the solar system.
+
+## Discovery of 'Pink': The Oldest Human Face Fossil in Western Europe
+
+In a remarkable discovery, archaeologists in Spain have uncovered the oldest known partial face fossil of a human ancestor in Western Europe. The fossil, affectionately nicknamed "Pink," was found at the Sima del Elefante site in the Atapuerca Mountains. Dating back between 1.1 and 1.4 million years, Pink's remains consist of a left cheekbone and upper jaw. This discovery sheds light on early human migration patterns, suggesting that ancient humans settled in Europe much earlier than previously thought. Researchers believe Pink may belong to a new species closely related to Homo erectus, a species known for its use of tools and fire. The site also revealed stone tools and animal bones, indicating that these early humans were skilled hunters. This finding not only enriches our understanding of human evolution but also highlights the rich prehistoric history of the Atapuerca region.
 
 ### Massive Storm Threatens Millions Across the U.S. with Severe Weather
 
@@ -96,7 +110,15 @@ A recent study has highlighted a concerning global issue: only seven countries w
 
 In a surprising move, the National Institutes of Health (NIH) has decided to terminate or reduce funding for over 40 research grants focused on understanding vaccine hesitancy and improving vaccine uptake. This decision comes at a critical time when the United States is experiencing a significant measles outbreak, with over 200 cases reported across multiple states. The cuts have raised concerns among public health experts who emphasize the importance of understanding why some individuals are reluctant to vaccinate. They argue that such research is crucial for developing strategies to increase vaccination rates and prevent outbreaks of vaccine-preventable diseases. The decision aligns with the views of Robert F. Kennedy Jr., the new Health and Human Services Secretary, known for his skepticism towards vaccines. As the nation grapples with the measles outbreak, many worry that halting this research could hinder efforts to address vaccine hesitancy and protect public health.
 
+### New Study Questions Health Benefits of Red Wine Over White
+
+A recent study has cast doubt on the long-held belief that red wine is healthier than white wine. Traditionally, red wine has been praised for its potential to reduce heart disease risk and improve cholesterol levels due to its high content of plant compounds like tannins and resveratrol. However, the new research suggests that the health benefits of red wine might not be as significant as once thought, with some exceptions. While red wine does contain more beneficial compounds than white wine, the overall health impact is not as clear-cut. The study emphasizes that moderate consumption of any wine can be part of a healthy lifestyle, but it is crucial to avoid excessive drinking due to the potential negative health effects. This finding encourages wine lovers to enjoy their preferred choice, whether red or white, in moderation.
+
 ## Society & Culture
+
+### USDA Ends Local Food Program, Impacting Schools and Farmers
+
+The U.S. Department of Agriculture (USDA) has decided to end two programs that helped schools and food banks buy food from local farmers. These programs, which started during the pandemic, provided over $1 billion in funding. The decision affects many schools and food banks that relied on this support to purchase fresh produce and other goods from nearby farms. This change is part of a broader effort to reduce government spending and focus on long-term solutions. However, the end of these programs raises concerns about the impact on local farmers and the ability of schools to provide nutritious meals to students. Many communities are worried about how they will continue to support local agriculture and maintain food security without this funding.
 
 ## Arts & Entertainment
 
@@ -107,6 +129,10 @@ In the gritty streets of Philadelphia, Amanda Seyfried stars as Mickey, a dedica
 ### Ichiko Aoba's Oceanic Journey: The Magic of Luminescent Creatures
 
 Ichiko Aoba's new album, "Luminescent Creatures," takes listeners on a serene journey inspired by the ocean's wonders. The Japanese singer-songwriter, known for her delicate and enchanting music, draws inspiration from her dives in the Ryukyu Archipelago, where she encountered bioluminescent sea creatures. These experiences are woven into her music, creating a tapestry of ambient folk sounds that explore the mysteries of nature and our place within it. Aoba's gentle voice and intricate guitar work transport listeners to a world where the boundaries between humans and nature blur, inviting them to reflect on the beauty and interconnectedness of life. Her music transcends language, offering a universal message of unity and reverence for the natural world.
+
+### AI-Powered Mysteries: Wolf Games Brings Crime Solving to Life
+
+Elliot Wolf, son of the famous "Law & Order" creator Dick Wolf, has launched a new venture called Wolf Games, which uses artificial intelligence to create engaging murder mystery games. The company's flagship game, "Public Eye," is set in a dystopian future where crime rates are so high that the police turn to the public for help. Players act as detectives, gathering clues and solving crimes with the assistance of an AI guide. The AI not only helps generate new mysteries daily but also creates realistic crime scene photos and interview clips. This innovative approach has attracted significant investment, including a $4 million seed round, and aims to captivate true crime fans with its interactive storytelling. "Public Eye" is set to launch this summer, offering a free-to-play experience with optional in-app purchases.
 
 ## Sports & Games
 
