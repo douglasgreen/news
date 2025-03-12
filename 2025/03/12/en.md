@@ -42,6 +42,10 @@ Michael Charles Schena, a 42-year-old employee of the U.S. Department of State, 
 
 In early 2025, New York City experienced a notable decrease in murder rates, with a 23% reduction compared to the same period last year. According to the NYPD, this decline translates to eight fewer murders, marking a positive trend in the city's ongoing efforts to enhance public safety. This reduction is part of a broader decrease in major crimes across the city, attributed to strategic policing efforts such as zone-based policing and increased officer presence in high-crime areas. The NYPD's comprehensive crime-fighting strategies, including the deployment of officers to hot-spot locations and a focus on community engagement, have been credited with these improvements. As a result, New Yorkers are witnessing tangible progress in crime reduction, contributing to a safer urban environment.
 
+### Developer's Revenge: The Code That Crashed a Company
+
+Davis Lu, a 55-year-old software developer, was sentenced to up to 10 years in prison for creating and deploying malicious code that severely disrupted his former employer's operations. After working for Eaton Corp. for 11 years, Lu became unhappy when his role was reduced during a company restructuring in 2018. In retaliation, he wrote harmful code that deleted important files, blocked logins, and caused system failures. The most damaging part of his sabotage was a "kill switch" that activated when he was fired in 2019, leading to significant disruptions and financial losses for the company. Although Lu admitted to writing some of the code, he plans to appeal the court's decision.
+
 ## Technology & Media
 
 ### Google Unveils Gemma 3: A Powerful AI Model for Single GPU Use
