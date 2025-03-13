@@ -1,5 +1,3 @@
-Write a title and a 1 paragraph story about this topic from the news using simple English:
-
 ## Politics & Governance
 
 ### EPA's Deregulation Drive: A Step Back for Environmental Protection
