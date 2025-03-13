@@ -19,6 +19,7 @@ En Kentukio, politika ŝtormo formiĝas dum Reprezentanto Thomas Massie staras f
 ### ICE de Trump Diris ke Biden Kaŝis la Veron Pri Arestoj
 
 En marto 2025, Enmigradaj kaj Doganaj Devigoj (ICE) sub Prezidanto Trump anoncis ke ili faris pli da arestoj de kontraŭleĝaj enmigrintoj en nur kelkaj semajnoj ol la administracio de Biden faris en tuta 2024. Gvidantoj de ICE akuzis la teamon de Biden pri "kuirado de la libroj," signifante ke ili mensogis pri la nombroj kalkulante homojn kiuj estis kaptitaj kaj liberigitaj kiel verajn arestojn. ICE de Trump diras ke ili nun faras aferojn ĝuste, arestante pli ol 32,000 homojn ekde la 20-a de januaro, inkluzive multajn krimulojn kaj bandanojn. Ili promesas daŭre forte puŝi por deporti homojn kiuj rompis enmigradajn leĝojn, dirante ke la maniero de Biden estis malforta kaj malhonesta.
+
 ### EPA Plano Redukti Klimatajn kaj Poluajn Regularojn por Aŭtoj kaj Elektrocentraloj
 
 La Agentejo pri Media Protektado (EPA) planas redukti klimatajn kaj poluajn regularojn por aŭtoj kaj elektrocentraloj, fokusante al redukto de emisioj el karbofajritaj kaj novaj naturgasaj centraloj. La novaj reguloj postulas signifajn reduktojn en karbona emisio, hidrargo, kaj aliaj poluaĵoj, uzante teknologiojn kiel karbonkapton. Ĉi tiuj regularoj celas kongrui kun industriaj tendencoj al pli pura energio kaj provizi reguligan certecon. Malgraŭ kritiko pri kostoj, la EPA kredas ke ĉi tiuj mezuroj estas esencaj por protekti publikan sanon kaj la medion, subtenataj de instigoj por fari ilin pli atingeblaj.
@@ -40,6 +41,7 @@ Southwest Airlines, konata pro sia politiko "sakoj flugas senpage", faras signif
 ### Intel Bonvenigas Lip-Bu Tan kiel Nova Ĉefoficisto Meze de Strategiaj Ŝanĝoj
 
 Intel anoncis Lip-Bu Tan kiel sian novan ĉefoficiston, sekvante la foriron de Pat Gelsinger antaŭ tri monatoj. Tan, kiu antaŭe gvidis Cadence Design Systems kaj servis en la estraro de Intel, estas atendata alporti freŝajn komprenojn kaj gvidadon al la kompanio. Lia nomumo venas en kritika tempo kiam Intel navigas tra strategiaj ŝanĝoj kaj celas fortigi sian pozicion en la duonkondukta industrio. Kun sia vasta sperto en blato-dezajno kaj profunda kompreno de la operacioj de Intel, Tan estas preta gvidi la kompanion al novigado kaj kresko. La decido de la estraro reflektas engaĝiĝon revigligi la strategiojn de Intel kaj trakti la defiojn alfrontitajn sub la antaŭa gvidado.
+
 ## Krimo & Justeco
 
 ### Dungito de la Ŝtata Departemento Arestita pro Dividado de Sekreta Informo
@@ -61,6 +63,7 @@ Davis Lu, 55-jara programisto, estis kondamnita ĝis 10 jaroj en malliberejo pro
 ### Kolero Dumfluge de Teksasa Viro Kondukas al Aresto sur Flugo al Vaŝingtono, D.C.
 
 Teksasa viro nomita Asterius Rulamka estis arestita de la FBI post kaŭzado de tumulto sur flugo de American Airlines el Wichita al Vaŝingtono, D.C. La okazaĵo okazis ĝuste antaŭ ol la aviadilo surteriĝis, kiam Rulamka forlasis sian sidlokon kaj komencis krii al flugkomizo. Li minacis la komizon kaj poste atakis pasaĝeron kiu registris la scenon. La pasaĝero suferis kontuziĝon kaj sangokovritan okulon pro la atako. Rulamka ankaŭ provis frapi alian pasaĝeron sed malsukcesis. Estis necese pluraj pasaĝeroj kaj flugkomizoj por reteni lin ĝis la aviadilo surteriĝis. Alveninte, Rulamka diris al aŭtoritatoj ke li vojaĝis al D.C. por paroli kun Prezidanto Trump ĉar li estis "kolera." Li nun alfrontas federaciajn akuzojn pri atako kaj atendas kortuman demandosesion.
+
 ## Teknologio & Amaskomunikiloj
 
 ### Google Lanĉas Gemma 3: Potenca AI-Modelo por Unuopa GPU-Uzo
@@ -84,6 +87,7 @@ Urano, la sepa planedo de la Suno, ĉiam fascinigis sciencistojn per siaj unikaj
 ## Malkovro de 'Pink': La Plej Malnova Homa Vizaĝa Fosilio en Okcidenta Eŭropo
 
 En rimarkinda malkovro, arkeologoj en Hispanio malkovris la plej malnovan konatan partan vizaĝan fosilion de homa prapatro en Okcidenta Eŭropo. La fosilio, ame kromnomita "Pink", estis trovita ĉe la loko Sima del Elefante en la Atapuerca-Montoj. Datiĝanta inter 1.1 kaj 1.4 milionoj da jaroj, la restaĵoj de Pink konsistas el maldekstra vangosto kaj supra makzelo. Ĉi tiu malkovro ĵetas lumon sur fruajn homajn migradpadronojn, sugestante ke antikvaj homoj setlis en Eŭropo multe pli frue ol antaŭe pensite. Esploristoj kredas ke Pink povus aparteni al nova specio proksime rilata al Homo erectus, specio konata pro sia uzo de iloj kaj fajro. La loko ankaŭ rivelis ŝtonilojn kaj bestostojn, indikante ke ĉi tiuj fruaj homoj estis lertaj ĉasistoj. Ĉi tiu trovo ne nur riĉigas nian komprenon pri homa evoluo sed ankaŭ reliefigas la riĉan prahistorian historion de la Atapuerca-regiono.
+
 ### Giganta Ŝtormo Minacas Milionojn Trans Usono kun Severaj Veterkondiĉoj
 
 Kolosa ŝtormo balaas tra Usono, metante milionojn da amerikanoj en riskon de severaj veterkondiĉoj. Oni atendas, ke ĉi tiu potenca ŝtormo alportos ventojn kun forto de uragano, gravajn inundojn, neĝventegajn kondiĉojn, kaj eblan tornadekaperon. Komencante de la Pacifika Marbordo, la ŝtormo moviĝos enlanden, influante regionojn de la Golfa Marbordo ĝis la Kanada limo. Meteorologoj avertas, ke ĉi tio povus esti unu el la plej fortaj ŝtormoj registritaj, kun eblaj efikoj inkluzive de elektrointerrompoj kaj vojaĝprokrastoj. Dum la ŝtormo progresas, ĝi alportos pezan pluvon kaj neĝon al la okcidentaj ŝtatoj, dum la centra Usono prepariĝas por damaĝaj ventoj kaj tornadoj. La orienta parto de la lando ankaŭ alfrontos severajn veterminacojn, farante ĉi tion tutlandan zorgon. Loĝantoj estas konsilitaj resti informitaj kaj preni necesajn antaŭzorgojn por certigi sian sekurecon dum ĉi tiu ekstrema veterokazaĵo.
@@ -105,6 +109,7 @@ Lastatempa studo elstarigis zorgigan tutmondan aferon: nur sep landoj tutmonde p
 ## NIH Tranĉas Esploradon Pri Vakcina Hezito Meze de Zorgoj Pri Morbila Ekapero
 
 En surpriza movo, la Naciaj Institutoj pri Sano (NIH) decidis ĉesigi aŭ redukti financadon por pli ol 40 esplorprojektoj fokusitaj al kompreno de vakcina hezito kaj plibonigo de vakcina akcepto. Ĉi tiu decido venas en kritika tempo kiam Usono spertas signifan morbilan ekaperon, kun pli ol 200 kazoj raportitaj tra pluraj ŝtatoj. La tranĉoj levis zorgojn inter publikaj sanekspertoj kiuj emfazas la gravecon kompreni kial iuj individuoj hezitas vakciniĝi. Ili argumentas ke tia esplorado estas esenca por disvolvi strategiojn por pliigi vakcinajn indicojn kaj preventi ekaperojn de vakcineblaj malsanoj. La decido kongruas kun la vidpunktoj de Robert F. Kennedy Jr., la nova Sekretario pri Sano kaj Homaj Servoj, konata pro sia skeptiko rilate al vakcinoj. Dum la nacio luktas kun la morbila ekapero, multaj zorgas ke haltigi ĉi tiun esploradon povus malhelpi klopodojn trakti vakcinan heziton kaj protekti publikan sanon.
+
 ### Nova Studo Dubas Pri Sanaj Avantaĝoj de Ruĝa Vino Super Blanka
 
 Lastatempa studo pridubis la longe tenatan kredon, ke ruĝa vino estas pli sana ol blanka vino. Tradicie, ruĝa vino estis laŭdata pro sia potencialo redukti la riskon de kormalsanoj kaj plibonigi kolesterolajn nivelojn pro sia alta enhavo de plantaj komponaĵoj kiel taninoj kaj resveratrolo. Tamen, la nova esploro sugestas, ke la sanaj avantaĝoj de ruĝa vino eble ne estas tiel signifaj kiel iam pensite, kun iuj esceptoj. Dum ruĝa vino enhavas pli da utilaj komponaĵoj ol blanka vino, la ĝenerala sana efiko ne estas tiel klara. La studo emfazas, ke modera konsumado de ajna vino povas esti parto de sana vivstilo, sed estas grave eviti troan drinkadon pro la eblaj negativaj sanefikoj. Ĉi tiu trovo kuraĝigas vinamantojn ĝui sian preferatan elekton, ĉu ruĝan aŭ blankan, modere.
@@ -128,6 +133,7 @@ La nova albumo de Ichiko Aoba, "Lumineskaj Estaĵoj," kondukas aŭskultantojn al
 ### AI-Povigitaj Misteroj: Wolf Games Alportas Krimsolvadon al Vivo
 
 Elliot Wolf, filo de la fama kreinto de "Law & Order" Dick Wolf, lanĉis novan entreprenon nomatan Wolf Games, kiu uzas artefaritan inteligentecon por krei allogajn murdmisterludojn. La ĉefa ludo de la kompanio, "Publika Okulo," okazas en distopia estonteco kie krimfrekvencoj estas tiel altaj ke la polico turnas sin al la publiko por helpo. Ludantoj agas kiel detektivoj, kolektante indicojn kaj solvante krimojn kun la helpo de AI-gvidilo. La AI ne nur helpas generi novajn misterojn ĉiutage sed ankaŭ kreas realismajn krimlokajn fotojn kaj intervjuajn klipojn. Ĉi tiu noviga aliro altiris signifan investon, inkluzive $4 milionojn en sema rondo, kaj celas kapti verajn krimfanatikulojn per sia interaga rakontado. "Publika Okulo" lanĉiĝos ĉi-somere, ofertante senpagan ludsperton kun laŭvolaj en-aplikaj aĉetoj.
+
 ## Sportoj & Ludoj
 
 ### Gonzaga Bulldogs Triumfas en WCC Turniro, Certigante Lokon en NCAA
