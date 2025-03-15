@@ -22,10 +22,11 @@ if ($content === FALSE) {
 
     preg_match_all('/\pL+/u', $content, $words);
     $wordCount = count($words[0]);
-    $parCount = min(ceil($wordCount / 500), 4);
+    $parCount = (int) min(ceil($wordCount / 500), 4);
 
     // Print the plain text content
-    echo "Summarize and explain this text using simple English in $parCount paragraphs:\n";
+    $ending = $parCount === 1 ? '' : 's';
+    echo "Summarize and explain this text using simple English in $parCount paragraph{$ending}:\n";
     $lines = explode("\n", $content);
     foreach ($lines as $line) {
         $line = trim($line);
