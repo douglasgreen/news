@@ -6,7 +6,7 @@ In a recent development, U.S. President Donald Trump has issued a stern warning 
 
 ### Trump's Letter to Iran: A New Attempt at Nuclear Negotiations
 
-In a surprising move, President Donald Trump announced that he has sent a letter to Iran's Supreme Leader, Ayatollah Ali Khamenei, urging the country to engage in negotiations over its nuclear program. Trump emphasized that Iran has two choices: negotiate a deal or face military action. This comes after the U.S. withdrew from the 2015 nuclear agreement during Trump's first term. While Trump hopes for a peaceful resolution, Iran has yet to confirm receipt of the letter, and its leaders remain skeptical of engaging with the U.S. under the current "maximum pressure" policy. The situation remains tense as both nations navigate the complex dynamics of nuclear diplomacy [1][4].
+In a surprising move, President Donald Trump announced that he has sent a letter to Iran's Supreme Leader, Ayatollah Ali Khamenei, urging the country to engage in negotiations over its nuclear program. Trump emphasized that Iran has two choices: negotiate a deal or face military action. This comes after the U.S. withdrew from the 2015 nuclear agreement during Trump's first term. While Trump hopes for a peaceful resolution, Iran has yet to confirm receipt of the letter, and its leaders remain skeptical of engaging with the U.S. under the current "maximum pressure" policy. The situation remains tense as both nations navigate the complex dynamics of nuclear diplomacy.
 
 ### Columbia University Faces Major Funding Cuts Amid Antisemitism Allegations
 
@@ -58,7 +58,7 @@ Ryan Wedding, once a celebrated Canadian Olympic snowboarder, has now become one
 
 ### Tiny Magnets: A New Hope in Cancer Treatment
 
-Scientists have made a breakthrough in cancer treatment by developing tiny magnetic particles called nanoparticles. These particles are so small that they can travel through the body and target cancer cells directly. When these nanoparticles are exposed to a special magnetic field, they heat up and can destroy cancer cells without harming the surrounding healthy tissue. This method, known as magnetic hyperthermia, shows great promise because it can reach temperatures high enough to weaken or kill cancer cells. Researchers from Oregon State University have created a new type of nanoparticle that heats up more efficiently than previous versions, making it possible to treat hard-to-reach tumors. This advancement could lead to more effective and less invasive cancer treatments in the future, offering new hope to patients with difficult-to-treat cancers [1][2].
+Scientists have made a breakthrough in cancer treatment by developing tiny magnetic particles called nanoparticles. These particles are so small that they can travel through the body and target cancer cells directly. When these nanoparticles are exposed to a special magnetic field, they heat up and can destroy cancer cells without harming the surrounding healthy tissue. This method, known as magnetic hyperthermia, shows great promise because it can reach temperatures high enough to weaken or kill cancer cells. Researchers from Oregon State University have created a new type of nanoparticle that heats up more efficiently than previous versions, making it possible to treat hard-to-reach tumors. This advancement could lead to more effective and less invasive cancer treatments in the future, offering new hope to patients with difficult-to-treat cancers.
 
 ## Science & Nature
 

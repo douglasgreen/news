@@ -1,6 +1,7 @@
 ### Trump Serĉas Helpon de la Supera Kortumo por Fini Naskorajtan Civitanecojn
 
 La administracio de Trump petis la Superan Kortumon permesi plenuman ordonon kiu finus naskorajtan civitanecon en Usono. Ĉi tiu ordono, subskribita de Prezidanto Trump, celas ĉesigi aŭtomatan civitanecon por infanoj naskitaj en Usono se iliaj gepatroj estas en la lando kontraŭleĝe aŭ provizore. Tamen, federaciaj juĝistoj en pluraj ŝtatoj blokis la ordonon, nomante ĝin kontraŭkonstitucia. La administracio argumentas ke ĉi tiuj tutlandaj prohibicioj superas la juĝan aŭtoritaton kaj malhelpas la funkciojn de la plenuma branĉo. Nun, la Supera Kortumo estas petata limigi ĉi tiujn prohibiciojn nur al tiuj rekte implikitaj en la procesoj. La 14-a Amendo, kiu garantias civitanecon al iu ajn naskita en Usono, estas ĉe la koro de ĉi tiu jura batalo. Juraj fakuloj kredas ke la propono malverŝajne sukcesos pro la klara lingvo de la Konstitucio.
+
 ### Mark Carney Fariĝas la Nova Ĉefministro de Kanado Meze de Komercaj Streĉoj kun Trump
 
 Mark Carney estis ĵurkonfirmita kiel la nova ĉefministro de Kanado, transprenante de Justin Trudeau. Carney, iama centra bankisto, eniras la gvidadon dum defia tempo, kiam Kanado alfrontas komercan militon iniciatitan de la usona prezidanto Donald Trump. Malgraŭ la streĉoj, Carney esprimis fidon pri kunlaborado kun Trump, emfazante la gravecon de reciproka respekto kaj kunlaboro. Li celas protekti kanadajn laboristojn kaj fortigi la ekonomion dum li konservas la suverenecon de Kanado. La gvidado de Carney venas kun promeso diversigi komercajn partnerojn kaj fokusiĝi al ekonomia kresko, dum li prepariĝas navigi la kompleksecojn de internaciaj rilatoj kaj enlandaj defioj.
@@ -24,6 +25,7 @@ Por la unua fojo en 50 jaroj, siriaj druzaj religiaj gvidantoj transiris en la I
 ### Malkovro de Malgaja Loko en Jalisco: Familioj Malkovras Kartelajn Malhelajn Sekretojn
 
 En la ŝtato Jalisco, Meksiko, grupo da civitanoj serĉantaj siajn malaperintajn parencojn faris ŝokan malkovron ĉe fora ranĉo. Ili trovis tion kio ŝajnis esti amasa mortigejo uzita de fifama kartelo. La loko estis kovrita per dekoj da ŝuoj, amasoj da vestaĵoj, kaj karbigitaj ostfragmentoj. Ĉi tiu malkovro hontigis lokajn aŭtoritatojn kaj instigis la federacian registaron transpreni la enketon. Familioj el tuta lando komencis kontaktiĝi, esperante identigi vestaĵojn kiuj povus aparteni al iliaj amatoj. Ĉi tiu malgaja trovo reliefigas la daŭrantan krizon de pli ol 120,000 malaperintaj homoj en Meksiko kaj la malesperajn klopodojn de familioj por malkovri la veron pri siaj malaperintaj parencoj. La loko, iam uzita kiel kartela trejnejo, nun fariĝis simbolo de la perforto kaj senpuneco kiuj plagadas la regionon.
+
 ## Teknologio & Amaskomunikiloj
 
 ### Google Gemini: Via Nova Persona AI Asistanto
@@ -49,6 +51,7 @@ Potenca ŝtorma sistemo pretas liberigi severan veteron tra la Sudo, Mezokcident
 ### Eŭropo Alfrontas Morbilan Kreskon: Vekvoko por Vakcinadaj Klopodoj
 
 Pasintjare, Eŭropo spertis signifan kreskon en morbilaj kazoj, atingante la plej altajn nombrojn en pli ol 25 jaroj. Laŭ la Monda Organizaĵo pri Sano (MOS) kaj UNICEF, estis 127,350 raportitaj kazoj en 2024, kio estas duoblo de la nombro de la antaŭa jaro. Ĉi tiu alarmiga pliiĝo estas ĉefe atribuita al malkresko en vakcinadaj tarifoj dum la COVID-19 pandemio. Multaj infanoj, precipe tiuj sub kvin jaroj, estis trafitaj, kun pli ol duono bezonanta enhospitaligon. La reaperado de morbilo emfazas la kritikan bezonon por plibonigita vakcinada kovrado por eviti pliajn ekaperojn. Sanoficistoj emfazas ke sen altaj vakcinadaj tarifoj, sansekureco estas riskata, instigante landojn intensigi klopodojn por atingi subvakcinitajn komunumojn kaj restarigi imunigajn nivelojn al antaŭ-pandemiaj normoj.
+
 ## Socio kaj Kulturo
 
 ### Universitatoj Sub Skrutinio: Nova Ĉapitro en la Debato pri Diverseco
@@ -72,6 +75,7 @@ En la nova spiona suspensfilmo "Nigra Sako," reĝisorita de Steven Soderbergh, M
 ### Novokaino: Heroo Kiu Ne Sentas Doloron
 
 Nathan Caine ne estas via tipa heroo. En la nova agkomedia filmo "Novokaino," Nathan, ludita de Jack Quaid, estas banka ekzekutivo kun rara kondiĉo kiu igas lin nekapabla senti doloron. Lia trankvila vivo prenas dramecan turnon kiam lia kunlaboranto, Sherry, estas kidnapita fare de bankrabistoj. Malgraŭ sia kondiĉo, Nathan entreprenas aŭdacan savmisio, alfrontante danĝerajn situaciojn kiuj timigus plej multajn homojn. Dumvoje, li malkovras ke Sherry, kiu komence ŝajnigis havi sentojn por li kiel parto de la rabado, vere enamiĝis al li. Dum Nathan navigas tra serio da komikaj kaj ekscitaj eventoj, li lernas pri la emocia doloro de vundebleco kaj la longoj kiujn oni iros por amo kaj konekto. "Novokaino" kombinas humoron, agon, kaj tuŝon de romantiko, farante ĝin unika kaj amuza filmosperto.
+
 ### La Elektra Ŝtato: Kosta Misfajro en la Sciencfikciaj Ambicioj de Netflix
 
 La plej nova eldono de Netflix, "La Elektra Ŝtato," alvenis kun granda fanfaro kiel ĝia plej multekosta filmo ĝis nun, kostante mirindajn $320 milionojn. Tamen, la filmo renkontis vastan kritikon, atingante nur 19% en Rotten Tomatoes. Reĝisorita de Joe kaj Anthony Russo, la filmo okazas en alternativa 1990-aj jaroj kie robotoj iam integritaj en ĉiutagan vivon fariĝis kontraŭleĝaj. La rakonto sekvas Michelle, ludita de Millie Bobby Brown, dum ŝi entreprenas vojaĝon por trovi sian fraton, kies konscio loĝas en roboto. Malgraŭ sia alta produktadvaloro kaj stelplena rolantaro, inkluzive de Chris Pratt kaj Stanley Tucci, kritikistoj mallaŭdis la filmon pro ĝia konfuzita intrigo kaj manko de originaleco. Multaj recenzistoj argumentas, ke la provo de la filmo miksi nostalgion kun futurismaj elementoj malsukcesas, lasante spektantojn kun vide impresiva sed finfine malplena sperto. Dum Netflix daŭre investas peze en grandbudĝetaj filmoj, "La Elektra Ŝtato" servas kiel averta rakonto pri la graveco de substanco super spektaklo en rakontado.
