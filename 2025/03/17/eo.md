@@ -24,7 +24,7 @@ En lastatempaj semajnoj, la usona borso spertis signifan malkreskon, perdante $5
 
 ### Aŭdaca Movo de Amazon: Tranĉi 14,000 Administrajn Poziciojn por Ŝpari Miliardojn
 
-### Amazon planas signifan ŝanĝon per maldungado de preskaŭ 14,000 manaĝeroj por ŝpari ĝis $3.5 miliardojn jare. Ĉi tiu decido estas parto de la strategio de CEO Andy Jassy por simpligi operaciojn kaj redukti burokration ene de la kompanio. Per pligrandigo de la rilatumo de individuaj kontribuantoj al manaĝeroj, Amazon celas funkcii pli efike kaj rapide. La movo atendas redukti nenecesajn organizajn tavolojn, permesante al la kompanio adaptiĝi pli rapide al merkataj ŝanĝoj. Dum ĉi tiu decido kondukos al laborperdoj, Amazon ankaŭ dungas milojn da sezonaj kaj plentempaj dungitoj por la ferisezono, montrante sian engaĝiĝon al ekvilibrigo de laborfortaj bezonoj kun operacia efikeco.
+Amazon planas signifan ŝanĝon per maldungado de preskaŭ 14,000 manaĝeroj por ŝpari ĝis $3.5 miliardojn jare. Ĉi tiu decido estas parto de la strategio de CEO Andy Jassy por simpligi operaciojn kaj redukti burokration ene de la kompanio. Per pligrandigo de la rilatumo de individuaj kontribuantoj al manaĝeroj, Amazon celas funkcii pli efike kaj rapide. La movo atendas redukti nenecesajn organizajn tavolojn, permesante al la kompanio adaptiĝi pli rapide al merkataj ŝanĝoj. Dum ĉi tiu decido kondukos al laborperdoj, Amazon ankaŭ dungas milojn da sezonaj kaj plentempaj dungitoj por la ferisezono, montrante sian engaĝiĝon al ekvilibrigo de laborfortaj bezonoj kun operacia efikeco.
 
 ### Granda Paŝo de PepsiCo: Aĉetado de Poppi Soda
 
