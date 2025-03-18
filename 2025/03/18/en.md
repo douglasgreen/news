@@ -36,6 +36,10 @@ In recent news, Israel has resumed its military operations in Gaza, launching a 
 
 The Organisation for Economic Co-operation and Development (OECD) has lowered its economic growth forecasts for the U.S. and the world due to the impact of trade tariffs introduced by President Donald Trump. The global economy is now expected to grow by 3.1% in 2025, down from the previous estimate of 3.3%. In the U.S., growth is projected to slow to 2.2% in 2025 and 1.6% in 2026. These changes are attributed to increased trade barriers and geopolitical uncertainties, which are affecting investment and consumer spending. The OECD warns that if these trade policies continue, they could lead to higher inflation and further economic slowdown, impacting households and businesses worldwide.
 
+### Alphabet's Bold Move: Acquiring Wiz to Strengthen Cloud Security
+
+Alphabet, Google's parent company, has announced its biggest acquisition yet by agreeing to buy Wiz, a leading cloud security firm, for $32 billion. This strategic move aims to enhance Alphabet's cybersecurity capabilities in the competitive cloud-computing market. By integrating Wiz's advanced security solutions, Alphabet plans to bolster its cloud services against strong competitors like Amazon and Microsoft. The acquisition is set to finalize in 2026 and highlights the growing importance of cybersecurity in the tech industry. As cloud solutions become essential for global businesses, Alphabet's investment underscores its commitment to providing robust security measures, aligning itself with other tech giants that have made significant acquisitions to advance their offerings [1][2][4].
+
 ## Crime & Justice
 
 ### Trump Administration Challenges Big Law Firms Over Diversity Practices
