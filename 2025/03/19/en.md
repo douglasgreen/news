@@ -40,6 +40,10 @@ In Hungary, a new law has been passed that bans Pride events and allows the use 
 
 ## Technology & Media
 
+### The Dawn of Generalist Robotics: Nvidia's Isaac GR00T N1
+
+Nvidia has announced a groundbreaking development in robotics with the introduction of the Isaac GR00T N1 model. This open-source, pre-trained foundation model is designed to enhance the capabilities of humanoid robots, marking the beginning of the "age of generalist robotics." During the GTC 2025 keynote, Nvidia's CEO Jensen Huang showcased the model's potential by demonstrating a humanoid robot autonomously performing tidying tasks. The GR00T N1 model features a dual-system architecture inspired by human cognition, allowing robots to perform complex tasks by combining fast reflexive actions with thoughtful planning. This innovation is set to revolutionize the field of robotics by enabling developers to customize and enhance robot behaviors for specific tasks, paving the way for more versatile and intelligent humanoid robots.
+
 ### NVIDIA's Tiny AI Supercomputer: DGX Spark Set to Launch This Summer
 
 NVIDIA is set to revolutionize desktop computing with the launch of its DGX Spark, the world's smallest AI supercomputer, arriving this summer. Announced at the GTC conference by CEO Jensen Huang, the DGX Spark, previously known as Project Digits, is powered by the GB10 Grace Blackwell Superchip. This compact device, about the size of a Mac mini, can perform up to 1,000 trillion operations per second, making it perfect for fine-tuning advanced AI models. Priced at $3,000, the DGX Spark is available for preorder now. For those needing even more power, NVIDIA also introduced the DGX Station, featuring the GB300 Grace Blackwell Ultra Desktop Superchip, offering 20 petaflops of performance. While the DGX Station's price is yet to be announced, it promises to cater to researchers and data scientists with its impressive 784GB of unified system memory. Both devices highlight NVIDIA's commitment to bringing AI capabilities to desktops, enabling developers and researchers to work on large AI models without relying on data centers.
