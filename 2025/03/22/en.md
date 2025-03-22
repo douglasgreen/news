@@ -1,5 +1,3 @@
-Write a title and a 1 paragraph story about this topic from the news using simple English:
-
 ## Politics & Governance
 
 ### Homeland Security's Decision Leaves Thousands in Uncertainty
@@ -41,6 +39,10 @@ Oil prices have been on the rise recently due to a combination of factors. The U
 On Saturday, London Heathrow Airport resumed operations after a fire at a nearby electrical substation caused a daylong closure, leading to widespread travel chaos. The fire, which broke out on Thursday night, resulted in the cancellation or diversion of over 1,000 flights, affecting hundreds of thousands of passengers worldwide. The airport, one of the busiest in the world, lost power equivalent to that of a midsize city, and although backup systems were in place, they were insufficient to run the entire airport. By Saturday, power was fully restored, and additional flights were scheduled to accommodate the disrupted passengers. Authorities are investigating the cause of the fire, but it is not currently considered suspicious. The incident highlighted the airport's reliance on a single electrical substation and raised questions about its resilience to such disruptions.
 
 ## Crime & Justice
+
+### Bayer Faces $2 Billion Verdict Over Roundup Weed Killer
+
+In a recent court case, Bayer was ordered to pay $2 billion in damages due to claims that its Roundup weed killer causes cancer. The jury, which included several college-educated members, decided on this large sum after hearing arguments from both sides. This verdict is seen as a significant turning point, as it may lead Bayer to reconsider its legal strategy and possibly settle other similar cases. The decision highlights ongoing concerns about the safety of Roundup and the responsibility of companies to warn consumers about potential risks.
 
 ### Newsmax Settles $40 Million Defamation Suit Over Election Claims
 
@@ -170,7 +172,7 @@ Jonathan Majors is on a mission to rebuild his career after a significant fall f
 
 ### A Life in the Saddle: Remembering Jack Lilley
 
-Jack Lilley, a beloved figure in the entertainment industry, passed away at the age of 91. Known for his roles as an actor, stuntman, and animal coordinator, Jack's career spanned over seven decades. He was a skilled horseman, which helped him land roles in classic Westerns like *Wagon Train* and *Zorro*. Jack also appeared in popular series such as *Little House on the Prairie* and *Gunsmoke*. His work extended to films, including collaborations with legends like John Wayne and Clint Eastwood. Jack's family announced his passing on Instagram, sharing heartfelt tributes to a man who left a lasting impact on Hollywood. His legacy lives on through the countless productions he contributed to and the many people he inspired throughout his life.
+Jack Lilley, a beloved figure in the entertainment industry, passed away at the age of 91. Known for his roles as an actor, stuntman, and animal coordinator, Jack's career spanned over seven decades. He was a skilled horseman, which helped him land roles in classic Westerns like _Wagon Train_ and _Zorro_. Jack also appeared in popular series such as _Little House on the Prairie_ and _Gunsmoke_. His work extended to films, including collaborations with legends like John Wayne and Clint Eastwood. Jack's family announced his passing on Instagram, sharing heartfelt tributes to a man who left a lasting impact on Hollywood. His legacy lives on through the countless productions he contributed to and the many people he inspired throughout his life.
 
 ## Sports & Games
 
@@ -189,3 +191,7 @@ Oscar Piastri, driving for McLaren, achieved a significant milestone by securing
 ### Remembering George Foreman: A Boxing Legend and Beloved Entrepreneur
 
 George Foreman, the legendary heavyweight boxing champion, passed away at the age of 76. Known for his powerful punches and charismatic personality, Foreman first captured the world’s attention by winning an Olympic gold medal in 1968. He became the world heavyweight champion in 1973 after a stunning victory over Joe Frazier. Despite losing to Muhammad Ali in the famous "Rumble in the Jungle," Foreman made a remarkable comeback in 1994, becoming the oldest heavyweight champion at 45. Beyond boxing, he was a successful entrepreneur, famous for the George Foreman Grill, which sold over 100 million units worldwide. Foreman was also a devout preacher and a loving family man, leaving behind a legacy of faith, resilience, and kindness. His life story is a testament to overcoming adversity and finding success both inside and outside the ring.
+
+### Maine Universities Comply with Federal Order to Exclude Transgender Athletes from Women's Sports
+
+In response to a directive from the Trump administration, universities in Maine have agreed to exclude transgender women from participating in women's sports. This decision came after the administration threatened to withhold federal funding, citing violations of Title IX, which prohibits sex-based discrimination in educational programs. The University of Maine System, which includes seven universities, confirmed its compliance with the new federal and NCAA rules. These rules were updated following an executive order by President Trump, which mandates that only individuals assigned female at birth can compete in women's sports. The university system emphasized its commitment to adhering to federal laws to ensure continued access to essential funding, which supports education and research initiatives across the state. This compliance marks a significant shift in policy, aligning with the federal government's stance on transgender participation in sports.
