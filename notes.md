@@ -24,6 +24,7 @@ Write a title and a 1 paragraph story about this topic from the news using simpl
    - Elections
    - International Affairs
    - Immigration & Migration
+   - Sort in order: United States, Americas, Europe, Asia, Other
 
 ## Economy & Business
    - Economy & Work
@@ -41,28 +42,6 @@ Write a title and a 1 paragraph story about this topic from the news using simpl
    - Terrorism
    - Legal Affairs
    - Privacy & Surveillance
-
-## Technology & Media
-   - Internet & Technology
-   - Technology Innovations
-   - Cybersecurity
-   - News Habits & Media
-   - Social Media Influence
-
-## Science & Nature
-   - Science
-   - Environment
-   - Climate Change
-   - Weather Events
-   - Space Exploration
-   - Natural Disasters
-   - Wildlife & Conservation
-
-## Health & Disease
-   - Health & Medicine
-   - Public Health Crises
-   - Health Science
-   - Hospitals & Doctors
 
 ## Society & Culture
    - Religion
@@ -85,6 +64,30 @@ Write a title and a 1 paragraph story about this topic from the news using simpl
 ## Sports & Games
    - Sports Events
    - Competitive Gaming
+
+## Technology & Media
+   - Internet & Technology
+   - Technology Innovations
+   - Cybersecurity
+   - News Habits & Media
+   - Social Media Influence
+
+## Science & Nature
+   - Science
+   - Environment
+   - Climate Change
+   - Weather Events
+   - Space Exploration
+   - Wildlife & Conservation
+
+## Health & Disease
+   - Health & Medicine
+   - Public Health Crises
+   - Natural Disasters
+   - Health Science
+   - Hospitals & Doctors
+   - Notable Illnesses & Injuries
+   - Obituraries
 ```
 
 ## Critera
