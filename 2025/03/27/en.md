@@ -1,5 +1,3 @@
-Write a title and a 1 paragraph story about this topic from the news using simple English:
-
 ## Politics & Governance
 
 ### Democrat James Malone's Surprising Victory in Pennsylvania Sparks Hope for Change
