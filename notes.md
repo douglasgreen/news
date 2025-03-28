@@ -99,6 +99,8 @@ Topics should be:
 - Personally relevant or interesting
 - Popularity: more than 5K ratings (movies, TV, games)
 
+The category should be chosen based on who or what is affected rather than who or what is taking action. In other words, the object matters more than the subject.
+
 ## Length
 
 In each section:
