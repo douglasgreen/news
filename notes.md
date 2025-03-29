@@ -20,7 +20,6 @@ Write a title and a 1 paragraph story about this topic from the news using simpl
 ## Politics & Governance
    - Politics & Policy
    - Government Operations
-   - Court Rulings
    - Elections
    - International Affairs
    - Immigration & Migration
@@ -39,6 +38,7 @@ Write a title and a 1 paragraph story about this topic from the news using simpl
 ## Crime & Justice
    - Crime & Justice
    - Arrests, Trials & Verdicts
+   - Court Rulings
    - Terrorism
    - Legal Affairs
    - Privacy & Surveillance
