@@ -1,5 +1,3 @@
-Write a title and a 1 paragraph story about this topic from the news using simple English:
-
 ## Politics & Governance
 
 ### Finnish President's Surprise Visit to the U.S. Strengthens Arctic Ties
@@ -25,6 +23,10 @@ In recent years, a growing number of U.S. states have enacted laws to ban device
 ### Ukraine Accuses Russia of War Crime After Hospital Attack
 
 In a recent escalation of the ongoing conflict, Ukraine has accused Russia of committing a war crime following a drone strike on a military hospital in Kharkiv. The attack, which occurred overnight, resulted in significant damage to the hospital and nearby residential buildings. Ukrainian officials reported that the strike was deliberate and targeted, injuring soldiers who were receiving treatment at the facility. The assault also claimed the lives of at least two civilians and wounded 25 others, including a 15-year-old girl. Ukraine's General Staff condemned the attack as a violation of international humanitarian law and vowed to present evidence to international criminal justice bodies. Ukrainian President Volodymyr Zelenskyy called for a strong response from Western allies, emphasizing the need for increased pressure on Russia to halt its aggressive actions. As the conflict continues, Ukraine remains steadfast in its efforts to defend its territory and seek justice for the victims of these attacks.
+
+### Police Raid on Quaker Meeting House Sparks Outcry
+
+In a surprising turn of events, the Metropolitan Police forcefully entered a Quaker meeting house in London, arresting six women who were part of a protest group called Youth Demand. The raid, involving over 20 officers, took place during a meeting where the group was discussing plans for non-violent protests against climate change and the situation in Gaza. This incident marks the first time in living memory that arrests have been made in a Quaker meeting house, a place traditionally known for its peaceful gatherings. The Quakers, known for their long-standing commitment to non-violence and social justice, condemned the police's actions as an aggressive violation of their place of worship. The police justified their actions by citing the need to prevent activities that could lead to serious disruptions in London. The event has sparked a debate about the balance between the right to protest and maintaining public order, with many criticizing the police's approach as excessively heavy-handed.
 
 ## Society & Culture
 
