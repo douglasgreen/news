@@ -22,7 +22,7 @@ if ($content === FALSE) {
 
     preg_match_all('/\pL+/u', $content, $words);
     $wordCount = count($words[0]);
-    $parCount = (int) min(ceil($wordCount / 500), 4);
+    $parCount = (int) min(ceil($wordCount / 3000), 3);
 
     // Print the plain text content
     $ending = $parCount === 1 ? '' : 's';

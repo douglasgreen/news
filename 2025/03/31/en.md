@@ -115,4 +115,3 @@ In a heartbreaking incident, eight medics from the Palestine Red Crescent Societ
 ### Farewell to a Versatile Actor: Bruce Glover Passes Away at 92
 
 Bruce Glover, a talented actor known for his memorable roles in "Chinatown" and as the villainous Mr. Wint in the James Bond film "Diamonds Are Forever," has died at the age of 92. Born in Chicago in 1932, Glover's passion for acting began at a young age, and he went on to have a diverse career in film, television, and theater. He was celebrated for his unique approach to acting, often bringing his own creative ideas to his roles. Glover's son, Crispin Glover, shared the news of his father's passing on Instagram, highlighting the deep bond they shared both personally and professionally. Bruce Glover's legacy as an actor and acting coach will be remembered by many who admired his work and learned from his teachings.
-
