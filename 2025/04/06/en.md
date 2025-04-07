@@ -8,6 +8,10 @@ In a recent development, the Israeli military has altered its initial explanatio
 
 ## Economy & Business
 
+### Global Trade Talks Ignite as 50 Nations Respond to U.S. Tariffs
+
+The recent announcement of new tariffs by the Trump administration has sparked a wave of international negotiations, with 50 countries eager to engage in trade discussions. Agricultural Secretary Brooke Rollins highlighted the swift response from global partners, emphasizing the administration's focus on revitalizing the American economy by prioritizing domestic goods and industries. Rollins noted that countries like Taiwan have already proposed zero tariffs as a basis for trade talks, while others are keen to address existing trade imbalances. The tariffs, which aim to protect American farmers and industries, have led to a flurry of diplomatic activity, as nations seek to mitigate the impact on their economies. Despite concerns about potential retaliatory measures and market volatility, Rollins remains optimistic about achieving positive outcomes that will bolster the U.S. economy and strengthen its position as a global economic leader.
+
 ### Canada Steps Up as China Limits Rare Earth Exports to the U.S.
 
 In response to U.S. tariffs imposed by President Donald Trump, China has decided to restrict exports of rare earth minerals to the United States. These minerals are crucial for various industries, including technology and defense. As China controls a significant portion of the global supply, this move could lead to shortages in the U.S. However, Canada is emerging as a potential alternative supplier. With companies like Rio Tinto in Quebec producing scandium, Canada is poised to fill some of the gaps left by China's export restrictions. This shift could help stabilize the supply chain for rare earths, which are essential for manufacturing electronics and aerospace components. As Canada ramps up its production capabilities, it may play a crucial role in supporting U.S. industries that rely heavily on these critical minerals.
