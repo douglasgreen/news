@@ -1,5 +1,3 @@
-Write a title and a 1 paragraph story about this topic from the news using simple English:
-
 ## Politics & Governance
 
 ### U.S. Budget Deficit Reaches $1.3 Trillion Amid Rising Costs
@@ -10,7 +8,7 @@ In the first half of fiscal year 2025, the U.S. budget deficit has surged to ove
 
 In recent times, the United States and Mexico have been at odds over a long-standing water-sharing agreement. This dispute stems from a treaty signed in 1944, which requires Mexico to send a significant amount of water to the U.S. every five years. However, due to severe droughts and increasing local demand, Mexico has struggled to meet its obligations, delivering only a fraction of the required water. This shortfall has led to tensions, with the U.S. threatening tariffs and sanctions to ensure compliance. Mexican officials argue that climate change and infrastructure issues have made it difficult to fulfill the treaty's terms. As both countries navigate this complex issue, the potential for conflict looms, highlighting the challenges of managing shared natural resources in a changing climate.
 
-## China Admits to Cyber Attacks on US in Secret Meeting
+### China Admits to Cyber Attacks on US in Secret Meeting
 
 In a surprising turn of events, Chinese officials admitted in a secret meeting that their government was behind a series of cyberattacks on U.S. infrastructure. This revelation came during a closed-door session, where Chinese representatives acknowledged their role in targeting U.S. ports, airports, and utilities. The attacks were reportedly linked to America's support for Taiwan, a sensitive issue between the two nations. The U.S. government, already aware of these cyber threats, has been taking steps to protect its critical infrastructure. This admission has further strained the relationship between the U.S. and China, as both countries continue to grapple with the implications of these cyber activities.
 
@@ -24,6 +22,10 @@ In a bold move, the Pentagon has decided to terminate IT and consulting contract
 
 In a significant move, China announced it will raise tariffs on US goods from 84% to 125%, starting this Saturday. This decision comes as a response to the ongoing trade tensions between the two countries, which have been escalating over recent months. The Chinese government stated that this measure is a counteraction to the US's previous tariff increases on Chinese products. The trade war, which has seen both nations imposing hefty tariffs on each other's goods, threatens to disrupt global trade and increase prices for consumers. China's latest tariff hike signals its determination to stand firm against US pressure, despite the potential economic risks involved. As both countries continue to engage in this economic standoff, the global market watches closely, anticipating further developments in this high-stakes trade conflict.
 
+### Trade War Worries: How Tariffs Are Affecting American Confidence
+
+In April 2025, American consumer sentiment took a significant hit, reaching its lowest point since the pandemic. This decline is largely attributed to the ongoing trade wars initiated by President Donald Trump, which have sparked fears of job losses and rising inflation. The University of Michigan's consumer sentiment index fell by 11%, reflecting widespread concern across various demographics. Many Americans are worried about the potential for increased unemployment and long-term inflation, which is now expected to reach 4.4%. These concerns are exacerbated by the tariffs imposed on imports from countries like China, Canada, and Mexico, leading to higher prices for goods. As a result, consumers are becoming more cautious with their spending, which could further impact the economy. The situation highlights the complex interplay between trade policies and consumer confidence, with many hoping for a resolution that stabilizes the economic outlook.
+
 ## Crime & Justice
 
 ### Supreme Court Orders Return of Maryland Man Mistakenly Deported
@@ -33,6 +35,14 @@ Kilmar Abrego Garcia, a Maryland resident, was mistakenly deported to El Salvado
 ### Stanford Protesters Face Felony Charges After Campus Occupation
 
 Last year, a group of pro-Palestinian demonstrators at Stanford University took a bold step by occupying the university president's office. Their protest was aimed at urging the university to divest from companies involved in military actions in the Israel-Hamas conflict. However, the protest turned destructive, with the group allegedly causing significant damage to the building, including broken windows and vandalized property. This week, the Santa Clara County District Attorney charged twelve of these protesters with felony vandalism and conspiracy to trespass. The charges have sparked a debate about the balance between free speech and criminal behavior, with some arguing that the charges are too harsh and could stifle student activism. The DA, however, emphasized that while dissent is a fundamental right, the actions taken by the protesters crossed into criminal territory, necessitating legal action.
+
+### Judge Allows Immigration Enforcement in Churches, Sparking Debate
+
+A federal judge has ruled that immigration agents can carry out enforcement operations in houses of worship, siding with the Trump administration. This decision came after religious groups filed a lawsuit, arguing that the policy violated their right to practice religion freely. The judge, Dabney Friedrich, noted that there have been only a few enforcement actions at these locations and found no evidence that churches are being specifically targeted. Although attendance at houses of worship has declined, it is unclear if this is directly due to the policy. The judge concluded that the plaintiffs did not show a credible threat of enforcement to justify blocking the policy. This ruling has sparked a debate about the balance between immigration enforcement and religious freedom.
+
+### Judge Rules Columbia Student Mahmoud Khalil Can Be Deported
+
+Mahmoud Khalil, a graduate from Columbia University and a pro-Palestinian activist, is facing deportation from the United States after a judge ruled in favor of the government's case against him. The decision was based on a memo from Secretary of State Marco Rubio, which claimed that Khalil's beliefs and associations were against U.S. foreign policy interests. Khalil, who has been detained since March, was involved in leading protests at Columbia University against Israel. His legal team argues that the case is a violation of his First Amendment rights and sets a dangerous precedent for free speech. Khalil's wife, who is expecting their first child, expressed her devastation over the ruling and vowed to continue advocating for his return. The case has sparked protests and debates about the limits of free speech and the use of immigration laws to suppress dissent.
 
 ## Society & Culture
 
@@ -75,6 +85,10 @@ Justin Rose had an incredible start at the Masters, taking the lead with a stunn
 The Google Pixel 9a has made its debut as a standout mid-range smartphone, boasting a fresh design that ditches the previous camera bar for a sleeker look. Despite lacking native Qi2 wireless charging support, Spigen has stepped in with a variety of MagFit accessories to enhance the Pixel 9a experience. These include the Rugged Armor MagFit and Ultra Hybrid MagFit cases, which offer both protection and style, incorporating magnets for compatibility with MagSafe and Qi2 chargers. Spigen's accessory lineup also features innovative options like phone grips with kickstand or bottle opener functions, MagFit wallets for carrying essentials, and the Cryo Max car mount that combines magnetic phone holding with wireless charging and cooling fans.
 
 ## Science & Nature
+
+### Trump's Budget Cuts Threaten Climate Research and Jobs
+
+The Trump administration has proposed a significant reduction in funding for the National Oceanic and Atmospheric Administration (NOAA), aiming to cut about 75% of its climate research budget. This move could lead to the elimination of hundreds of jobs for scientists dedicated to studying global warming. The proposed budget cuts are expected to severely impact NOAA's ability to forecast weather accurately and conduct essential climate research. Critics, including Representative Zoe Lofgren, argue that these cuts will undermine weather forecasting capabilities and endanger communities by leaving them more vulnerable to natural disasters. The administration's plan has sparked strong opposition, as it threatens to dismantle one of the world's leading Earth sciences research operations, potentially crippling industries that rely on accurate weather and climate data.
 
 ### Unlocking the Secrets of Our Closest Relatives: The Great Ape Genome Breakthrough
 
