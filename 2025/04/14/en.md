@@ -1,5 +1,3 @@
-Write a title and a 1 paragraph story about this topic from the news using simple English:
-
 ## Politics & Governance
 
 ### Daniel Noboa Wins Ecuador's Presidential Election Amid Controversy
@@ -63,6 +61,10 @@ Rory McIlroy achieved a monumental milestone in his golfing career by winning th
 Apple is reportedly working on two new headsets that promise to change the way we interact with technology. The first is a successor to the Vision Pro, which will be cheaper and lighter, addressing some of the main concerns of the current model. The second is a new Mac-tethered headset, which will connect directly to a Mac, offering a more immersive experience with reduced latency. This move is part of Apple's broader strategy to lead in the augmented reality space, with CEO Tim Cook prioritizing the development of industry-leading AR glasses. While the Vision Pro 2 is expected to enter mass production soon, the timeline for the Mac-tethered headset remains uncertain. However, these innovations highlight Apple's commitment to pushing the boundaries of spatial computing and enhancing user experiences.
 
 ## Science & Nature
+
+### Historic All-Female Space Journey with Blue Origin
+
+On April 14, 2025, Jeff Bezos' Blue Origin made history by launching an all-female celebrity crew into space. The crew included pop star Katy Perry, Bezos' fiancée Lauren Sánchez, and CBS presenter Gayle King, among others. This mission marked the first all-woman spaceflight since 1963. The New Shepard rocket took off from West Texas, carrying the crew 62 miles above Earth to the Kármán line, the boundary of space. During the 11-minute journey, the women experienced weightlessness and viewed Earth from space. Upon returning, the crew expressed their awe and excitement, with Katy Perry feeling "super connected to life" and Gayle King appreciating the ground upon landing. Despite some criticism about the mission's purpose and cost, the crew emphasized the importance of inspiring future generations and expanding the possibilities of space exploration for women.
 
 ### Bats with Tiny Microphones Show How They Avoid Collisions in Crowded Skies
 
