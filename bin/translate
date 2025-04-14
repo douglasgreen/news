@@ -10,6 +10,7 @@ fi
 # Get the input file and language from command line arguments
 INPUT_FILE=$1
 LANGUAGE=$2
+MODEL="gpt-4.1"
 
 # Activate the Python virtual environment
 source ~/myenv/bin/activate
@@ -72,11 +73,11 @@ if [ ${#files[@]} -eq 0 ]; then
 fi
 
 # Process the first file (overwrite output)
-translate gpt-4o "$LANGUAGE" "${files[0]}" > "$OUTPUT_FILE"
+translate "$MODEL" "$LANGUAGE" "${files[0]}" > "$OUTPUT_FILE"
 
 # Process remaining files (append to output)
 for ((i=1; i<${#files[@]}; i++)); do
-    translate gpt-4o "$LANGUAGE" "${files[$i]}" >> "$OUTPUT_FILE"
+    translate "$MODEL" "$LANGUAGE" "${files[$i]}" >> "$OUTPUT_FILE"
 done
 
 echo "Translation to $LANGUAGE completed. Results saved in $OUTPUT_FILE"
