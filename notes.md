@@ -4,17 +4,17 @@
 
 Use Deep Research with this inquiry:
 
-I am writing a special report to cover news topics. Write a summary of the following in simple English to give background and explanation:
+I am writing a special report to cover news topics. Write a summary of the following to give background and explanation:
 
 - topic
 
 ### Summaries
 
-Summarize and explain this text using simple English in 2-3 paragraphs:
+Summarize and explain this text in 2-3 paragraphs:
 
 ## Headings
 
-Write a title and a 1 paragraph story about this topic from the news using simple English:
+Write a title and a 1 paragraph story about this topic from the news:
 
 ```
 ## Politics & Governance
