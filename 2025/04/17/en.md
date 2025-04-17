@@ -26,6 +26,10 @@ In a groundbreaking discovery, astronomers have detected potential biosignatures
 
 ## Health & Disease
 
+### A Landmark Treaty: Global Unity in Pandemic Preparedness Without the US
+
+In a historic move, the World Health Organization (WHO) member states have agreed on the first global pandemic treaty, marking a significant step towards international cooperation in health crisis management. This treaty, finalized after three years of intense negotiations, aims to prevent the chaotic and unequal responses seen during the COVID-19 pandemic. Notably absent from this agreement is the United States, which withdrew from the negotiations following a change in administration. Despite this, the treaty is celebrated as a victory for multilateralism, demonstrating that global solidarity can prevail even in a divided world. The agreement includes commitments to equitable vaccine distribution, enhanced protections for health workers, and improved global data sharing on emerging pathogens. While the treaty awaits formal adoption, it represents a foundational shift towards a more unified global health strategy, underscoring the importance of collaboration in addressing shared threats.
+
 ### Kennedy's Controversial Stance on Autism Sparks Debate
 
 In his first news conference as the U.S. Health and Human Services Secretary, Kennedy stirred controversy by labeling autism as an "epidemic" and attributing its rise to "environmental toxins." His remarks have drawn criticism from researchers who argue that such claims lack scientific backing and could mislead the public. Kennedy's assertion that autism is "preventable" has intensified the debate, with experts emphasizing the need for evidence-based approaches to understanding autism spectrum disorders. As the discussion unfolds, the focus remains on balancing public health messaging with scientific integrity.
