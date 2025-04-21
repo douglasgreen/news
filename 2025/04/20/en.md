@@ -1,5 +1,3 @@
-Write a title and a 1 paragraph story about this topic from the news:
-
 ## Politics & Governance
 
 ### From Conviction to Candidacy: The Rise of Pardoned Jan. 6 Rioters in Politics
