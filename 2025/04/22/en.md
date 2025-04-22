@@ -1,5 +1,3 @@
-Write a title and a 1 paragraph story about this topic from the news:
-
 ## Politics & Governance
 
 ### Haiti on the Brink: UN Warns of Escalating Gang Crisis
