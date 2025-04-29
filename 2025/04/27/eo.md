@@ -21,6 +21,7 @@ En la vespero de la 26-a de aprilo 2025, detrua okazaĵo okazis ĉe la Lapu Lapu
 ### Rivero de Lumo: La Festivalo de Lotusa Lanterno en Sud-Koreio Lumigas Seulon
 
 Ĉi-semajnfine, urbocentro Seulo transformiĝis en luman feston dum miloj kolektiĝis por la Yeon Deung Hoe, aŭ Festivalo de Lotusa Lanterno, honorante la venontan naskiĝtagon de Budho je la 5-a de majo. Partoprenantoj, multaj vestitaj per tradicia Hanbok, paradis tra la urbaj stratoj portante brilajn lanternojn formitajn kiel lotuso-floroj, drakoj, elefantoj kaj feniksoj. La festivalo, kun historio etendiĝanta pli ol 1 200 jarojn, estas agnoskita kiel Nacia Nemateria Kultura Heredaĵo de Koreio kaj kiel UNESKO Nemateria Kultura Heredaĵo de Homaro. Temploj tra la lando, inkluzive de la Jogye Templo en Seulo, kaj famaĵoj kiel la Cheonggye Rivereto estis ornamitaj per buntaj dekoracioj, kreante fascinan spektaklon. La festoj kulminos je la naskiĝtago de Budho kun ceremonioj ĉe temploj tra la lando, invitante ambaŭ lokanojn kaj internaciajn vizitantojn partopreni en ĉi tiu radia tradicio.
+
 ## Artoj & Amuziĝo
 
 ### 'Havoc' de Tom Hardy Liberigas Brutalan Agon kaj Emocian Profundecon ĉe Netflix
@@ -44,6 +45,7 @@ Artefarita inteligenteco progresas kun miriga rapideco, kun novaj esploroj montr
 ### Juraŝika Ŝiko: T-Rex-Ledaj Manportiloj Pretiĝas Brui en Luksmoda Mondo
 
 En pionira kunfandiĝo de scienco kaj modo, esploristoj evoluigas la unuajn manportilojn el laboratorio-kreskigita Tyrannosaurus rex-ledero. Ĉi tiu noviga entrepreno, gvidata de Lab-Grown Leather Ltd., The Organoid Company kaj kreema agentejo VML, uzas progresintan histoinĝenieradon kaj sintezan biologion por rekonstrui T. rex-kolagenon el fosiliĝintaj aminoacidaj fragmentoj. Uzante AI por kompletigi antikvajn proteinsekvencojn, sciencistoj sintezas DNA-on kiu kodas por la kolageno, kiu poste estas enmetita en bestajn ĉelojn por produkti laboratorio-kreskigitan T. rex-lederon. La rezulto estas daŭrigebla, senkrueleca materialo kiu spegulas la daŭrecon kaj teksturon de tradicia ledo. Komencaj aplikoj fokusos je luksaj akcesoraĵoj, kun ĉefverka moda objekto atendata antaŭ la fino de 2025. Preter modo, la teknologio havas potencialon por pli larĝaj aplikoj, inkluzive aŭtomobilajn internojn, donante rigardon al estonteco kie prahistoria biologio inspiras daŭrigeblan novigon.
+
 ## Sano kaj Malsano
 
 ### Imunoterapia Elprovo Donas Esperon al Kanceruloj

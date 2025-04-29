@@ -21,6 +21,7 @@ Preskaŭ jardekon post kiam Kim Kardashian estis ligita, buŝoŝtopita kaj rabit
 ### La Heredaĵo de Shakespeare ĉe Aŭkcio: Kompleta Folio-Aro Povus Atendi 6 Milionojn da Dolaroj
 
 En malofta literatura evento, Sotheby’s Londono aŭkcios kompletan aron de la Unua, Dua, Tria kaj Kvara Folioj de William Shakespeare la 23-an de majo 2025. Ĉi tio markas la unuan fojon ekde 1989 ke ĉiuj kvar eldonoj estas ofertataj kune kiel unu sola lotaĵo, kun taksita venda prezo inter £3,5 milionoj kaj £4,5 milionoj (proksimume $4,7 milionoj ĝis $6 milionoj). La Unua Folio, publikigita en 1623, estas laŭdata kiel "la plej grava eldonaĵo en la historio de angla literaturo," konservante 36 teatraĵojn—duono el kiuj neniam antaŭe estis presitaj, inkluzive de "Macbeth," "La Tempesto," kaj "La Dekdua Nokto". La Tria Folio, publikigita en 1663, estas la plej malofta pro la detruo de multaj ekzempleroj dum la Granda Fajro de Londono en 1666. Ĉi tiu aŭkcio ne nur ofertas al kolektantoj ŝancon posedi pecon de literatura historio sed ankaŭ festas la 461-an datrevenon de Shakespeare, substrekante la daŭran valoron de lia verko.
+
 ## Artoj & Amuzo
 
 ### Fatal Fury: City of the Wolves Rebruas Post 26 Jaroj
