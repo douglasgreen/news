@@ -2,9 +2,21 @@ Write a title and a 1 paragraph story about this topic from the news:
 
 ## Politics & Governance
 
+### Pentagon Dismantles Women, Peace, and Security Program Amid Political Controversy​
+
+On April 29, 2025, Defense Secretary Pete Hegseth announced the termination of the Department of Defense's Women, Peace, and Security (WPS) program, labeling it a "woke" initiative that distracts from the military's core mission of warfighting. This move sparked controversy, as the WPS program was originally signed into law by President Donald Trump in 2017 with bipartisan support, including from current officials like Secretary of State Marco Rubio and Homeland Security Secretary Kristi Noem. The program aimed to enhance women's roles in conflict prevention and resolution, aligning with U.S. national security objectives. Critics, including Senator Jeanne Shaheen, condemned the decision, arguing it undermines the valuable contributions of women in national security. Hegseth defended his action by accusing the Biden administration of distorting the program's original intent. The Pentagon will now comply only with the minimum legal requirements of the WPS Act and plans to seek its defunding in future budgets, raising concerns about the future of gender inclusion in defense policy.
+
 ## Economy & Business
 
+### Tariff Transparency Tussle: White House Rebukes Amazon Over Reported Pricing Plan
+
+A recent report suggesting that Amazon planned to display the cost of tariffs on product listings has sparked a sharp rebuke from the White House. Press Secretary Karoline Leavitt labeled the alleged move as a "hostile and political act," questioning why Amazon hadn't implemented such transparency during previous administrations. The controversy centers around a Punchbowl News article claiming Amazon would indicate how much of a product's price stems from tariffs imposed under President Trump's trade policies. In response, Amazon clarified that while its discount platform, Amazon Haul, had considered displaying import charges on certain products, the idea was never approved and will not be implemented. The situation escalated when President Trump reportedly called Amazon founder Jeff Bezos to express his displeasure. Following the call, Trump praised Bezos for resolving the issue swiftly. This incident underscores the ongoing tensions between major corporations and the federal government over trade policy transparency and its impact on consumers.
+
 ## Crime & Justice
+
+### Legal Storm: Trump Administration Faces 220 Lawsuits in First 100 Days
+
+In an unprecedented legal onslaught, President Donald Trump's administration has been hit with 220 lawsuits within the first 100 days of his second term, averaging more than two lawsuits per day. These legal challenges span a wide array of issues, including immigration policies, executive orders, and federal funding decisions. Federal judges have already blocked key parts of Trump's agenda, such as aspects of his immigration policy and efforts to roll back diversity and equity initiatives. The administration's aggressive use of executive orders—over 140 signed—has drawn significant legal scrutiny and resistance from states, civil rights groups, and other entities. Notably, Massachusetts has led numerous legal battles against Trump's directives, particularly those affecting sanctuary cities and immigration policies. As the administration continues to push its agenda, the mounting legal challenges underscore the contentious and litigious nature of Trump's early second term.
 
 ## Society & Culture
 
