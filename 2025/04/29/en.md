@@ -12,6 +12,10 @@ Write a title and a 1 paragraph story about this topic from the news:
 
 ## Sports & Games
 
+### Sacramento State Makes Slam Dunk Hire: Shaquille O’Neal Named Men’s Basketball GM​
+
+In a move that has sent shockwaves through the college basketball world, Sacramento State has appointed NBA legend Shaquille O’Neal as the General Manager of its men's basketball program. O’Neal, a four-time NBA champion and 15-time All-Star, will serve in the role unpaid, bringing his vast experience and star power to a program seeking rejuvenation after a 7–25 season. The appointment coincides with his son, Shaqir O’Neal, transferring to Sacramento State, and follows the hiring of former NBA player Mike Bibby as head coach. This strategic move aims to revitalize the Hornets' basketball program and navigate the evolving landscape of college athletics shaped by NIL policies and the transfer portal.
+
 ## Technology & Media
 
 ## Science & Nature
