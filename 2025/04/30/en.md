@@ -18,6 +18,10 @@ In the first quarter of 2025, the U.S. economy experienced a 0.3% annualized con
 
 ## Technology & Media
 
+### Duolingo Doubles Language Offerings with AI-Generated Courses Amid Workforce Shift
+
+In a significant move, Duolingo has unveiled 148 new language courses developed using generative AI, effectively doubling its course offerings in under a year . This expansion enables learners worldwide to access popular languages like Spanish, French, German, Italian, Japanese, Korean, and Mandarin across all 28 supported user interface languages . The rapid development was facilitated by AI-driven tools and a "shared content" system, allowing for swift customization of base courses . However, the announcement coincides with Duolingo's shift to an "AI-first" strategy, aiming to automate tasks traditionally handled by contractors . While the company assures that full-time staff positions remain unaffected, this transition has sparked concerns about job displacement and content quality among users and employees . Duolingo maintains that its AI-generated content meets rigorous quality standards and aligns with global language proficiency benchmarks .
+
 ## Science & Nature
 
 ## Health & Disease
