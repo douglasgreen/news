@@ -2,6 +2,14 @@ Write a title and a 1 paragraph story about this topic from the news:
 
 ## Politics & Governance
 
+### Trump's 2026 Budget Proposal: Deep Cuts to Domestic Programs, Boost to Defense Spending
+
+President Donald Trump has unveiled his fiscal year 2026 budget proposal, signaling a significant shift in federal spending priorities. The plan proposes a $163 billion reduction in non-defense discretionary spending—a 23% cut from the previous year—targeting sectors such as health care, education, renewable energy, and international aid. Concurrently, the budget allocates a 13% increase in defense spending, raising the Pentagon's budget to over $1 trillion, and boosts Department of Homeland Security funding by nearly 65%. The proposal also seeks to eliminate funding for public broadcasters NPR and PBS, and reduce allocations to agencies like the EPA, NIH, and HUD. While the administration frames these changes as efforts to enhance government efficiency and national security, critics argue that the cuts could undermine essential public services and social programs. As Congress holds the power to enact budgetary changes, the proposal sets the stage for intense legislative debates in the coming months.
+
+### Reform UK Shakes British Politics with Historic Local Election Surge
+
+In a stunning political upheaval, Nigel Farage's Reform UK party has dramatically altered the British political landscape by securing over 600 council seats and gaining control of at least nine councils, including Staffordshire, Durham, and Kent. The party also achieved a narrow victory in the Runcorn and Helsby by-election, capturing the seat from Labour by just six votes. Additionally, former Conservative MP Andrea Jenkyns won the inaugural Greater Lincolnshire mayoralty for Reform UK. These unprecedented gains have positioned Reform UK as a formidable force, surpassing both Labour and the Conservatives in projected national vote share, with 30% compared to Labour's 20% and the Conservatives' 15%. Farage heralded the results as "the beginning of the end of the Conservative party," signaling a significant shift in British politics away from traditional two-party dominance.
+
 ## Economy & Business
 
 ### U.S. Job Market Defies Tariff Turbulence with 177,000 New Positions in April
@@ -14,9 +22,17 @@ In April 2025, the U.S. labor market showcased unexpected strength by adding 177
 
 ## Arts & Entertainment
 
+### Thunderbolts Post-Credits Scene Sets Stage for 'Avengers: Doomsday' with Fantastic Four Reveal
+
+In a pivotal moment for the Marvel Cinematic Universe, the post-credits scene of Thunderbolts introduces a significant development: the arrival of the Fantastic Four. As the newly formed "New Avengers"—comprising Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster, and John Walker—settle into their base at the former Stark Tower, they witness a spacecraft emblazoned with a prominent "4" entering Earth's atmosphere, signaling the integration of Marvel's First Family into the broader narrative. Director Jake Schreier revealed that this scene was filmed on the set of the upcoming Avengers: Doomsday, hinting at the interconnectedness of future MCU storylines. The scene also teases internal conflicts, as Sam Wilson challenges the team's use of the "Avengers" name, and introduces the powerful character Bob Reynolds, aka Sentry, whose unstable psyche and immense power could have far-reaching implications. These developments set the stage for upcoming films, including Fantastic Four: First Steps (July 25, 2025) and Avengers: Doomsday (May 1, 2026), promising a new era of alliances and challenges within the MCU.
+
 ## Sports & Games
 
 ## Technology & Media
+
+### Microsoft Embraces Passwordless Future: New Accounts Default to Passkeys
+
+In a significant shift towards enhanced digital security, Microsoft has announced that all new Microsoft accounts will now be "passwordless by default." This means that users creating new accounts will no longer be prompted to set up traditional passwords. Instead, they will utilize more secure authentication methods such as passkeys, biometric verification (like facial recognition or fingerprints), and security keys. Passkeys, based on WebAuthn technology, employ cryptographic key pairs—one stored on the user's device and the other with the service provider—ensuring a higher level of security against phishing and brute-force attacks. Microsoft reports that passkey sign-ins boast a 98% success rate, significantly higher than the 32% success rate for password-based logins. This move aligns with a broader industry trend, as major tech companies like Apple and Google have also adopted passkeys, signaling a collective move towards a more secure, passwordless digital future.
 
 ### Public Broadcasting at a Crossroads: Federal Funding for NPR and PBS Terminated
 
