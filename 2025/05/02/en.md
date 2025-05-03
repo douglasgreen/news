@@ -1,5 +1,3 @@
-Write a title and a 1 paragraph story about this topic from the news:
-
 ## Politics & Governance
 
 ### Trump's 2026 Budget Proposal: Deep Cuts to Domestic Programs, Boost to Defense Spending
@@ -18,7 +16,15 @@ In April 2025, the U.S. labor market showcased unexpected strength by adding 177
 
 ## Crime & Justice
 
+### U.S. Designates Haitian Gangs as Terrorist Organizations Amid Escalating Crisis
+
+In a decisive move on May 2, 2025, the United States officially designated Haiti's dominant gang coalition, Viv Ansanm, and the central Artibonite-based Gran Grif gang as foreign terrorist organizations. Viv Ansanm, controlling approximately 85% of Port-au-Prince, has been implicated in severe acts of violence, including attacks on police stations and mass prison breaks. Gran Grif is notably responsible for a massacre in Pont-Sondé in October 2024, resulting in over 70 deaths. While U.S. Secretary of State Marco Rubio emphasized that "the age of impunity for those supporting violence in Haiti is over," humanitarian experts express concern that this designation could inadvertently hinder aid efforts. Given the gangs' control over critical infrastructure, including ports and roads, aid organizations often must negotiate with them to deliver essential supplies. With over half of Haiti's nearly 12 million residents facing severe hunger and more than a million displaced due to escalating violence, the designation's impact on humanitarian operations remains a pressing concern.
+
 ## Society & Culture
+
+### Trump Establishes Religious Liberty Commission, Challenging Church-State Separation
+
+On May 1, 2025, President Donald Trump signed an executive order creating the Religious Liberty Commission during a National Day of Prayer event at the White House. This move underscores his administration's commitment to promoting religious freedom and signals a departure from the traditional interpretation of the separation of church and state. Texas Lieutenant Governor Dan Patrick has been appointed to chair the commission, with former HUD Secretary Ben Carson serving as vice chair. The commission's mandate includes producing a comprehensive report on the foundations of religious liberty in America, identifying current threats, and recommending strategies to preserve and enhance protections for future generations. Critics argue that this initiative may blur the lines between church and state, while supporters view it as a necessary step to safeguard religious freedoms in the country.
 
 ## Arts & Entertainment
 
@@ -27,6 +33,10 @@ In April 2025, the U.S. labor market showcased unexpected strength by adding 177
 In a pivotal moment for the Marvel Cinematic Universe, the post-credits scene of Thunderbolts introduces a significant development: the arrival of the Fantastic Four. As the newly formed "New Avengers"—comprising Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster, and John Walker—settle into their base at the former Stark Tower, they witness a spacecraft emblazoned with a prominent "4" entering Earth's atmosphere, signaling the integration of Marvel's First Family into the broader narrative. Director Jake Schreier revealed that this scene was filmed on the set of the upcoming Avengers: Doomsday, hinting at the interconnectedness of future MCU storylines. The scene also teases internal conflicts, as Sam Wilson challenges the team's use of the "Avengers" name, and introduces the powerful character Bob Reynolds, aka Sentry, whose unstable psyche and immense power could have far-reaching implications. These developments set the stage for upcoming films, including Fantastic Four: First Steps (July 25, 2025) and Avengers: Doomsday (May 1, 2026), promising a new era of alliances and challenges within the MCU.
 
 ## Sports & Games
+
+### UK Sports Bodies Ban Transgender Women from Women's Competitions Following Supreme Court Ruling
+
+In a significant shift for British sports, major governing bodies—including the Football Association (FA) and the England and Wales Cricket Board (ECB)—have announced bans on transgender women participating in women's competitions. These decisions follow an April 2025 UK Supreme Court ruling that defined "woman" in the Equality Act 2010 as referring exclusively to biological females. Effective June 1, 2025, the FA's policy change will impact all levels of women's football in England, including amateur leagues, reversing previous guidelines that allowed transgender women to compete if they met specific medical criteria. Similarly, the ECB's new policy, effective immediately, restricts participation in women's and girls' cricket to those assigned female at birth, extending prior elite-level restrictions to all levels of the sport. While supporters argue these measures protect fairness and safety in women's sports, critics, including LGBTQ+ advocacy groups, contend they are exclusionary and detrimental to transgender athletes' rights and inclusion.
 
 ## Technology & Media
 
@@ -40,9 +50,12 @@ In a landmark decision on May 1, 2025, President Donald Trump signed an executiv
 
 ## Science & Nature
 
-### The Man Who Took the Bite: How Tim Friede’s Venomous Mission Could Revolutionize Snakebite Treatment
+### Mathematician Breaks 200-Year Algebra Barrier with Geode Numbers
 
-Tim Friede, a former truck mechanic from Wisconsin, has endured over 850 venomous snakebites in a daring, decades-long quest to build immunity and aid in the development of a universal antivenom. Driven by a desire to combat the global health crisis posed by snakebites—which claim approximately 140,000 lives annually—Friede subjected himself to bites from some of the world's deadliest snakes, including black mambas and cobras. His unique antibodies have become the foundation for a groundbreaking antivenom developed by biotech firm Centivax. This new treatment combines Friede's antibodies with a venom-inhibiting molecule, offering protection against a broad spectrum of snake species. Unlike traditional antivenoms derived from animal blood, this lab-produced solution aims to be more effective, affordable, and less likely to cause allergic reactions. Currently undergoing trials, this innovation holds the promise of transforming snakebite treatment worldwide.
+In a groundbreaking development, Professor Norman Wildberger of UNSW Sydney has introduced a novel approach to solving higher-degree polynomial equations—an enduring challenge in algebra for over two centuries. By employing "Geode numbers," a new sequence derived from power series, Wildberger circumvents the traditional reliance on irrational numbers and radicals. This method not only provides exact solutions to complex equations but also unveils deeper mathematical structures, potentially reshaping our understanding of algebraic systems.
 
 ## Health & Disease
 
+### The Man Who Took the Bite: How Tim Friede’s Venomous Mission Could Revolutionize Snakebite Treatment
+
+Tim Friede, a former truck mechanic from Wisconsin, has endured over 850 venomous snakebites in a daring, decades-long quest to build immunity and aid in the development of a universal antivenom. Driven by a desire to combat the global health crisis posed by snakebites—which claim approximately 140,000 lives annually—Friede subjected himself to bites from some of the world's deadliest snakes, including black mambas and cobras. His unique antibodies have become the foundation for a groundbreaking antivenom developed by biotech firm Centivax. This new treatment combines Friede's antibodies with a venom-inhibiting molecule, offering protection against a broad spectrum of snake species. Unlike traditional antivenoms derived from animal blood, this lab-produced solution aims to be more effective, affordable, and less likely to cause allergic reactions. Currently undergoing trials, this innovation holds the promise of transforming snakebite treatment worldwide.
