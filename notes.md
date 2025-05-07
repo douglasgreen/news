@@ -14,7 +14,7 @@ Summarize and explain this text in 2-3 paragraphs:
 
 ## Headings
 
-Write a title and a 3 paragraph story about this topic from the news:
+Write a title and a 3 paragraph news story about this topic from the news:
 
 ```
 ## Politics & Governance
